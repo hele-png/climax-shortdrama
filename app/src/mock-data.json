@@ -1,0 +1,498 @@
+[
+  {
+    "id": "s1",
+    "slug": "la-esposa-invisible",
+    "title": "La Esposa Invisible",
+    "niche": "Venganza de la esposa",
+    "logline": "Él la humilló delante de todos. Ella volvió siendo la dueña de su empresa.",
+    "synopsis": "Lucía soportó cinco años de desprecio en la mansión Valcárcel. La noche en que su marido le pide el divorcio para casarse con su amante, Lucía descubre que es la heredera secreta del grupo que está a punto de comprar la empresa de su familia política. Ahora tiene un plan… y nadie la verá venir.",
+    "totalEpisodes": 24,
+    "style": "Realista cinematográfico, tonos fríos azulados con acentos dorados",
+    "characters": [
+      {
+        "id": "lucia",
+        "name": "Lucía Ferrer",
+        "role": "Protagonista",
+        "description": "Esposa humillada, brillante y paciente. 29 años."
+      },
+      {
+        "id": "alvaro",
+        "name": "Álvaro Valcárcel",
+        "role": "Marido",
+        "description": "CEO arrogante, heredero de una familia en decadencia."
+      },
+      {
+        "id": "vera",
+        "name": "Vera Montes",
+        "role": "Amante",
+        "description": "Influencer ambiciosa que quiere el apellido Valcárcel."
+      }
+    ],
+    "episodes": [
+      {
+        "n": 1,
+        "title": "La firma del divorcio",
+        "hook": "Firmó el divorcio sonriendo… porque él no sabía lo que acababa de perder.",
+        "durationSec": 70,
+        "script": "## ESCENA 1 — Despacho de la mansión Valcárcel. Noche.\n*La lluvia golpea los ventanales. Álvaro desliza unos papeles sobre la mesa.*\n\n**ÁLVARO:** Firma. Vera y yo nos casamos en junio.\n**LUCÍA:** (en voz baja) Cinco años, Álvaro. Cinco años.\n**ÁLVARO:** Cinco años manteniéndote. Deberías darme las gracias.\n\n*Vera aparece en la puerta con una copa de vino, sonriendo.*\n\n**VERA:** ¿Todavía no ha firmado? Qué patética.\n**LUCÍA:** (coge el bolígrafo, sonríe) Tienes razón. Ya era hora.\n\n*Lucía firma. Su móvil vibra: \"Llamada entrante — Ginebra\".*\n\n**LUCÍA:** Disculpad. Tengo que contestar… a mi abogado.\n**ÁLVARO:** ¿Tu abogado? Tú no tienes ni un euro.\n\n*Lucía sale. Cierra la puerta. Responde.*\n\n**VOZ (teléfono):** Señorita Ferrer, ha llegado el momento. El grupo Aurum es suyo.",
+        "freeEpisode": true
+      },
+      {
+        "n": 2,
+        "title": "La cena de la vergüenza",
+        "hook": "La humillaron en la mesa. Diez minutos después, el banco llamó.",
+        "durationSec": 107,
+        "script": "## ESCENA 1 — Comedor de la mansión. Noche.\n*La familia Valcárcel cena. Lucía sirve el vino como una criada.*\n\n**SUEGRA:** Al menos sabe servir. Para algo ha valido.\n**VERA:** Lucía, querida, ¿me traes otra servilleta? Esta tiene tu olor.\n\n*Risas. Álvaro no levanta la vista del plato.*\n\n**LUCÍA:** Por supuesto. Disfrutad… mientras podáis.\n**ÁLVARO:** ¿Qué has dicho?\n\n*Suena el teléfono de Álvaro. Es el banco.*\n\n**ÁLVARO:** (palidece) ¿Cómo que han congelado el crédito? ¿Quién lo ha comprado?\n\n*Lucía, en la cocina, guarda su móvil. En la pantalla: \"Operación completada\".*",
+        "freeEpisode": true
+      },
+      {
+        "n": 3,
+        "title": "Una llamada desde Ginebra",
+        "hook": "\"Señora Ferrer, su abuelo ha muerto. Ahora usted es la dueña.\"",
+        "durationSec": 144,
+        "script": "## ESCENA 1 — Aeropuerto de Ginebra. Día.\n*Lucía baja del avión. Un hombre de traje la espera con un paraguas negro.*\n\n**ABOGADO:** Su abuelo dejó instrucciones claras. Nadie debía saber quién era usted hasta hoy.\n**LUCÍA:** ¿Y ahora?\n**ABOGADO:** Ahora es la mujer más rica de Europa.\n\n*Le entrega un sobre. Dentro, una foto: Álvaro y Vera firmando un contrato con Aurum.*\n\n**LUCÍA:** Quieren venderle la empresa a mi grupo…\n**ABOGADO:** Y la reunión es mañana. Con usted.",
+        "freeEpisode": true
+      },
+      {
+        "n": 4,
+        "title": "El collar de la abuela",
+        "hook": "La amante llevaba puesto el collar que le robaron a su madre.",
+        "durationSec": 91,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 5,
+        "title": "La nueva accionista",
+        "hook": "Entró en la junta y todos se pusieron de pie. Excepto él.",
+        "durationSec": 128,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 6,
+        "title": "Vera mueve ficha",
+        "hook": "Episodio 6: nada volverá a ser igual.",
+        "durationSec": 75,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 7,
+        "title": "La prueba en el móvil",
+        "hook": "Episodio 7: nada volverá a ser igual.",
+        "durationSec": 112,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 8,
+        "title": "Junta de emergencia",
+        "hook": "Episodio 8: nada volverá a ser igual.",
+        "durationSec": 149,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 9,
+        "title": "La máscara cae",
+        "hook": "Episodio 9: nada volverá a ser igual.",
+        "durationSec": 96,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 10,
+        "title": "¿Quién es la señora Ferrer?",
+        "hook": "Episodio 10: nada volverá a ser igual.",
+        "durationSec": 133,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 11,
+        "title": "El contrato trampa",
+        "hook": "Episodio 11: nada volverá a ser igual.",
+        "durationSec": 80,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 12,
+        "title": "Bajo la lluvia",
+        "hook": "Episodio 12: nada volverá a ser igual.",
+        "durationSec": 117,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 13,
+        "title": "El hermano perdido",
+        "hook": "Episodio 13: nada volverá a ser igual.",
+        "durationSec": 154,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 14,
+        "title": "Fiesta de compromiso",
+        "hook": "Episodio 14: nada volverá a ser igual.",
+        "durationSec": 101,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 15,
+        "title": "La grabación",
+        "hook": "Episodio 15: nada volverá a ser igual.",
+        "durationSec": 138,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 16,
+        "title": "Un aliado inesperado",
+        "hook": "Episodio 16: nada volverá a ser igual.",
+        "durationSec": 85,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 17,
+        "title": "Ruina",
+        "hook": "Episodio 17: nada volverá a ser igual.",
+        "durationSec": 122,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 18,
+        "title": "La suegra suplica",
+        "hook": "Episodio 18: nada volverá a ser igual.",
+        "durationSec": 159,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 19,
+        "title": "El embarazo falso",
+        "hook": "Episodio 19: nada volverá a ser igual.",
+        "durationSec": 106,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 20,
+        "title": "Juicio público",
+        "hook": "Episodio 20: nada volverá a ser igual.",
+        "durationSec": 143,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 21,
+        "title": "La última cena",
+        "hook": "Episodio 21: nada volverá a ser igual.",
+        "durationSec": 90,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 22,
+        "title": "Fuego en la mansión",
+        "hook": "Episodio 22: nada volverá a ser igual.",
+        "durationSec": 127,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 23,
+        "title": "Todo vuelve",
+        "hook": "Episodio 23: nada volverá a ser igual.",
+        "durationSec": 74,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 24,
+        "title": "Renacer",
+        "hook": "Episodio 24: nada volverá a ser igual.",
+        "durationSec": 111,
+        "script": null,
+        "freeEpisode": false
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "slug": "el-millonario-del-turno-de-noche",
+    "title": "El Millonario del Turno de Noche",
+    "niche": "Millonario secreto",
+    "logline": "De día es el conserje al que todos ignoran. De noche, el dueño de todo.",
+    "synopsis": "Mateo friega los suelos del hotel Imperial mientras sus compañeros se burlan de él. Nadie sabe que su abuelo le dejó el hotel… con una condición: trabajar un año en el puesto más bajo sin revelar quién es. Cuando conoce a Sara, la recepcionista que le defiende, el secreto empieza a pesar demasiado.",
+    "totalEpisodes": 30,
+    "style": "Neón nocturno, contraste alto, dorados y rojos",
+    "characters": [
+      {
+        "id": "mateo",
+        "name": "Mateo Rivas",
+        "role": "Protagonista",
+        "description": "Heredero oculto, humilde y observador. 31 años."
+      },
+      {
+        "id": "sara",
+        "name": "Sara León",
+        "role": "Interés amoroso",
+        "description": "Recepcionista valiente con un pasado difícil."
+      },
+      {
+        "id": "gonzalo",
+        "name": "Gonzalo Ibarra",
+        "role": "Antagonista",
+        "description": "Director del hotel, corrupto y cruel."
+      }
+    ],
+    "episodes": [
+      {
+        "n": 1,
+        "title": "El conserje invisible",
+        "hook": "Le tiraron el café encima. No sabían que firmaba sus nóminas.",
+        "durationSec": 70,
+        "script": "## ESCENA 1 — Vestíbulo del hotel Imperial. Noche.\n*Mateo friega el mármol. Un ejecutivo pisa el suelo mojado a propósito.*\n\n**EJECUTIVO:** Oye, conserje. Te has dejado una mancha. (le tira el café encima)\n**MATEO:** (respira hondo) Ahora mismo lo limpio, señor.\n\n*Sara sale de detrás del mostrador de recepción.*\n\n**SARA:** ¡Basta! Él está haciendo su trabajo. ¿Cuál es el suyo?\n**EJECUTIVO:** ¿Sabes con quién hablas, niña?\n**SARA:** Con un cliente que acaba de perder su reserva.\n\n*El ejecutivo se marcha furioso. Gonzalo, el director, lo ha visto todo.*\n\n**GONZALO:** León, a mi despacho. Y tú, Rivas… estás despedido.\n\n*Mateo saca del bolsillo una tarjeta negra con un sello dorado: IMPERIAL — PROPIETARIO.*",
+        "freeEpisode": true
+      },
+      {
+        "n": 2,
+        "title": "La llave maestra",
+        "hook": "Encontró una llave dorada en su taquilla… y una nota.",
+        "durationSec": 107,
+        "script": "## ESCENA 1 — Vestuario del personal. Madrugada.\n*Mateo abre su taquilla. Hay una llave dorada y una nota.*\n\n**NOTA (voz del abuelo):** Si estás leyendo esto, ya sabes quién eres. Suite 1801. No se lo digas a nadie.\n**MATEO:** (susurra) Abuelo… ¿qué escondías?\n\n*Pasos. Gonzalo aparece en la puerta.*\n\n**GONZALO:** ¿Qué tienes ahí?\n**MATEO:** Nada, señor. Las llaves del almacén.\n**GONZALO:** Ya. Mañana a las ocho en mi despacho. Trae tus cosas.",
+        "freeEpisode": true
+      },
+      {
+        "n": 3,
+        "title": "Sara lo defiende",
+        "hook": "Ella le defendió delante de todos. Él juró protegerla.",
+        "durationSec": 144,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 4,
+        "title": "El testamento",
+        "hook": "\"Un año sin revelar quién eres. Si fallas, lo pierdes todo.\"",
+        "durationSec": 91,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 5,
+        "title": "Suite 1801",
+        "hook": "Detrás de la puerta 1801 estaba el secreto de su abuelo.",
+        "durationSec": 128,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 6,
+        "title": "El director sospecha",
+        "hook": "Episodio 6: nada volverá a ser igual.",
+        "durationSec": 75,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 7,
+        "title": "Una cita imposible",
+        "hook": "Episodio 7: nada volverá a ser igual.",
+        "durationSec": 112,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 8,
+        "title": "Cámaras de seguridad",
+        "hook": "Episodio 8: nada volverá a ser igual.",
+        "durationSec": 149,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 9,
+        "title": "El despido",
+        "hook": "Episodio 9: nada volverá a ser igual.",
+        "durationSec": 96,
+        "script": null,
+        "freeEpisode": true
+      },
+      {
+        "n": 10,
+        "title": "La noche del incendio",
+        "hook": "Episodio 10: nada volverá a ser igual.",
+        "durationSec": 133,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 11,
+        "title": "El abogado",
+        "hook": "Episodio 11: nada volverá a ser igual.",
+        "durationSec": 80,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 12,
+        "title": "Doble vida",
+        "hook": "Episodio 12: nada volverá a ser igual.",
+        "durationSec": 117,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 13,
+        "title": "Gonzalo descubre algo",
+        "hook": "Episodio 13: nada volverá a ser igual.",
+        "durationSec": 154,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 14,
+        "title": "La gala benéfica",
+        "hook": "Episodio 14: nada volverá a ser igual.",
+        "durationSec": 101,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 15,
+        "title": "El beso en la azotea",
+        "hook": "Episodio 15: nada volverá a ser igual.",
+        "durationSec": 138,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 16,
+        "title": "Chantaje",
+        "hook": "Episodio 16: nada volverá a ser igual.",
+        "durationSec": 85,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 17,
+        "title": "La verdad a medias",
+        "hook": "Episodio 17: nada volverá a ser igual.",
+        "durationSec": 122,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 18,
+        "title": "Sara se va",
+        "hook": "Episodio 18: nada volverá a ser igual.",
+        "durationSec": 159,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 19,
+        "title": "El consejo",
+        "hook": "Episodio 19: nada volverá a ser igual.",
+        "durationSec": 106,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 20,
+        "title": "Revelación",
+        "hook": "Episodio 20: nada volverá a ser igual.",
+        "durationSec": 143,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 21,
+        "title": "Caída de Gonzalo",
+        "hook": "Episodio 21: nada volverá a ser igual.",
+        "durationSec": 90,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 22,
+        "title": "Corazón roto",
+        "hook": "Episodio 22: nada volverá a ser igual.",
+        "durationSec": 127,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 23,
+        "title": "El pasado de Sara",
+        "hook": "Episodio 23: nada volverá a ser igual.",
+        "durationSec": 74,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 24,
+        "title": "Traición en familia",
+        "hook": "Episodio 24: nada volverá a ser igual.",
+        "durationSec": 111,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 25,
+        "title": "La subasta",
+        "hook": "Episodio 25: nada volverá a ser igual.",
+        "durationSec": 148,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 26,
+        "title": "El anillo",
+        "hook": "Episodio 26: nada volverá a ser igual.",
+        "durationSec": 95,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 27,
+        "title": "Secuestro",
+        "hook": "Episodio 27: nada volverá a ser igual.",
+        "durationSec": 132,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 28,
+        "title": "Rescate",
+        "hook": "Episodio 28: nada volverá a ser igual.",
+        "durationSec": 79,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 29,
+        "title": "La rueda de prensa",
+        "hook": "Episodio 29: nada volverá a ser igual.",
+        "durationSec": 116,
+        "script": null,
+        "freeEpisode": false
+      },
+      {
+        "n": 30,
+        "title": "Dueño de todo",
+        "hook": "Episodio 30: nada volverá a ser igual.",
+        "durationSec": 153,
+        "script": null,
+        "freeEpisode": false
+      }
+    ]
+  }
+]

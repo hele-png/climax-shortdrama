@@ -1,0 +1,514 @@
+{
+  "generatedAt": "2026-11-16T00:55:49.095Z",
+  "dataSource": "content",
+  "seriesCount": 5,
+  "imageCount": 57,
+  "images": [
+    {
+      "slug": "cien-dias",
+      "file": "char-adrian-montenegro.webp",
+      "path": "img/cien-dias/char-adrian-montenegro.webp",
+      "type": "character",
+      "key": "char-adrian-montenegro",
+      "bytes": 27692
+    },
+    {
+      "slug": "cien-dias",
+      "file": "char-bianca-duarte.webp",
+      "path": "img/cien-dias/char-bianca-duarte.webp",
+      "type": "character",
+      "key": "char-bianca-duarte",
+      "bytes": 43798
+    },
+    {
+      "slug": "cien-dias",
+      "file": "char-elena-robles.webp",
+      "path": "img/cien-dias/char-elena-robles.webp",
+      "type": "character",
+      "key": "char-elena-robles",
+      "bytes": 68392
+    },
+    {
+      "slug": "cien-dias",
+      "file": "char-iker-montenegro.webp",
+      "path": "img/cien-dias/char-iker-montenegro.webp",
+      "type": "character",
+      "key": "char-iker-montenegro",
+      "bytes": 60998
+    },
+    {
+      "slug": "cien-dias",
+      "file": "char-pablo-robles.webp",
+      "path": "img/cien-dias/char-pablo-robles.webp",
+      "type": "character",
+      "key": "char-pablo-robles",
+      "bytes": 58240
+    },
+    {
+      "slug": "cien-dias",
+      "file": "cover.webp",
+      "path": "img/cien-dias/cover.webp",
+      "type": "cover",
+      "key": "cover",
+      "bytes": 50370
+    },
+    {
+      "slug": "cien-dias",
+      "file": "scene-1.webp",
+      "path": "img/cien-dias/scene-1.webp",
+      "type": "scene",
+      "key": "scene-1",
+      "bytes": 58346,
+      "episode": 1,
+      "label": "Ep. 1 — El café"
+    },
+    {
+      "slug": "cien-dias",
+      "file": "scene-2.webp",
+      "path": "img/cien-dias/scene-2.webp",
+      "type": "scene",
+      "key": "scene-2",
+      "bytes": 46062,
+      "episode": 2,
+      "label": "Ep. 2 — La firma"
+    },
+    {
+      "slug": "cien-dias",
+      "file": "scene-3.webp",
+      "path": "img/cien-dias/scene-3.webp",
+      "type": "scene",
+      "key": "scene-3",
+      "bytes": 64252,
+      "episode": 4,
+      "label": "Ep. 4 — El retrato"
+    },
+    {
+      "slug": "cien-dias",
+      "file": "scene-4.webp",
+      "path": "img/cien-dias/scene-4.webp",
+      "type": "scene",
+      "key": "scene-4",
+      "bytes": 41628,
+      "episode": 8,
+      "label": "Ep. 8 — El beso"
+    },
+    {
+      "slug": "cien-dias",
+      "file": "scene-5.webp",
+      "path": "img/cien-dias/scene-5.webp",
+      "type": "scene",
+      "key": "scene-5",
+      "bytes": 63868,
+      "episode": 10,
+      "label": "Ep. 10 — La puerta cerrada"
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "char-alvaro-saavedra.webp",
+      "path": "img/esposa-del-mar/char-alvaro-saavedra.webp",
+      "type": "character",
+      "key": "char-alvaro-saavedra",
+      "bytes": 33440
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "char-carla-ferrer.webp",
+      "path": "img/esposa-del-mar/char-carla-ferrer.webp",
+      "type": "character",
+      "key": "char-carla-ferrer",
+      "bytes": 53980
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "char-elvira-saavedra.webp",
+      "path": "img/esposa-del-mar/char-elvira-saavedra.webp",
+      "type": "character",
+      "key": "char-elvira-saavedra",
+      "bytes": 50794
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "char-lucia-ferrer.webp",
+      "path": "img/esposa-del-mar/char-lucia-ferrer.webp",
+      "type": "character",
+      "key": "char-lucia-ferrer",
+      "bytes": 33526
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "char-mateo-rios.webp",
+      "path": "img/esposa-del-mar/char-mateo-rios.webp",
+      "type": "character",
+      "key": "char-mateo-rios",
+      "bytes": 52960
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "cover.webp",
+      "path": "img/esposa-del-mar/cover.webp",
+      "type": "cover",
+      "key": "cover",
+      "bytes": 48262
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "scene-1.webp",
+      "path": "img/esposa-del-mar/scene-1.webp",
+      "type": "scene",
+      "key": "scene-1",
+      "bytes": 54964,
+      "episode": 1,
+      "label": "Ep. 1 — El empujón"
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "scene-2.webp",
+      "path": "img/esposa-del-mar/scene-2.webp",
+      "type": "scene",
+      "key": "scene-2",
+      "bytes": 57982,
+      "episode": 3,
+      "label": "Ep. 3 — La nueva socia"
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "scene-3.webp",
+      "path": "img/esposa-del-mar/scene-3.webp",
+      "type": "scene",
+      "key": "scene-3",
+      "bytes": 64714,
+      "episode": 4,
+      "label": "Ep. 4 — \"¡Mamá!\""
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "scene-4.webp",
+      "path": "img/esposa-del-mar/scene-4.webp",
+      "type": "scene",
+      "key": "scene-4",
+      "bytes": 42762,
+      "episode": 9,
+      "label": "Ep. 9 — \"Lucía\""
+    },
+    {
+      "slug": "esposa-del-mar",
+      "file": "scene-5.webp",
+      "path": "img/esposa-del-mar/scene-5.webp",
+      "type": "scene",
+      "key": "scene-5",
+      "bytes": 51020,
+      "episode": 10,
+      "label": "Ep. 10 — 99,9 %"
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "char-abuela-remedios.webp",
+      "path": "img/loba-rechazada/char-abuela-remedios.webp",
+      "type": "character",
+      "key": "char-abuela-remedios",
+      "bytes": 91176
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "char-alba-rivas.webp",
+      "path": "img/loba-rechazada/char-alba-rivas.webp",
+      "type": "character",
+      "key": "char-alba-rivas",
+      "bytes": 60560
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "char-dario-valcarcel.webp",
+      "path": "img/loba-rechazada/char-dario-valcarcel.webp",
+      "type": "character",
+      "key": "char-dario-valcarcel",
+      "bytes": 55536
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "char-leo-navarro.webp",
+      "path": "img/loba-rechazada/char-leo-navarro.webp",
+      "type": "character",
+      "key": "char-leo-navarro",
+      "bytes": 55686
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "char-rodrigo-navarro.webp",
+      "path": "img/loba-rechazada/char-rodrigo-navarro.webp",
+      "type": "character",
+      "key": "char-rodrigo-navarro",
+      "bytes": 81020
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "char-vanesa-mora.webp",
+      "path": "img/loba-rechazada/char-vanesa-mora.webp",
+      "type": "character",
+      "key": "char-vanesa-mora",
+      "bytes": 52690
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "cover.webp",
+      "path": "img/loba-rechazada/cover.webp",
+      "type": "cover",
+      "key": "cover",
+      "bytes": 60258
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "scene-1.webp",
+      "path": "img/loba-rechazada/scene-1.webp",
+      "type": "scene",
+      "key": "scene-1",
+      "bytes": 58266,
+      "episode": 1,
+      "label": "Ep. 1 — El rechazo"
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "scene-2.webp",
+      "path": "img/loba-rechazada/scene-2.webp",
+      "type": "scene",
+      "key": "scene-2",
+      "bytes": 73612,
+      "episode": 2,
+      "label": "Ep. 2 — El lobo negro"
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "scene-3.webp",
+      "path": "img/loba-rechazada/scene-3.webp",
+      "type": "scene",
+      "key": "scene-3",
+      "bytes": 45742,
+      "episode": 3,
+      "label": "Ep. 3 — \"Mía\""
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "scene-4.webp",
+      "path": "img/loba-rechazada/scene-4.webp",
+      "type": "scene",
+      "key": "scene-4",
+      "bytes": 68312,
+      "episode": 8,
+      "label": "Ep. 8 — La loba blanca"
+    },
+    {
+      "slug": "loba-rechazada",
+      "file": "scene-5.webp",
+      "path": "img/loba-rechazada/scene-5.webp",
+      "type": "scene",
+      "key": "scene-5",
+      "bytes": 63600,
+      "episode": 10,
+      "label": "Ep. 10 — El recuerdo"
+    },
+    {
+      "slug": "renaci",
+      "file": "char-gabriel-ferran.webp",
+      "path": "img/renaci/char-gabriel-ferran.webp",
+      "type": "character",
+      "key": "char-gabriel-ferran",
+      "bytes": 72538
+    },
+    {
+      "slug": "renaci",
+      "file": "char-hugo-lazaro.webp",
+      "path": "img/renaci/char-hugo-lazaro.webp",
+      "type": "character",
+      "key": "char-hugo-lazaro",
+      "bytes": 93122
+    },
+    {
+      "slug": "renaci",
+      "file": "char-martina-olmedo.webp",
+      "path": "img/renaci/char-martina-olmedo.webp",
+      "type": "character",
+      "key": "char-martina-olmedo",
+      "bytes": 60026
+    },
+    {
+      "slug": "renaci",
+      "file": "char-noelia-prats.webp",
+      "path": "img/renaci/char-noelia-prats.webp",
+      "type": "character",
+      "key": "char-noelia-prats",
+      "bytes": 68104
+    },
+    {
+      "slug": "renaci",
+      "file": "char-ramon-olmedo.webp",
+      "path": "img/renaci/char-ramon-olmedo.webp",
+      "type": "character",
+      "key": "char-ramon-olmedo",
+      "bytes": 99020
+    },
+    {
+      "slug": "renaci",
+      "file": "cover.webp",
+      "path": "img/renaci/cover.webp",
+      "type": "cover",
+      "key": "cover",
+      "bytes": 73920
+    },
+    {
+      "slug": "renaci",
+      "file": "scene-1.webp",
+      "path": "img/renaci/scene-1.webp",
+      "type": "scene",
+      "key": "scene-1",
+      "bytes": 76406,
+      "episode": 1,
+      "label": "Ep. 1 — La puerta en llamas"
+    },
+    {
+      "slug": "renaci",
+      "file": "scene-2.webp",
+      "path": "img/renaci/scene-2.webp",
+      "type": "scene",
+      "key": "scene-2",
+      "bytes": 56676,
+      "episode": 1,
+      "label": "Ep. 1 — El despertar"
+    },
+    {
+      "slug": "renaci",
+      "file": "scene-3.webp",
+      "path": "img/renaci/scene-3.webp",
+      "type": "scene",
+      "key": "scene-3",
+      "bytes": 70660,
+      "episode": 4,
+      "label": "Ep. 4 — La mirada"
+    },
+    {
+      "slug": "renaci",
+      "file": "scene-4.webp",
+      "path": "img/renaci/scene-4.webp",
+      "type": "scene",
+      "key": "scene-4",
+      "bytes": 68190,
+      "episode": 9,
+      "label": "Ep. 9 — Él también recuerda"
+    },
+    {
+      "slug": "renaci",
+      "file": "scene-5.webp",
+      "path": "img/renaci/scene-5.webp",
+      "type": "scene",
+      "key": "scene-5",
+      "bytes": 62014,
+      "episode": 10,
+      "label": "Ep. 10 — La séptima vez"
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "char-bruno-castell.webp",
+      "path": "img/repartidor-heredero/char-bruno-castell.webp",
+      "type": "character",
+      "key": "char-bruno-castell",
+      "bytes": 77278
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "char-daniel-cruz.webp",
+      "path": "img/repartidor-heredero/char-daniel-cruz.webp",
+      "type": "character",
+      "key": "char-daniel-cruz",
+      "bytes": 48472
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "char-don-ernesto-altamira.webp",
+      "path": "img/repartidor-heredero/char-don-ernesto-altamira.webp",
+      "type": "character",
+      "key": "char-don-ernesto-altamira",
+      "bytes": 78644
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "char-irene-salas.webp",
+      "path": "img/repartidor-heredero/char-irene-salas.webp",
+      "type": "character",
+      "key": "char-irene-salas",
+      "bytes": 52848
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "char-marina-velasco.webp",
+      "path": "img/repartidor-heredero/char-marina-velasco.webp",
+      "type": "character",
+      "key": "char-marina-velasco",
+      "bytes": 59504
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "char-rosa-velasco.webp",
+      "path": "img/repartidor-heredero/char-rosa-velasco.webp",
+      "type": "character",
+      "key": "char-rosa-velasco",
+      "bytes": 135238
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "cover.webp",
+      "path": "img/repartidor-heredero/cover.webp",
+      "type": "cover",
+      "key": "cover",
+      "bytes": 69086
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "scene-1.webp",
+      "path": "img/repartidor-heredero/scene-1.webp",
+      "type": "scene",
+      "key": "scene-1",
+      "bytes": 90008,
+      "episode": 1,
+      "label": "Ep. 1 — Champán"
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "scene-2.webp",
+      "path": "img/repartidor-heredero/scene-2.webp",
+      "type": "scene",
+      "key": "scene-2",
+      "bytes": 104146,
+      "episode": 2,
+      "label": "Ep. 2 — El helicóptero"
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "scene-3.webp",
+      "path": "img/repartidor-heredero/scene-3.webp",
+      "type": "scene",
+      "key": "scene-3",
+      "bytes": 56324,
+      "episode": 6,
+      "label": "Ep. 6 — Esposado"
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "scene-4.webp",
+      "path": "img/repartidor-heredero/scene-4.webp",
+      "type": "scene",
+      "key": "scene-4",
+      "bytes": 64812,
+      "episode": 9,
+      "label": "Ep. 9 — Despedido"
+    },
+    {
+      "slug": "repartidor-heredero",
+      "file": "scene-5.webp",
+      "path": "img/repartidor-heredero/scene-5.webp",
+      "type": "scene",
+      "key": "scene-5",
+      "bytes": 72556,
+      "episode": 10,
+      "label": "Ep. 10 — Yo soy Altamira"
+    }
+  ]
+}
