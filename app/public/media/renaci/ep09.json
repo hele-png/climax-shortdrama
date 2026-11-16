@@ -1,0 +1,215 @@
+{
+"slug": "renaci",
+"ep": 9,
+"duration": 140.77,
+"audio": "media/renaci/ep09.m4a",
+"cliff": 120.15,
+"cues": [
+{
+"type": "action",
+"text": "Hugo, sonriendo en la penumbra: \"¿De verdad creías que eras la única que había vuelto?\"",
+"start": 0.35,
+"end": 5.5
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. VIÑEDO — CONTINUO",
+"start": 6.05,
+"end": 7.15
+},
+{
+"type": "action",
+"text": "Martina se suelta de un tirón.",
+"start": 7.15,
+"end": 9.72
+},
+{
+"type": "dialogue",
+"text": "¿Cómo...?",
+"start": 10.02,
+"end": 10.66,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No lo sé. Te vi arder, me fui a dormir con Noelia y desperté aquí. Ocho años atrás. Igual que tú. (Le enseña el reloj de oro.) Lo único que traía puesto era esto.",
+"start": 10.88,
+"end": 23.11,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Entonces sabes que voy a destruirte.",
+"start": 23.33,
+"end": 25.72,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Sé que lo vas a intentar. Pero tú no eres la estratega, Martina. Tú eres la que se enamoró de mí en la primera cita.",
+"start": 25.94,
+"end": 34.53,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. VIÑEDO — CONTINUO",
+"start": 35.0,
+"end": 36.1
+},
+{
+"type": "action",
+"text": "Hugo camina a su alrededor, tranquilo.",
+"start": 36.1,
+"end": 39.03
+},
+{
+"type": "dialogue",
+"text": "He estado pensando qué hice mal la otra vez. Fui demasiado lento. Ocho años esperando. (Pausa.) Esta vez voy a ir más rápido.",
+"start": 39.33,
+"end": 49.4,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Te denunciaré.",
+"start": 49.62,
+"end": 50.72,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Con qué? ¿\"Señor guardia, mi exnovio me mató en el futuro\"? Te encerrarán en un psiquiátrico. Y la bodega me la quedaré igual.",
+"start": 50.94,
+"end": 60.99,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina aprieta los puños.",
+"start": 61.21,
+"end": 63.6
+},
+{
+"type": "dialogue",
+"text": "No vas a tocar a mi padre.",
+"start": 63.9,
+"end": 65.57,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tu padre ya no me interesa. Está demasiado vigilado. (Se acerca.) Pero hay alguien que la otra vez se metió donde no debía. Entró en el fuego y casi te saca. Esta vez, no quiero sorpresas.",
+"start": 65.79,
+"end": 79.99,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina lo entiende. Palidece.",
+"start": 80.21,
+"end": 82.77
+},
+{
+"type": "dialogue",
+"text": "Gabriel.",
+"start": 83.07,
+"end": 83.93,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. VIÑEDO — CONTINUO",
+"start": 84.4,
+"end": 85.5
+},
+{
+"type": "action",
+"text": "Hugo sonríe, mira su reloj y retrocede.",
+"start": 85.5,
+"end": 88.47
+},
+{
+"type": "dialogue",
+"text": "Esta vez no te voy a quemar a ti primero, Martina. Esta vez empezaré por él.",
+"start": 88.77,
+"end": 94.31,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Al fondo, en el horizonte, una columna de humo negro empieza a subir sobre el pueblo.",
+"start": 94.53,
+"end": 99.84
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. CARRETERA DEL PUEBLO — NOCHE",
+"start": 100.39,
+"end": 101.49
+},
+{
+"type": "action",
+"text": "Martina conduce como una loca. Llama a Gabriel. Buzón de voz. Otra vez. Buzón.",
+"start": 101.49,
+"end": 106.23
+},
+{
+"type": "dialogue",
+"text": "¡Cógelo! ¡Cógelo, por favor!",
+"start": 106.53,
+"end": 109.38,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "En la radio del coche, la emisora local:",
+"start": 109.6,
+"end": 112.62
+},
+{
+"type": "dialogue",
+"text": "...incendio en una vivienda de la calle Ermita. Se cree que el propietario, un bombero del parque comarcal, está dentro...",
+"start": 112.92,
+"end": 119.68,
+"speaker": "LOCUTOR",
+"paren": "V.O."
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 120.15,
+"end": 121.25
+},
+{
+"type": "action",
+"text": "Martina frena en seco. La casa de Gabriel arde. Las llamas salen por las ventanas. Los bomberos aún no han llegado.",
+"start": 121.25,
+"end": 126.75
+},
+{
+"type": "action",
+"text": "Exactamente igual que la noche en que ella murió.",
+"start": 127.05,
+"end": 130.47
+},
+{
+"type": "action",
+"text": "Martina se quita el abrigo, se moja con la manguera del jardín vecino... y corre hacia el fuego.",
+"start": 130.77,
+"end": 136.27
+}
+]
+}

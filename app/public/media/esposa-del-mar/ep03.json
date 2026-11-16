@@ -1,0 +1,189 @@
+{
+"slug": "esposa-del-mar",
+"ep": 3,
+"duration": 108.7,
+"audio": "media/esposa-del-mar/ep03.m4a",
+"cliff": 92.6,
+"cues": [
+{
+"type": "action",
+"text": "Unos tacones blancos pisan el logo de la Naviera Saavedra en el suelo de mármol. \"La última vez que estuve aquí, era su esposa.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. VESTÍBULO NAVIERA SAAVEDRA, VALENCIA — DÍA",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Empleados se giran a mirar. Lucía —ahora VALERIA— camina con una carpeta negra. La RECEPCIONISTA la detiene.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "¿Tiene cita?",
+"start": 13.3,
+"end": 14.16,
+"speaker": "RECEPCIONISTA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tengo 200 millones. ¿Eso cuenta como cita?",
+"start": 14.38,
+"end": 18.36,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SALA DE JUNTAS — CONTINUO",
+"start": 18.83,
+"end": 19.93
+},
+{
+"type": "action",
+"text": "Álvaro preside una reunión tensa. Pantallas en rojo: \"DEUDA: 187M €\". Entra Valeria. Álvaro la mira. Se queda quieto demasiado tiempo.",
+"start": 19.93,
+"end": 25.43
+},
+{
+"type": "dialogue",
+"text": "Usted es...",
+"start": 25.73,
+"end": 26.59,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Valeria Montes, Ríos Capital. Su salvavidas. (Sonríe.) Qué ironía, ¿verdad? Un naviero que se ahoga.",
+"start": 26.81,
+"end": 35.32,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Risas nerviosas. Ella deja la carpeta sobre la mesa.",
+"start": 35.54,
+"end": 39.11
+},
+{
+"type": "dialogue",
+"text": "Condiciones: 200 millones a cambio del 30 % de la empresa y un puesto en el consejo. Para mí.",
+"start": 39.41,
+"end": 46.36,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Eso es un robo.",
+"start": 46.58,
+"end": 47.81,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No, señor Saavedra. Robar es quedarse con lo que es de otro. (Le sostiene la mirada.) Usted sabrá de eso más que yo.",
+"start": 48.03,
+"end": 55.42,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Álvaro se acerca. La observa muy de cerca.",
+"start": 55.64,
+"end": 58.75
+},
+{
+"type": "dialogue",
+"text": "Nos conocemos. Te pareces a alguien.",
+"start": 59.05,
+"end": 62.31,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Me lo dicen mucho. Debo de tener una cara... fácil de olvidar.",
+"start": 62.53,
+"end": 67.24,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. SALA DE JUNTAS — MOMENTOS DESPUÉS",
+"start": 67.71,
+"end": 68.81
+},
+{
+"type": "action",
+"text": "Se abre la puerta. ELVIRA SAAVEDRA entra apoyada en su bastón de plata, seguida de una asistente con una bandeja de té.",
+"start": 68.81,
+"end": 74.31
+},
+{
+"type": "dialogue",
+"text": "Álvaro, no firmes nada sin que yo...",
+"start": 74.61,
+"end": 77.31,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elvira ve a Valeria. Se le corta la frase.",
+"start": 77.53,
+"end": 80.64
+},
+{
+"type": "dialogue",
+"text": "Señora Saavedra. He oído hablar mucho de usted. De su... instinto maternal.",
+"start": 80.94,
+"end": 87.45,
+"speaker": "VALERIA",
+"paren": "le tiende la mano"
+},
+{
+"type": "action",
+"text": "Elvira no le da la mano. La mira a los ojos. Esos ojos verde avellana.",
+"start": 87.67,
+"end": 92.05
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 92.6,
+"end": 93.7
+},
+{
+"type": "action",
+"text": "A Elvira se le resbala la taza de las manos. Estalla contra el mármol.",
+"start": 93.7,
+"end": 98.08
+},
+{
+"type": "dialogue",
+"text": "...¿Lucía?",
+"start": 98.38,
+"end": 99.32,
+"speaker": "ELVIRA",
+"paren": "en un susurro"
+},
+{
+"type": "action",
+"text": "Todos se giran hacia Valeria. Primer plano de Álvaro: pálido como un muerto.",
+"start": 99.54,
+"end": 104.2
+}
+]
+}

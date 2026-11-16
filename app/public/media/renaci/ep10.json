@@ -1,0 +1,243 @@
+{
+"slug": "renaci",
+"ep": 10,
+"duration": 141.07,
+"audio": "media/renaci/ep10.m4a",
+"cliff": 113.51,
+"cues": [
+{
+"type": "action",
+"text": "Martina rompe la puerta en llamas de una patada: \"Esta vez te saco yo.\"",
+"start": 0.35,
+"end": 4.78
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CASA DE GABRIEL — NOCHE",
+"start": 5.33,
+"end": 6.43
+},
+{
+"type": "action",
+"text": "Humo denso. Fuego en la escalera. Martina, con una toalla mojada en la cara, avanza a gatas.",
+"start": 6.43,
+"end": 11.81
+},
+{
+"type": "dialogue",
+"text": "¡GABRIEL!",
+"start": 12.11,
+"end": 12.94,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Flashes del primer incendio: ella en el suelo, él entrando. Ahora los papeles cambiados.",
+"start": 13.16,
+"end": 18.36
+},
+{
+"type": "action",
+"text": "Lo encuentra en el suelo del salón, inconsciente, con una herida en la cabeza. Le han golpeado antes de prender el fuego.",
+"start": 18.66,
+"end": 24.16
+},
+{
+"type": "dialogue",
+"text": "No, no, no. No te mueras. Tú no.",
+"start": 24.46,
+"end": 29.19,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CASA DE GABRIEL — CONTINUO",
+"start": 29.66,
+"end": 30.76
+},
+{
+"type": "action",
+"text": "Martina lo arrastra con todas sus fuerzas. Una viga cae justo detrás. La puerta está a cinco metros. Cuatro. El techo cruje.",
+"start": 30.76,
+"end": 36.26
+},
+{
+"type": "dialogue",
+"text": "Me sacaste del fuego y no te lo agradecí nunca. ¡Así que ahora no te mueres!",
+"start": 36.56,
+"end": 42.41,
+"speaker": "MARTINA",
+"paren": "llorando"
+},
+{
+"type": "action",
+"text": "Sale por la puerta. Caen los dos sobre el césped en el momento en que el techo se desploma.",
+"start": 42.63,
+"end": 47.96
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. AMBULANCIA — NOCHE",
+"start": 48.51,
+"end": 49.61
+},
+{
+"type": "action",
+"text": "Sirenas. Gabriel, con oxígeno, abre los ojos. Martina, cubierta de hollín, le sostiene la mano quemada.",
+"start": 49.61,
+"end": 55.11
+},
+{
+"type": "dialogue",
+"text": "Estás vivo. Esta vez estás vivo.",
+"start": 55.41,
+"end": 58.68,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Gabriel se quita la mascarilla. La mira con una ternura infinita.",
+"start": 58.9,
+"end": 63.05
+},
+{
+"type": "dialogue",
+"text": "Esta vez has llegado tú a tiempo. (Sonríe, débil.) Otra vez.",
+"start": 63.35,
+"end": 66.8,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Otra vez?",
+"start": 67.02,
+"end": 67.83,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Gabriel le aprieta la mano. Le cuesta hablar.",
+"start": 68.05,
+"end": 71.3
+},
+{
+"type": "dialogue",
+"text": "Sé lo que te pasó. El fuego. La puerta cerrada. Hugo y Noelia al otro lado del cristal.",
+"start": 71.6,
+"end": 79.35,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Cómo... lo sabes?",
+"start": 79.57,
+"end": 81.2,
+"speaker": "MARTINA",
+"paren": "paralizada"
+},
+{
+"type": "dialogue",
+"text": "Porque yo estaba allí. Entré a buscarte. Siempre entro a buscarte.",
+"start": 81.42,
+"end": 87.11,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. AMBULANCIA — CONTINUO",
+"start": 87.58,
+"end": 88.68
+},
+{
+"type": "action",
+"text": "Martina se tapa la boca con las manos.",
+"start": 88.68,
+"end": 91.61
+},
+{
+"type": "dialogue",
+"text": "¿Tú también has renacido? ¿Desde cuándo lo sabes?",
+"start": 91.91,
+"end": 95.77,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Por eso sabía cómo tomas el café. Por eso dije que sí a casarme contigo sin preguntar. Por eso odio a Hugo.",
+"start": 95.99,
+"end": 103.79,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Gabriel le enseña su mano. La cicatriz de la quemadura.",
+"start": 104.01,
+"end": 107.71
+},
+{
+"type": "dialogue",
+"text": "Esta cicatriz no me la hice en esta vida, Martina. Nací con ella.",
+"start": 108.01,
+"end": 113.04,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 113.51,
+"end": 114.61
+},
+{
+"type": "dialogue",
+"text": "Entonces... es la segunda vez que vivimos esto. Los dos.",
+"start": 114.61,
+"end": 119.34,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Gabriel niega despacio con la cabeza. Una lágrima le corre por el hollín de la cara.",
+"start": 119.56,
+"end": 124.58
+},
+{
+"type": "dialogue",
+"text": "No, Martina. Esta no es la segunda vez.",
+"start": 124.88,
+"end": 128.67,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Pausa.",
+"start": 128.89,
+"end": 130.36
+},
+{
+"type": "dialogue",
+"text": "Es la séptima. Y en todas... mueres a los 30.",
+"start": 130.66,
+"end": 134.61,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "screen",
+"text": "VIDA 7 DE 7.",
+"start": 134.83,
+"end": 136.57
+}
+]
+}

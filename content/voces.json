@@ -1,0 +1,375 @@
+{
+  "esposa-del-mar": {
+    "narrador": {
+      "voice": "es-ES-XimenaNeural",
+      "pitch": "-10Hz",
+      "rate": "-6%"
+    },
+    "personajes": {
+      "lucia-ferrer": {
+        "name": "Lucía Ferrer / \"Valeria Montes\"",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "alvaro-saavedra": {
+        "name": "Álvaro Saavedra",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "mateo-rios": {
+        "name": "Mateo Ríos",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-18Hz",
+        "rate": "-6%"
+      },
+      "carla-ferrer": {
+        "name": "Carla Ferrer",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+8Hz",
+        "rate": "+5%"
+      },
+      "elvira-saavedra": {
+        "name": "Elvira Saavedra",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "-14Hz",
+        "rate": "-10%"
+      },
+      "bruno": {
+        "name": "Bruno",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+40Hz",
+        "rate": "+5%"
+      }
+    },
+    "secundarios": {
+      "dr. lerma": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "invitada": {
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+6Hz",
+        "rate": "+9%"
+      },
+      "medico": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "nino": {
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+40Hz",
+        "rate": "+5%"
+      },
+      "recepcionista": {
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+2Hz",
+        "rate": "+8%"
+      },
+      "sepulturero": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      }
+    }
+  },
+  "repartidor-heredero": {
+    "narrador": {
+      "voice": "es-ES-XimenaNeural",
+      "pitch": "-10Hz",
+      "rate": "-6%"
+    },
+    "personajes": {
+      "daniel-cruz": {
+        "name": "Daniel Cruz (Daniel Altamira)",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "bruno-castell": {
+        "name": "Bruno Castell",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-18Hz",
+        "rate": "-6%"
+      },
+      "irene-salas": {
+        "name": "Irene Salas",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "marina-velasco": {
+        "name": "Marina Velasco",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+8Hz",
+        "rate": "+5%"
+      },
+      "rosa-velasco": {
+        "name": "Rosa Velasco",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "-14Hz",
+        "rate": "-10%"
+      },
+      "don-ernesto-altamira": {
+        "name": "Don Ernesto Altamira",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-28Hz",
+        "rate": "-14%"
+      }
+    },
+    "secundarios": {
+      "abogado": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "consejero": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "jefe de sala": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      },
+      "policia": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "sr. kessler": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "tecnico": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      },
+      "voz": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      }
+    }
+  },
+  "cien-dias": {
+    "narrador": {
+      "voice": "es-ES-XimenaNeural",
+      "pitch": "-10Hz",
+      "rate": "-6%"
+    },
+    "personajes": {
+      "elena-robles": {
+        "name": "Elena Robles",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "adrian-montenegro": {
+        "name": "Adrián Montenegro",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "iker-montenegro": {
+        "name": "Iker Montenegro",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-18Hz",
+        "rate": "-6%"
+      },
+      "bianca-duarte": {
+        "name": "Bianca Duarte",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+8Hz",
+        "rate": "+5%"
+      },
+      "pablo-robles": {
+        "name": "Pablo Robles",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+40Hz",
+        "rate": "+5%"
+      }
+    },
+    "secundarios": {
+      "cirujano": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "doctora": {
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+6Hz",
+        "rate": "+9%"
+      },
+      "encargado": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "enfermera": {
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+2Hz",
+        "rate": "+8%"
+      },
+      "notario": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      }
+    }
+  },
+  "renaci": {
+    "narrador": {
+      "voice": "es-ES-XimenaNeural",
+      "pitch": "-10Hz",
+      "rate": "-6%"
+    },
+    "personajes": {
+      "martina-olmedo": {
+        "name": "Martina Olmedo",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "gabriel-ferran": {
+        "name": "Gabriel Ferrán",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "hugo-lazaro": {
+        "name": "Hugo Lázaro",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-18Hz",
+        "rate": "-6%"
+      },
+      "ramon-olmedo": {
+        "name": "Ramón Olmedo",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-28Hz",
+        "rate": "-14%"
+      },
+      "noelia-prats": {
+        "name": "Noelia Prats",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+8Hz",
+        "rate": "+5%"
+      }
+    },
+    "secundarios": {
+      "companero": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "guardia": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "invitado": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      },
+      "locutor": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "medico": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "sr. vidal": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      },
+      "tecnico": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      }
+    }
+  },
+  "loba-rechazada": {
+    "narrador": {
+      "voice": "es-ES-XimenaNeural",
+      "pitch": "-10Hz",
+      "rate": "-6%"
+    },
+    "personajes": {
+      "alba-rivas": {
+        "name": "Alba Rivas",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "dario-valcarcel": {
+        "name": "Darío Valcárcel",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+0Hz",
+        "rate": "+0%"
+      },
+      "abuela-remedios": {
+        "name": "Abuela Remedios",
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "-14Hz",
+        "rate": "-10%"
+      },
+      "leo-navarro": {
+        "name": "Leo Navarro",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-18Hz",
+        "rate": "-6%"
+      },
+      "vanesa-mora": {
+        "name": "Vanesa Mora",
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+8Hz",
+        "rate": "+5%"
+      },
+      "rodrigo-navarro": {
+        "name": "Rodrigo Navarro",
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-28Hz",
+        "rate": "-14%"
+      }
+    },
+    "secundarios": {
+      "copero": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+6Hz",
+        "rate": "+10%"
+      },
+      "criada": {
+        "voice": "es-ES-ElviraNeural",
+        "pitch": "+6Hz",
+        "rate": "+9%"
+      },
+      "elena": {
+        "voice": "es-ES-XimenaNeural",
+        "pitch": "+2Hz",
+        "rate": "+8%"
+      },
+      "guardia": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "-10Hz",
+        "rate": "+2%"
+      },
+      "renegado": {
+        "voice": "es-ES-AlvaroNeural",
+        "pitch": "+18Hz",
+        "rate": "+4%"
+      }
+    }
+  }
+}

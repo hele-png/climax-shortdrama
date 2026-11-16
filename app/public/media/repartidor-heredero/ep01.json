@@ -1,0 +1,225 @@
+{
+"slug": "repartidor-heredero",
+"ep": 1,
+"duration": 139.1,
+"audio": "media/repartidor-heredero/ep01.m4a",
+"cliff": 121.3,
+"cues": [
+{
+"type": "action",
+"text": "Un chorro de champán cae sobre la cabeza de un chico arrodillado con un anillo. \"¿De verdad creías que me iba a casar con un repartidor?\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. PORTAL DE LOS VELASCO, SALAMANCA — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "DANIEL, con la chaqueta naranja de reparto, aparca la moto. Saca una cajita barata del bolsillo. La mira con ilusión.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "Tres años ahorrando. Esta noche, Marina.",
+"start": 13.3,
+"end": 17.16,
+"speaker": "DANIEL",
+"paren": "para sí"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. COMEDOR DE LOS VELASCO — NOCHE",
+"start": 17.63,
+"end": 18.73
+},
+{
+"type": "action",
+"text": "Cena familiar de lujo. ROSA, la madre, le mira el uniforme con asco.",
+"start": 18.73,
+"end": 23.02
+},
+{
+"type": "dialogue",
+"text": "¿Vienes así? Hay invitados, hijo. Pareces una mandarina.",
+"start": 23.32,
+"end": 29.46,
+"speaker": "ROSA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mamá, déjalo. (A Daniel, seca.) Siéntate al fondo.",
+"start": 29.68,
+"end": 33.1,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Suena el timbre. Entra BRUNO CASTELL, traje gris, reloj de oro enorme. Marina se levanta y le besa en los labios. Daniel se queda helado.",
+"start": 33.32,
+"end": 38.82
+},
+{
+"type": "dialogue",
+"text": "¿Marina?",
+"start": 39.12,
+"end": 39.85,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ah, tú debes de ser el chico de las pizzas. Encantado. Soy Bruno, director de Altamira Inmobiliaria. El novio.",
+"start": 40.07,
+"end": 50.22,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. COMEDOR — CONTINUO",
+"start": 50.69,
+"end": 51.79
+},
+{
+"type": "action",
+"text": "Daniel, temblando, se arrodilla de todos modos. Abre la cajita.",
+"start": 51.79,
+"end": 55.85
+},
+{
+"type": "dialogue",
+"text": "Marina, llevamos tres años. Te he querido desde el primer día. Sé que no tengo mucho, pero...",
+"start": 56.15,
+"end": 63.56,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Es de plata, eso? ¿O de lata?",
+"start": 63.78,
+"end": 66.69,
+"speaker": "MARINA",
+"paren": "riéndose"
+},
+{
+"type": "action",
+"text": "Todos ríen. Marina coge la botella de champán y se la vacía por la cabeza.",
+"start": 66.91,
+"end": 71.48
+},
+{
+"type": "dialogue",
+"text": "Te dejo, Daniel. Bruno gana en un mes lo que tú en diez años.",
+"start": 71.78,
+"end": 76.17,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Y ya puedes sacar tus cosas del piso. Lo pago yo.",
+"start": 76.39,
+"end": 80.86,
+"speaker": "ROSA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Bruno saca unas monedas y se las tira al suelo.",
+"start": 81.08,
+"end": 84.42
+},
+{
+"type": "dialogue",
+"text": "Toma. Para el taxi. Ah, no, que tienes moto.",
+"start": 84.72,
+"end": 90.2,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. CALLE — NOCHE",
+"start": 90.67,
+"end": 91.77
+},
+{
+"type": "action",
+"text": "Daniel sale empapado. Llueve. Se sienta en el bordillo, junto a la moto, con el anillo en la mano.",
+"start": 91.77,
+"end": 97.27
+},
+{
+"type": "dialogue",
+"text": "Mamá... me dijiste que la gente buena siempre gana. Mentiste.",
+"start": 97.57,
+"end": 102.17,
+"speaker": "DANIEL",
+"paren": "a su difunta madre, mirando al cielo"
+},
+{
+"type": "action",
+"text": "Su móvil vibra. Número oculto. Contesta.",
+"start": 102.39,
+"end": 105.41
+},
+{
+"type": "dialogue",
+"text": "¿Daniel Cruz? ¿Hijo de Carmen Cruz Altamira?",
+"start": 105.71,
+"end": 108.85,
+"speaker": "VOZ",
+"paren": "O.S."
+},
+{
+"type": "dialogue",
+"text": "¿Altamira? Mi madre se apellidaba Cruz.",
+"start": 109.07,
+"end": 112.38,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Su madre renunció a su apellido para casarse. Señor... su abuelo, Don Ernesto Altamira, se está muriendo. Quiere verle.",
+"start": 112.6,
+"end": 120.83,
+"speaker": "VOZ",
+"paren": "O.S."
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 121.3,
+"end": 122.4
+},
+{
+"type": "action",
+"text": "Un foco cegador. Un helicóptero negro desciende sobre la plaza, levantando la lluvia. En el fuselaje, en dorado: \"ALTAMIRA\".",
+"start": 122.4,
+"end": 127.9
+},
+{
+"type": "action",
+"text": "Desde una ventana, Marina y Bruno lo ven, boquiabiertos.",
+"start": 128.2,
+"end": 132.01
+},
+{
+"type": "dialogue",
+"text": "El helicóptero le espera, señor Altamira.",
+"start": 132.31,
+"end": 134.68,
+"speaker": "VOZ",
+"paren": "O.S."
+}
+]
+}

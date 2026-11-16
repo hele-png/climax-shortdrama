@@ -1,0 +1,207 @@
+{
+"slug": "esposa-del-mar",
+"ep": 7,
+"duration": 121.91,
+"audio": "media/esposa-del-mar/ep07.m4a",
+"cliff": 97.48,
+"cues": [
+{
+"type": "action",
+"text": "Una pala golpea madera. Un ataúd se abre. Dentro... nada.",
+"start": 0.35,
+"end": 4.14
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CASA DE CARLA — MAÑANA",
+"start": 4.69,
+"end": 5.79
+},
+{
+"type": "action",
+"text": "Carla planta la foto del cementerio delante de Álvaro, que desayuna.",
+"start": 5.79,
+"end": 10.08
+},
+{
+"type": "dialogue",
+"text": "Tu inversora le lleva flores a tu mujer muerta. Explícame eso.",
+"start": 10.38,
+"end": 14.92,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Quizás la conocía.",
+"start": 15.14,
+"end": 16.41,
+"speaker": "ÁLVARO",
+"paren": "mira la foto mucho rato"
+},
+{
+"type": "dialogue",
+"text": "O quizás es ella. ¿Seguro que se ahogó, Álvaro? ¿Viste el cuerpo?",
+"start": 16.63,
+"end": 22.19,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Nunca apareció el cuerpo. Enterramos un ataúd vacío.",
+"start": 22.41,
+"end": 26.55,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Carla tira la taza contra la pared.",
+"start": 26.77,
+"end": 29.56
+},
+{
+"type": "dialogue",
+"text": "¡Pues compruébalo! Porque si vuelve, tú y yo vamos a la cárcel.",
+"start": 29.86,
+"end": 34.17,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. OFICINA DE RÍOS CAPITAL — DÍA",
+"start": 34.64,
+"end": 35.74
+},
+{
+"type": "action",
+"text": "Carla irrumpe en el despacho de Valeria.",
+"start": 35.74,
+"end": 38.76
+},
+{
+"type": "dialogue",
+"text": "Sé lo de las flores. ¿Quién eres?",
+"start": 39.06,
+"end": 41.87,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Alguien que investiga a sus socios. Su prometido enterró a su primera mujer muy deprisa. Y usted ocupó su cama todavía más deprisa. Me gusta saber con quién hago negocios.",
+"start": 42.09,
+"end": 54.54,
+"speaker": "VALERIA",
+"paren": "sin levantar la vista de sus papeles"
+},
+{
+"type": "dialogue",
+"text": "Aléjate de Álvaro.",
+"start": 54.76,
+"end": 56.05,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tranquila. No me interesan los hombres de segunda mano. (La mira.) Aunque a usted siempre le gustó lo usado de su hermana, ¿no?",
+"start": 56.27,
+"end": 64.13,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Carla se va temblando de rabia.",
+"start": 64.35,
+"end": 66.96
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. CEMENTERIO — NOCHE",
+"start": 67.51,
+"end": 68.61
+},
+{
+"type": "action",
+"text": "Lluvia. Valeria frente a su propia tumba. Un SEPULTURERO viejo cuenta billetes.",
+"start": 68.61,
+"end": 73.4
+},
+{
+"type": "dialogue",
+"text": "Le digo que ese ataúd pesaba demasiado poco. Lo cargamos dos. Ni cinco kilos.",
+"start": 73.7,
+"end": 80.26,
+"speaker": "SEPULTURERO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y quién pagó el entierro?",
+"start": 80.48,
+"end": 82.05,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Una señora mayor. Con bastón. Pagó en efectivo y pidió que no se abriera nunca.",
+"start": 82.27,
+"end": 88.38,
+"speaker": "SEPULTURERO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria se queda mirando la lápida. \"Esposa amada.\"",
+"start": 88.6,
+"end": 92.12
+},
+{
+"type": "dialogue",
+"text": "Elvira sabía que yo estaba viva. Lo sabía desde el principio.",
+"start": 92.42,
+"end": 97.01,
+"speaker": "VALERIA",
+"paren": "a la lápida"
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 97.48,
+"end": 98.58
+},
+{
+"type": "action",
+"text": "Un relámpago. Tras ella, entre las tumbas, una figura de negro con un bastón de empuñadura de plata.",
+"start": 98.58,
+"end": 104.08
+},
+{
+"type": "dialogue",
+"text": "Rosas blancas. Siempre fueron tus favoritas, Lucía.",
+"start": 104.38,
+"end": 109.27,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria se gira despacio. Elvira sonríe bajo el paraguas.",
+"start": 109.49,
+"end": 113.28
+},
+{
+"type": "dialogue",
+"text": "Sé quién eres. Y sé lo que estás buscando.",
+"start": 113.58,
+"end": 117.49,
+"speaker": "ELVIRA",
+"paren": ""
+}
+]
+}

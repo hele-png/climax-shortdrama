@@ -1,0 +1,201 @@
+{
+"slug": "repartidor-heredero",
+"ep": 6,
+"duration": 128.04,
+"audio": "media/repartidor-heredero/ep06.m4a",
+"cliff": 104.49,
+"cues": [
+{
+"type": "action",
+"text": "El clic de unas esposas. Toda la oficina graba con el móvil. \"Ladrón. Siempre supe que eras un ladrón.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. PLANTA 12 — CONTINUO",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Dos POLICÍAS esposan a Daniel. Marina lo graba, sonriendo.",
+"start": 7.5,
+"end": 11.34
+},
+{
+"type": "dialogue",
+"text": "Esto va directo a mis stories. \"Mi ex, el ladrón de relojes.\"",
+"start": 11.64,
+"end": 16.17,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Yo no he robado nada.",
+"start": 16.39,
+"end": 17.83,
+"speaker": "DANIEL",
+"paren": "tranquilo"
+},
+{
+"type": "dialogue",
+"text": "Eso díselo al juez. (Le susurra.) O mejor, díselo a tu madre... ah, no. Que está muerta.",
+"start": 18.05,
+"end": 25.44,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel aprieta los puños. Por un segundo está a punto de decirlo todo. Mira el reloj de bolsillo de su abuelo que asoma de su chaqueta. Respira.",
+"start": 25.66,
+"end": 31.16
+},
+{
+"type": "dialogue",
+"text": "Día seis de treinta.",
+"start": 31.46,
+"end": 32.78,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. PLANTA 12 — CONTINUO",
+"start": 33.25,
+"end": 34.35
+},
+{
+"type": "action",
+"text": "Se abre el ascensor. Irene entra a paso rápido con una tablet.",
+"start": 34.35,
+"end": 38.37
+},
+{
+"type": "dialogue",
+"text": "¡Un momento! Agentes, antes de llevárselo, deberían ver esto.",
+"start": 38.67,
+"end": 43.52,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Pone el vídeo en la pantalla gigante de la sala. Cámara de seguridad de los vestuarios, 23:42. Una figura con traje gris fuerza la taquilla. Se gira. Es Bruno, clarísimo.",
+"start": 43.74,
+"end": 49.24
+},
+{
+"type": "action",
+"text": "Silencio. Todos miran a Bruno.",
+"start": 49.54,
+"end": 52.1
+},
+{
+"type": "dialogue",
+"text": "¡Eso... está manipulado!",
+"start": 52.4,
+"end": 54.17,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Esa cámara la instaló Don Ernesto personalmente. Graba directamente en un servidor al que solo tiene acceso dirección. O sea, yo.",
+"start": 54.39,
+"end": 63.76,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. PLANTA 12 — MOMENTOS DESPUÉS",
+"start": 64.23,
+"end": 65.33
+},
+{
+"type": "action",
+"text": "Los policías le quitan las esposas a Daniel. Miran a Bruno.",
+"start": 65.33,
+"end": 69.21
+},
+{
+"type": "dialogue",
+"text": "Señor Castell, ¿quiere poner la denuncia... o la retira?",
+"start": 69.51,
+"end": 72.54,
+"speaker": "POLICÍA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "La retiro. Ha sido un malentendido.",
+"start": 72.76,
+"end": 75.98,
+"speaker": "BRUNO",
+"paren": "rojo de ira"
+},
+{
+"type": "action",
+"text": "Los empleados que se reían de Daniel ahora bajan la mirada. Marina deja de grabar.",
+"start": 76.2,
+"end": 81.13
+},
+{
+"type": "dialogue",
+"text": "Te falta un reloj, Bruno. Pero te sobra tiempo. Por ahora.",
+"start": 81.43,
+"end": 87.21,
+"speaker": "DANIEL",
+"paren": "a Bruno, en voz baja"
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. DESPACHO DE BRUNO — NOCHE",
+"start": 87.68,
+"end": 88.78
+},
+{
+"type": "action",
+"text": "Bruno, furioso, rompe un vaso contra la pared. Marina, a su lado.",
+"start": 88.78,
+"end": 92.94
+},
+{
+"type": "dialogue",
+"text": "¿Cómo tiene ese becario a la secretaria del viejo comiendo de su mano?",
+"start": 93.24,
+"end": 97.01,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No es normal. Daniel nunca tuvo amigos con dinero. (Se queda pensando.) Bruno... ¿y si no es solo un becario?",
+"start": 97.23,
+"end": 104.02,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 104.49,
+"end": 105.59
+},
+{
+"type": "action",
+"text": "El móvil de Daniel vibra en el metro. Mensaje del abogado de Don Ernesto:",
+"start": 105.59,
+"end": 110.11
+},
+{
+"type": "screen",
+"text": "Prueba 2. Bruno Castell va a vender el proyecto del puerto a la competencia el sábado, en la gala Altamira. Tiene 48 horas para impedirlo. Sin revelar su identidad.",
+"start": 110.41,
+"end": 123.54
+}
+]
+}

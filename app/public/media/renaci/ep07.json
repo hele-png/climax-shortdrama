@@ -1,0 +1,233 @@
+{
+"slug": "renaci",
+"ep": 7,
+"duration": 131.93,
+"audio": "media/renaci/ep07.m4a",
+"cliff": 111.89,
+"cues": [
+{
+"type": "action",
+"text": "Martina, inmóvil: \"En mi otra vida te enterré sin saber esto, papá.\"",
+"start": 0.35,
+"end": 4.64
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. HABITACIÓN DE RAMÓN — CONTINUO",
+"start": 5.19,
+"end": 6.29
+},
+{
+"type": "action",
+"text": "Una ENFERMERA ajusta el gotero. El monitor se calma. Sale. Ramón coge aire.",
+"start": 6.29,
+"end": 10.9
+},
+{
+"type": "dialogue",
+"text": "Tu madre, Isabel, no podía tener hijos. Un invierno, una chica muy joven llegó a la bodega con un bebé envuelto en una manta. Pidió trabajo en la vendimia. Una semana después se fue... y te dejó en nuestra puerta. Con una nota.",
+"start": 11.2,
+"end": 30.08,
+"speaker": "RAMÓN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Qué decía la nota?",
+"start": 30.3,
+"end": 31.62,
+"speaker": "MARTINA",
+"paren": "sin voz"
+},
+{
+"type": "dialogue",
+"text": "\"Que tenga la vida que yo no le puedo dar.\"",
+"start": 31.84,
+"end": 34.19,
+"speaker": "RAMÓN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina se seca las lágrimas.",
+"start": 34.41,
+"end": 36.93
+},
+{
+"type": "dialogue",
+"text": "¿La volviste a ver?",
+"start": 37.23,
+"end": 38.47,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Cada domingo, hija. En misa. Tu madre está viva. Y la conoces.",
+"start": 38.69,
+"end": 46.75,
+"speaker": "RAMÓN",
+"paren": "aparta la mirada"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. HOSPITAL — NOCHE",
+"start": 47.22,
+"end": 48.32
+},
+{
+"type": "action",
+"text": "Martina sale aturdida. Gabriel la espera apoyado en su moto.",
+"start": 48.32,
+"end": 52.25
+},
+{
+"type": "dialogue",
+"text": "¿Cómo está?",
+"start": 52.55,
+"end": 53.32,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Vivo. (Se ríe, llorando.) Y yo soy adoptada. Mi madre biológica vive en mi pueblo y nunca me lo ha dicho.",
+"start": 53.54,
+"end": 60.35,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Quieres saber quién es?",
+"start": 60.57,
+"end": 61.85,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ahora no. Ahora quiero destrozar a Hugo.",
+"start": 62.07,
+"end": 65.61,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. CASA DE GABRIEL — NOCHE",
+"start": 66.08,
+"end": 67.18
+},
+{
+"type": "action",
+"text": "Casa humilde, ordenada. Martina abre un cuaderno lleno de fechas.",
+"start": 67.18,
+"end": 71.33
+},
+{
+"type": "dialogue",
+"text": "Necesito que confíes en mí sin hacer preguntas. Dentro de dos días Hugo va a presentar a mi padre un inversor: el Fondo Ébano. Ofrecerán doce millones por el 40 % de la bodega.",
+"start": 71.63,
+"end": 83.68,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Cómo sabes eso?",
+"start": 83.9,
+"end": 85.03,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Sin preguntas. En seis meses el Fondo Ébano será investigado por estafa. Sus dueños desaparecerán con el dinero de quince bodegas. Hugo cobra una comisión por cada una.",
+"start": 85.25,
+"end": 97.59,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Hablas como si ya lo hubieras vivido.",
+"start": 97.81,
+"end": 99.82,
+"speaker": "GABRIEL",
+"paren": "la mira"
+},
+{
+"type": "dialogue",
+"text": "¿Me crees o no?",
+"start": 100.04,
+"end": 101.25,
+"speaker": "MARTINA",
+"paren": "cierra el cuaderno"
+},
+{
+"type": "dialogue",
+"text": "Te creo.",
+"start": 101.47,
+"end": 102.1,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Lo dice sin dudar. Martina se le queda mirando.",
+"start": 102.32,
+"end": 105.66
+},
+{
+"type": "dialogue",
+"text": "¿Por qué? Cualquier otro pensaría que estoy loca.",
+"start": 105.96,
+"end": 109.63,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque nunca me has mentido.",
+"start": 109.85,
+"end": 111.42,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 111.89,
+"end": 112.99
+},
+{
+"type": "action",
+"text": "Martina se levanta para irse. En la estantería de Gabriel ve una foto antigua de la misa del pueblo, de hace veinte años. Una chica muy joven con un bebé en brazos, junto a la iglesia.",
+"start": 112.99,
+"end": 118.49
+},
+{
+"type": "action",
+"text": "La chica tiene el pelo cobrizo. Igual que Noelia.",
+"start": 118.79,
+"end": 122.22
+},
+{
+"type": "dialogue",
+"text": "¿Quién es esta mujer?",
+"start": 122.52,
+"end": 123.98,
+"speaker": "MARTINA",
+"paren": "en un susurro"
+},
+{
+"type": "dialogue",
+"text": "Es Carmen Prats. La madre de Noelia.",
+"start": 124.2,
+"end": 127.51,
+"speaker": "GABRIEL",
+"paren": "serio"
+}
+]
+}

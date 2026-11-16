@@ -1,0 +1,223 @@
+{
+"slug": "renaci",
+"ep": 1,
+"duration": 120.65,
+"audio": "media/renaci/ep01.m4a",
+"cliff": 99.17,
+"cues": [
+{
+"type": "action",
+"text": "Una mujer golpea una ventana desde dentro de una casa en llamas. Fuera, su marido la mira... y echa la llave.",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CASA DE MARTINA Y HUGO, LA RIOJA — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Humo. Fuego en las cortinas. MARTINA (30 años) tose, de rodillas. Llega a la puerta. Cerrada. A través del cristal ve a HUGO y a NOELIA, cogidos de la mano.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "¡Hugo! ¡Abre! ¡Noelia, por favor!",
+"start": 13.3,
+"end": 17.54,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Lo siento, cariño. La bodega necesita un dueño nuevo.",
+"start": 17.76,
+"end": 22.37,
+"speaker": "HUGO",
+"paren": "tranquilo, a través del cristal"
+},
+{
+"type": "dialogue",
+"text": "Y yo necesitaba un marido. Llevo ocho años esperando a que te quitaras de en medio.",
+"start": 22.59,
+"end": 27.96,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Ocho años...? Sois... sois amantes desde el principio.",
+"start": 28.18,
+"end": 32.48,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Desde antes de la boda.",
+"start": 32.7,
+"end": 34.15,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CASA — CONTINUO",
+"start": 34.62,
+"end": 35.72
+},
+{
+"type": "action",
+"text": "Martina se aferra al pomo, que quema.",
+"start": 35.72,
+"end": 38.61
+},
+{
+"type": "dialogue",
+"text": "Mi padre... ¡Mi padre os quería como a hijos!",
+"start": 38.91,
+"end": 42.72,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tu padre no murió de un infarto, Martina. Noelia le cambiaba las pastillas cada domingo. Tardó meses. Fue muy limpio.",
+"start": 42.94,
+"end": 53.09,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina grita. Una viga cae detrás de ella.",
+"start": 53.31,
+"end": 56.46
+},
+{
+"type": "dialogue",
+"text": "Adiós, mejor amiga.",
+"start": 56.76,
+"end": 58.27,
+"speaker": "NOELIA",
+"paren": "sonriendo"
+},
+{
+"type": "action",
+"text": "Se marchan. Las llamas lo devoran todo.",
+"start": 58.49,
+"end": 61.46
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. CASA — MOMENTOS DESPUÉS",
+"start": 62.01,
+"end": 63.11
+},
+{
+"type": "action",
+"text": "Martina, en el suelo, ya sin fuerzas. Un golpe. La puerta revienta. Una silueta con chaqueta de bombero entra entre las llamas: GABRIEL FERRÁN.",
+"start": 63.11,
+"end": 68.61
+},
+{
+"type": "dialogue",
+"text": "¡Martina! ¡Martina, aguanta!",
+"start": 68.91,
+"end": 72.0,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Gabriel...? ¿Por qué tú...?",
+"start": 72.22,
+"end": 74.87,
+"speaker": "MARTINA",
+"paren": "débil"
+},
+{
+"type": "dialogue",
+"text": "Porque siempre eres tú.",
+"start": 75.09,
+"end": 76.45,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Se quita la máscara y se la pone a ella. El techo cruje. Él la abraza para cubrirla con su cuerpo. Ella le mira a los ojos, azules como el hielo.",
+"start": 76.67,
+"end": 82.17
+},
+{
+"type": "dialogue",
+"text": "Si pudiera volver atrás... te elegiría a ti.",
+"start": 82.47,
+"end": 85.34,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El techo se desploma sobre los dos. Blanco total.",
+"start": 85.56,
+"end": 88.98
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. BODEGA OLMEDO — NOCHE",
+"start": 89.53,
+"end": 90.63
+},
+{
+"type": "action",
+"text": "Un grito ahogado. Martina abre los ojos. Velas. Música. Una tarta: \"FELIZ 22, MARTINA\". Se mira las manos: jóvenes, sin quemaduras. En el espejo de una columna, un mechón blanco nuevo en su sien.",
+"start": 90.63,
+"end": 96.13
+},
+{
+"type": "dialogue",
+"text": "¡Silencio todos, que viene lo bueno!",
+"start": 96.43,
+"end": 98.7,
+"speaker": "INVITADO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 99.17,
+"end": 100.27
+},
+{
+"type": "action",
+"text": "Delante de ella, arrodillado, sonriendo con la sonrisa más perfecta del mundo... Hugo, con un anillo.",
+"start": 100.27,
+"end": 105.77
+},
+{
+"type": "dialogue",
+"text": "Martina Olmedo... ¿quieres casarte conmigo?",
+"start": 106.07,
+"end": 108.91,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Detrás de él, aplaudiendo con los ojos llenos de lágrimas, Noelia.",
+"start": 109.13,
+"end": 113.33
+},
+{
+"type": "screen",
+"text": "Ocho años antes de mi muerte.",
+"start": 113.63,
+"end": 116.15
+}
+]
+}

@@ -1,0 +1,199 @@
+{
+"slug": "esposa-del-mar",
+"ep": 10,
+"duration": 128.85,
+"audio": "media/esposa-del-mar/ep10.m4a",
+"cliff": 102.15,
+"cues": [
+{
+"type": "action",
+"text": "Álvaro, a un centímetro de su cara: \"Deberías haberte quedado en el fondo del mar.\"",
+"start": 0.35,
+"end": 5.32
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. DESPACHO DE ÁLVARO — CONTINUO",
+"start": 5.87,
+"end": 6.97
+},
+{
+"type": "action",
+"text": "Álvaro la sujeta. Lucía ya no finge. Lo mira con un odio absoluto.",
+"start": 6.97,
+"end": 11.17
+},
+{
+"type": "dialogue",
+"text": "Sí. Soy yo. La mujer a la que empujaste embarazada.",
+"start": 11.47,
+"end": 16.6,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Si sales de aquí y lo cuentas, nadie te creerá. Estás muerta. Legalmente, no existes.",
+"start": 16.82,
+"end": 24.24,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Entonces no tengo nada que perder. Y tú lo tienes todo.",
+"start": 24.46,
+"end": 28.67,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Golpes en la puerta. La voz de Mateo.",
+"start": 28.89,
+"end": 31.77
+},
+{
+"type": "dialogue",
+"text": "¡Valeria! ¡Abre!",
+"start": 32.07,
+"end": 34.24,
+"speaker": "MATEO",
+"paren": "O.S."
+},
+{
+"type": "action",
+"text": "Álvaro duda. Lucía le pisa el pie con el tacón, se suelta y abre. Mateo entra, la cubre con su abrigo y mira a Álvaro con una calma que da miedo.",
+"start": 34.46,
+"end": 39.96
+},
+{
+"type": "dialogue",
+"text": "Tócala otra vez y te hundo la naviera antes del amanecer.",
+"start": 40.26,
+"end": 43.45,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. LABORATORIO PRIVADO — 48 HORAS DESPUÉS",
+"start": 43.92,
+"end": 45.02
+},
+{
+"type": "action",
+"text": "Lucía y Mateo esperan. Un técnico entrega un sobre. Lucía lo abre con las manos temblando.",
+"start": 45.02,
+"end": 50.31
+},
+{
+"type": "screen",
+"text": "Probabilidad de maternidad: 99,9 %. Lucía Ferrer – Bruno Saavedra.",
+"start": 50.61,
+"end": 57.6
+},
+{
+"type": "action",
+"text": "Lucía rompe a llorar. Mateo la abraza.",
+"start": 57.9,
+"end": 60.82
+},
+{
+"type": "dialogue",
+"text": "Es mío, Mateo. Mi niño. Lo tenían en la casa de enfrente y yo... llevando flores a una tumba vacía.",
+"start": 61.12,
+"end": 69.23,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mañana vamos al juzgado. Con esto, el médico y la grabación de Elvira, es tuyo.",
+"start": 69.45,
+"end": 75.77,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. FINCA SAAVEDRA — NOCHE",
+"start": 76.24,
+"end": 77.34
+},
+{
+"type": "action",
+"text": "Lucía entra sin llamar, con el sobre en la mano. Ya no lleva el disfraz: se ha recogido el pelo y no lleva pintalabios. Es Lucía.",
+"start": 77.34,
+"end": 82.84
+},
+{
+"type": "dialogue",
+"text": "¿Dónde está mi hijo?",
+"start": 83.14,
+"end": 84.53,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Carla, en la escalera, se queda blanca. Álvaro, detrás, no dice nada.",
+"start": 84.75,
+"end": 89.09
+},
+{
+"type": "dialogue",
+"text": "¿Tu... hijo? ¡Álvaro, dile que se vaya!",
+"start": 89.39,
+"end": 92.76,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Pero alguien baja por la escalera principal. Elvira. Con Bruno, dormido, en brazos.",
+"start": 92.98,
+"end": 97.95
+},
+{
+"type": "dialogue",
+"text": "Baja la voz. Lo vas a despertar.",
+"start": 98.25,
+"end": 101.68,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 102.15,
+"end": 103.25
+},
+{
+"type": "action",
+"text": "Elvira se detiene en lo alto. Acaricia los rizos del niño.",
+"start": 103.25,
+"end": 107.08
+},
+{
+"type": "dialogue",
+"text": "Tienes un papel, Lucía. Yo tengo dos pasaportes y un avión privado a las seis. (Sonríe.) Desaparece otra vez... o no lo vuelves a ver en tu vida.",
+"start": 107.38,
+"end": 117.97,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El sobre del ADN cae al suelo de mármol.",
+"start": 118.19,
+"end": 121.21
+},
+{
+"type": "screen",
+"text": "¿Elegirá la venganza... o a su hijo?",
+"start": 121.51,
+"end": 124.35
+}
+]
+}

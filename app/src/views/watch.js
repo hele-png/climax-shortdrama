@@ -19,7 +19,7 @@ export async function renderWatch(view, slug, nStr) {
     if (!ok) { go(`/serie/${slug}`); return; }
   }
   const lk = s.id + ':' + n;
-  view.innerHTML = `<div class="watch-top"><button class="tb-back" id="back" aria-label="Atrás">${ic('chevron-left', 26)}</button><div class="wt-t"><b>${esc(s.title)}</b><small>EP. ${n} · ${esc(ep.title)}</small></div></div>
+  view.innerHTML = `<div class="watch-top"><button class="tb-back" id="back" aria-label="Atrás">${ic('chevron-left', 26)}</button><div class="wt-t"><b>${esc(s.title)}</b><small>EP. ${n} · ${esc(ep.title)}${ep.video ? ' <i class="tag-vid">Vídeo</i>' : ''}</small></div></div>
     <div class="watch-stage"></div>
     <aside class="rail watch-rail">
       <button id="like" class="${isLiked(lk) ? 'on' : ''}" aria-label="Me gusta">${ic('heart-f', 30)}<small>Me gusta</small></button>

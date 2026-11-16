@@ -1,0 +1,177 @@
+{
+"slug": "repartidor-heredero",
+"ep": 8,
+"duration": 114.9,
+"audio": "media/repartidor-heredero/ep08.m4a",
+"cliff": 90.53,
+"cues": [
+{
+"type": "action",
+"text": "Una voz de mujer interrumpe el grito de Marina: \"Yo que tú no lo haría. Hay una cámara justo encima de tu cabeza.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. TERRAZA — CONTINUO",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "IRENE aparece en lo alto de la escalera con un vestido de noche negro, el pelo suelto. Espectacular. Marina se queda con la boca abierta.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "Seguridad del palacio. Graba en alta definición. Con sonido.",
+"start": 13.3,
+"end": 18.87,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Solo era una broma.",
+"start": 19.09,
+"end": 20.49,
+"speaker": "MARINA",
+"paren": "soltando a Daniel"
+},
+{
+"type": "dialogue",
+"text": "Qué graciosa. Ahora, si me disculpas, mi pareja y yo vamos a bailar.",
+"start": 20.71,
+"end": 25.56,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Irene le tiende la mano a Daniel. Él, con el uniforme de camarero, la acepta.",
+"start": 25.78,
+"end": 30.48
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SALÓN DE LA GALA — CONTINUO",
+"start": 31.03,
+"end": 32.13
+},
+{
+"type": "action",
+"text": "La orquesta empieza un vals. Irene se quita la pajarita de Daniel y le desabrocha el primer botón. Todos miran: la secretaria personal del difunto Don Ernesto bailando con un camarero.",
+"start": 32.13,
+"end": 37.63
+},
+{
+"type": "dialogue",
+"text": "Te he traído un traje. Está en el guardarropa. (Sonríe.) Pero así estás bien. Les duele más.",
+"start": 37.93,
+"end": 45.79,
+"speaker": "IRENE",
+"paren": "bailando"
+},
+{
+"type": "dialogue",
+"text": "¿Por qué haces esto por mí?",
+"start": 46.01,
+"end": 47.4,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque llevo cinco años viendo a gente como Bruno pisar a gente como tú. Y tu abuelo me dijo una vez: \"Cuando llegue mi nieto, cuídalo. Va a estar muy solo.\"",
+"start": 47.62,
+"end": 57.82,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel la mira. Algo cambia entre ellos. Sus caras, muy cerca.",
+"start": 58.04,
+"end": 62.06
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. SALÓN — MISMO MOMENTO",
+"start": 62.61,
+"end": 63.71
+},
+{
+"type": "action",
+"text": "Bruno y Marina los miran desde la barra.",
+"start": 63.71,
+"end": 66.72
+},
+{
+"type": "dialogue",
+"text": "¿Desde cuándo Irene Salas baila con camareros?",
+"start": 67.02,
+"end": 69.66,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Desde que ese camarero tiene un secreto. Y yo lo voy a descubrir.",
+"start": 69.88,
+"end": 74.37,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "ROSA VELASCO, la madre de Marina, en un vestido de leopardo, se lleva el móvil al oído y se aleja hacia los baños.",
+"start": 74.59,
+"end": 80.09
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. GUARDARROPA — MÁS TARDE",
+"start": 80.64,
+"end": 81.74
+},
+{
+"type": "action",
+"text": "Daniel se pone el traje negro que le ha traído Irene. Se mira al espejo. Por primera vez, parece un Altamira. Envía el vídeo de Bruno al abogado.",
+"start": 81.74,
+"end": 87.24
+},
+{
+"type": "dialogue",
+"text": "Prueba dos, superada, abuelo.",
+"start": 87.54,
+"end": 90.06,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 90.53,
+"end": 91.63
+},
+{
+"type": "action",
+"text": "Su móvil vibra. Un mensaje. Remitente: \"IRENE SALAS\".",
+"start": 91.63,
+"end": 95.23
+},
+{
+"type": "screen",
+"text": "Sé quién eres, Daniel ALTAMIRA. Un millón de euros mañana a las 12 o el consejo lo sabrá todo. Y perderás tu herencia.",
+"start": 95.53,
+"end": 104.85
+},
+{
+"type": "action",
+"text": "Daniel levanta la vista. Al otro lado del salón, Irene le sonríe y le saluda con la mano.",
+"start": 105.15,
+"end": 110.4
+}
+]
+}

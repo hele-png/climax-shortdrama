@@ -1,0 +1,201 @@
+{
+"slug": "loba-rechazada",
+"ep": 6,
+"duration": 127.77,
+"audio": "media/loba-rechazada/ep06.m4a",
+"cliff": 106.44,
+"cues": [
+{
+"type": "action",
+"text": "El Rey Alfa, con Alba moribunda en brazos, ruge al salón: \"¡QUE NADIE SALGA DE AQUÍ!\"",
+"start": 0.35,
+"end": 5.41
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. GRAN COMEDOR — CONTINUO",
+"start": 5.96,
+"end": 7.06
+},
+{
+"type": "action",
+"text": "Las puertas se cierran solas. Los guardias desenvainan. Darío huele la copa caída.",
+"start": 7.06,
+"end": 11.99
+},
+{
+"type": "dialogue",
+"text": "Acónito. Suficiente para matar a un lobo adulto. (Mira al copero, que tiembla.) Tú.",
+"start": 12.29,
+"end": 17.28,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Me pagaron, majestad! ¡Una mujer con capa, no le vi la cara!",
+"start": 17.5,
+"end": 21.73,
+"speaker": "COPERO",
+"paren": "de rodillas"
+},
+{
+"type": "action",
+"text": "Vanesa permanece inmóvil. Leo la mira. Lo entiende. Pero no dice nada.",
+"start": 21.95,
+"end": 26.33
+},
+{
+"type": "dialogue",
+"text": "Llamad a Remedios. ¡YA!",
+"start": 26.63,
+"end": 29.2,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CABAÑA DE REMEDIOS — NOCHE",
+"start": 29.67,
+"end": 30.77
+},
+{
+"type": "action",
+"text": "Hierbas colgando, velas. REMEDIOS, la curandera ciega de un ojo, prepara un emplasto. Alba, sobre una mesa, con los labios morados, apenas respira. Darío no se separa de ella.",
+"start": 30.77,
+"end": 36.27
+},
+{
+"type": "dialogue",
+"text": "Si fuera una loba normal, ya estaría muerta. Pero esta chica lleva tomando acónito desde que era una cría. Su cuerpo se ha acostumbrado.",
+"start": 36.57,
+"end": 47.27,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Vivirá?",
+"start": 47.49,
+"end": 48.22,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Depende de ti. Dale tu mano.",
+"start": 48.44,
+"end": 51.74,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío le coge la mano. Una luz plateada sube por el brazo de Alba y se mezcla con un brillo dorado en el de él. El color le vuelve a las mejillas.",
+"start": 51.96,
+"end": 57.46
+},
+{
+"type": "dialogue",
+"text": "Lo que pensaba. Vínculo de segunda oportunidad. La Diosa Luna te ha dado otra compañera, Rey. Y menuda compañera.",
+"start": 57.76,
+"end": 68.29,
+"speaker": "REMEDIOS",
+"paren": "sonríe"
+},
+{
+"type": "action",
+"text": "Darío suelta la mano como si quemara.",
+"start": 68.51,
+"end": 71.4
+},
+{
+"type": "dialogue",
+"text": "No. Otra vez no.",
+"start": 71.7,
+"end": 74.04,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. CABAÑA — AMANECER",
+"start": 74.51,
+"end": 75.61
+},
+{
+"type": "action",
+"text": "Alba abre los ojos. Darío ya no está. Solo Remedios, que fuma una pipa.",
+"start": 75.61,
+"end": 80.04
+},
+{
+"type": "dialogue",
+"text": "¿Dónde estoy?",
+"start": 80.34,
+"end": 81.43,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Viva. Que no es poco. (La mira con su único ojo sano.) Tienes los ojos de tu madre. Elena Rivas. La última sacerdotisa de la Luna de Plata.",
+"start": 81.65,
+"end": 92.88,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Conoció a mi madre? Me dijeron que murió en un accidente. Que se cayó por un barranco cuando yo tenía dos años.",
+"start": 93.1,
+"end": 101.15,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Un barranco? A tu madre no la mató un barranco, niña.",
+"start": 101.37,
+"end": 105.97,
+"speaker": "REMEDIOS",
+"paren": "se ríe, amarga"
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 106.44,
+"end": 107.54
+},
+{
+"type": "action",
+"text": "Remedios se acerca. Baja la voz.",
+"start": 107.54,
+"end": 110.2
+},
+{
+"type": "dialogue",
+"text": "A tu madre la asesinaron. Y el hombre que dio la orden te dio de comer acónito durante dieciséis años.",
+"start": 110.5,
+"end": 117.76,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Quién?",
+"start": 117.98,
+"end": 118.61,
+"speaker": "ALBA",
+"paren": "sin voz"
+},
+{
+"type": "dialogue",
+"text": "Rodrigo Navarro. El padre del chico que te rechazó.",
+"start": 118.83,
+"end": 123.35,
+"speaker": "REMEDIOS",
+"paren": ""
+}
+]
+}

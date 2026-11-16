@@ -1,0 +1,239 @@
+{
+"slug": "loba-rechazada",
+"ep": 7,
+"duration": 135.79,
+"audio": "media/loba-rechazada/ep07.m4a",
+"cliff": 110.85,
+"cues": [
+{
+"type": "action",
+"text": "Alba, con una espada de madera, golpea al Rey Alfa en el pecho. Él ni se mueve. \"Otra vez. Con odio.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. PATIO DE ENTRENAMIENTO — DÍA",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Alba entrena con furia. Cada golpe lleva el nombre de Rodrigo. Darío esquiva sin esfuerzo.",
+"start": 7.5,
+"end": 12.79
+},
+{
+"type": "dialogue",
+"text": "Peleas como una omega. Con miedo.",
+"start": 13.09,
+"end": 16.19,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Es que soy una omega!",
+"start": 16.41,
+"end": 17.98,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Eres la hija de una sacerdotisa de la Luna de Plata. Pelea como tal.",
+"start": 18.2,
+"end": 22.98,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Alba lanza un golpe. Sus ojos destellan en plata. Darío sale despedido dos metros hacia atrás. Silencio. Los guardias se quedan boquiabiertos.",
+"start": 23.2,
+"end": 28.7
+},
+{
+"type": "dialogue",
+"text": "¿He sido yo?",
+"start": 29.0,
+"end": 29.95,
+"speaker": "ALBA",
+"paren": "asustada"
+},
+{
+"type": "dialogue",
+"text": "Por fin.",
+"start": 30.17,
+"end": 30.88,
+"speaker": "DARÍO",
+"paren": "levantándose, sonriendo"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. MURALLA DEL CASTILLO — NOCHE",
+"start": 31.35,
+"end": 32.45
+},
+{
+"type": "action",
+"text": "Alba y Darío, solos, bajo la luna. Viento frío. Él le pone su abrigo de piel sobre los hombros.",
+"start": 32.45,
+"end": 37.95
+},
+{
+"type": "dialogue",
+"text": "Remedios dice que somos compañeros. Que tú también lo sientes.",
+"start": 38.25,
+"end": 42.96,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Remedios habla demasiado.",
+"start": 43.18,
+"end": 44.81,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Lo sientes o no?",
+"start": 45.03,
+"end": 46.32,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío la mira. Le aparta un mechón plateado de la cara.",
+"start": 46.54,
+"end": 50.24
+},
+{
+"type": "dialogue",
+"text": "Te sentí antes de verte. Treinta kilómetros. (Pausa.) Por eso tienes que irte de este castillo.",
+"start": 50.54,
+"end": 57.1,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Qué?",
+"start": 57.32,
+"end": 57.83,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. MURALLA — CONTINUO",
+"start": 58.3,
+"end": 59.4
+},
+{
+"type": "action",
+"text": "Darío se aparta. Se toca las cicatrices de garra de la mejilla.",
+"start": 59.4,
+"end": 63.46
+},
+{
+"type": "dialogue",
+"text": "He tenido tres compañeras en ciento cuarenta años. Tres. La primera murió de fiebre una semana después de que la marcara. La segunda, de una caída. La tercera se arrojó al mar sin motivo. Todas, el día después de la marca.",
+"start": 63.76,
+"end": 80.94,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Coincidencias.",
+"start": 81.16,
+"end": 82.41,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Una maldición. Una bruja me la echó hace un siglo. \"Toda la que lleve tu marca morirá.\" (La mira.) No pienso enterrarte a ti también.",
+"start": 82.63,
+"end": 91.8,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No te he pedido que me marques.",
+"start": 92.02,
+"end": 94.04,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi lobo me lo pide cada segundo que estás cerca.",
+"start": 94.26,
+"end": 97.17,
+"speaker": "DARÍO",
+"paren": "con la voz rota"
+},
+{
+"type": "action",
+"text": "Alba se acerca. Le pone la mano en el pecho. El corazón de él late desbocado.",
+"start": 97.39,
+"end": 102.09
+},
+{
+"type": "dialogue",
+"text": "Entonces ten miedo. Pero no me eches.",
+"start": 102.39,
+"end": 105.84,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Él cierra los ojos. Se inclina. Sus frentes se tocan. Casi un beso.",
+"start": 106.06,
+"end": 110.3
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 110.85,
+"end": 111.95
+},
+{
+"type": "action",
+"text": "Un cuerno de guerra suena desde la torre. Un GUARDIA corre por la muralla.",
+"start": 111.95,
+"end": 116.52
+},
+{
+"type": "dialogue",
+"text": "¡Majestad! El Consejo de Manadas exige la Prueba de la Luna para la omega. ¡Mañana a medianoche!",
+"start": 116.82,
+"end": 123.71,
+"speaker": "GUARDIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Quién la ha pedido?",
+"start": 123.93,
+"end": 125.01,
+"speaker": "DARÍO",
+"paren": "pálido"
+},
+{
+"type": "dialogue",
+"text": "El Alfa Rodrigo Navarro. Si no se transforma ante el Consejo... será ejecutada por bruja.",
+"start": 125.23,
+"end": 131.37,
+"speaker": "GUARDIA",
+"paren": ""
+}
+]
+}

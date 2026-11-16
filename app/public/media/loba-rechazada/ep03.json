@@ -1,0 +1,219 @@
+{
+"slug": "loba-rechazada",
+"ep": 3,
+"duration": 111.21,
+"audio": "media/loba-rechazada/ep03.m4a",
+"cliff": 83.85,
+"cues": [
+{
+"type": "action",
+"text": "El lobo negro despedaza el silencio con un rugido. Los renegados huyen. Solo queda Alba... y él.",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. BOSQUE PROFUNDO — CONTINUO",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "El lobo negro se acerca. Alba no puede moverse. Él baja el hocico hasta su cuello y la huele. Gruñe, grave. Entonces se transforma: entre la niebla aparece un hombre altísimo, pelo negro recogido, cicatrices de garra en la mejilla. DARÍO VALCÁRCEL. Se cubre con un abrigo negro que le lanza un guardia que surge entre los árboles.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "¿Quién eres?",
+"start": 13.3,
+"end": 14.12,
+"speaker": "DARÍO",
+"paren": "con voz ronca"
+},
+{
+"type": "dialogue",
+"text": "Nadie. Una omega desterrada.",
+"start": 14.34,
+"end": 17.41,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mientes. (Se acerca más.) Tu olor me ha llamado desde treinta kilómetros.",
+"start": 17.63,
+"end": 21.67,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Le coge la muñeca. Ve la marca de nacimiento en forma de luna creciente. Se le oscurecen los ojos dorados.",
+"start": 21.89,
+"end": 27.39
+},
+{
+"type": "dialogue",
+"text": "Mía.",
+"start": 27.69,
+"end": 28.26,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Alba se desmaya en sus brazos.",
+"start": 28.48,
+"end": 31.04
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CASTILLO DE VALCÁRCEL, DORMITORIO — DÍA",
+"start": 31.59,
+"end": 32.69
+},
+{
+"type": "action",
+"text": "Alba despierta en una cama enorme, entre pieles. Una chimenea. Un vestido de seda blanca en una silla. Se asoma a la ventana: un castillo de piedra sobre un acantilado, rodeado de bosque y niebla.",
+"start": 32.69,
+"end": 38.19
+},
+{
+"type": "action",
+"text": "Entra una CRIADA.",
+"start": 38.49,
+"end": 40.46
+},
+{
+"type": "dialogue",
+"text": "Señora, el Rey Alfa la espera.",
+"start": 40.76,
+"end": 42.74,
+"speaker": "CRIADA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Señora? Yo friego suelos.",
+"start": 42.96,
+"end": 45.97,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ya no.",
+"start": 46.19,
+"end": 46.92,
+"speaker": "CRIADA",
+"paren": "bajando la cabeza"
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. SALÓN DEL TRONO — DÍA",
+"start": 47.39,
+"end": 48.49
+},
+{
+"type": "action",
+"text": "Antorchas. Un trono de piedra negra. Darío, sentado, con un anillo de plata con forma de lobo. Generales a su alrededor.",
+"start": 48.49,
+"end": 53.99
+},
+{
+"type": "dialogue",
+"text": "¿Por qué me salvaste? ¿Qué quieres de mí?",
+"start": 54.29,
+"end": 57.49,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Silencio en mi salón. (A los generales.) Dejadnos.",
+"start": 57.71,
+"end": 60.85,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Salen todos. Darío baja del trono y camina a su alrededor, despacio.",
+"start": 61.07,
+"end": 65.36
+},
+{
+"type": "dialogue",
+"text": "Te rechazaron anoche. Lo sé porque el cielo se puso rojo. Eso no pasa desde hace cien años.",
+"start": 65.66,
+"end": 72.85,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Dicen que soy una bruja.",
+"start": 73.07,
+"end": 74.81,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Dicen muchas tonterías. También dicen que yo mato a mis compañeras.",
+"start": 75.03,
+"end": 79.81,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y es verdad?",
+"start": 80.03,
+"end": 80.97,
+"speaker": "ALBA",
+"paren": "traga saliva"
+},
+{
+"type": "action",
+"text": "DARÍO: (no responde)",
+"start": 81.19,
+"end": 83.3
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 83.85,
+"end": 84.95
+},
+{
+"type": "action",
+"text": "Darío le sujeta la barbilla y le gira la cara hacia la luz. Sus ojos plateados brillan.",
+"start": 84.95,
+"end": 90.1
+},
+{
+"type": "dialogue",
+"text": "Ojos de plata. Pelo de luna. La marca en la muñeca. (Su voz se vuelve peligrosa.) El linaje de la Luna de Plata se extinguió. Yo mismo vi morir a la última... hace dieciséis años.",
+"start": 90.4,
+"end": 102.55,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Le suelta la barbilla.",
+"start": 102.77,
+"end": 104.97
+},
+{
+"type": "dialogue",
+"text": "Tú no deberías existir.",
+"start": 105.27,
+"end": 106.79,
+"speaker": "DARÍO",
+"paren": ""
+}
+]
+}

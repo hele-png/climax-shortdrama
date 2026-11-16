@@ -1,0 +1,241 @@
+{
+"slug": "renaci",
+"ep": 6,
+"duration": 126.68,
+"audio": "media/renaci/ep06.m4a",
+"cliff": 109.32,
+"cues": [
+{
+"type": "action",
+"text": "Un guardia civil vacía el bolso de Martina sobre una mesa. Cae un frasco de pastillas que ella nunca había visto.",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. PLAZA DEL PUEBLO — CONTINUO",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Dos GUARDIAS CIVILES se abren paso. Los vecinos murmuran: \"Su propia hija\". \"Por la herencia\".",
+"start": 7.5,
+"end": 12.97
+},
+{
+"type": "dialogue",
+"text": "Martina Olmedo, tiene que acompañarnos.",
+"start": 13.27,
+"end": 15.84,
+"speaker": "GUARDIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Ese frasco no es mío! ¡Ella lo ha metido!",
+"start": 16.06,
+"end": 19.7,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Marti, por favor, no mientas más.",
+"start": 19.92,
+"end": 22.37,
+"speaker": "NOELIA",
+"paren": "sollozando en brazos de Hugo"
+},
+{
+"type": "action",
+"text": "El guardia abre el bolso de Martina. Encuentra otro frasco igual. Y el informe del laboratorio.",
+"start": 22.59,
+"end": 28.09
+},
+{
+"type": "dialogue",
+"text": "\"Contenido real: digoxina.\" Usted sabía lo que contenían las pastillas.",
+"start": 28.39,
+"end": 33.53,
+"speaker": "GUARDIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Lo sabía porque las mandé analizar!",
+"start": 33.75,
+"end": 35.91,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y por qué no se lo dijiste a nadie, Martina? ¿Por qué no avisaste a los médicos?",
+"start": 36.13,
+"end": 42.21,
+"speaker": "HUGO",
+"paren": "con voz rota, para que todos lo oigan"
+},
+{
+"type": "action",
+"text": "Martina se queda sin respuesta. No puede decir: \"Porque lo sé desde mi otra vida\".",
+"start": 42.43,
+"end": 47.36
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. PLAZA — CONTINUO",
+"start": 47.91,
+"end": 49.01
+},
+{
+"type": "action",
+"text": "Los guardias le cogen los brazos. Una voz grave corta el murmullo.",
+"start": 49.01,
+"end": 53.21
+},
+{
+"type": "dialogue",
+"text": "Ese frasco lo metió Noelia en su bolso. Ayer, en el hospital. Lo vi.",
+"start": 53.51,
+"end": 59.78,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Todos se giran. Gabriel, con el uniforme.",
+"start": 60.0,
+"end": 63.06
+},
+{
+"type": "dialogue",
+"text": "¡Eso es mentira!",
+"start": 63.36,
+"end": 64.54,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "El hospital tiene cámaras en la máquina de café. Pídanlas.",
+"start": 64.76,
+"end": 68.88,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Las pediremos. Señorita Olmedo, no salga del pueblo.",
+"start": 69.1,
+"end": 73.4,
+"speaker": "GUARDIA",
+"paren": "dudando"
+},
+{
+"type": "action",
+"text": "La sueltan. Martina mira a Gabriel. Él no la mira a ella. Mira a Hugo. Con un odio que no tiene sentido en alguien que apenas le conoce.",
+"start": 73.62,
+"end": 79.12
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. HOSPITAL, HABITACIÓN DE RAMÓN — NOCHE",
+"start": 79.67,
+"end": 80.77
+},
+{
+"type": "action",
+"text": "Martina entra corriendo. Ramón, pálido, abre los ojos por primera vez.",
+"start": 80.77,
+"end": 85.16
+},
+{
+"type": "dialogue",
+"text": "¡Papá! Papá, soy yo.",
+"start": 85.46,
+"end": 88.05,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Martina...",
+"start": 88.27,
+"end": 89.13,
+"speaker": "RAMÓN",
+"paren": "desorientado"
+},
+{
+"type": "dialogue",
+"text": "Todo va a salir bien. Sé quién te ha hecho esto. Ya no te van a tocar.",
+"start": 89.35,
+"end": 95.31,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Ramón le aprieta la mano con fuerza. Tiene lágrimas en los ojos.",
+"start": 95.53,
+"end": 99.64
+},
+{
+"type": "dialogue",
+"text": "Hija... tengo que decirte algo. Por si no salgo de esta.",
+"start": 99.94,
+"end": 105.01,
+"speaker": "RAMÓN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Vas a salir.",
+"start": 105.23,
+"end": 106.26,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Debí decírtelo hace veinte años.",
+"start": 106.48,
+"end": 108.85,
+"speaker": "RAMÓN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 109.32,
+"end": 110.42
+},
+{
+"type": "action",
+"text": "Ramón la mira con una pena infinita.",
+"start": 110.42,
+"end": 113.25
+},
+{
+"type": "dialogue",
+"text": "Martina... tú no eres mi hija.",
+"start": 113.55,
+"end": 115.8,
+"speaker": "RAMÓN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El monitor de Ramón empieza a pitar más rápido.",
+"start": 116.02,
+"end": 119.36
+},
+{
+"type": "screen",
+"text": "Esto no pasó en mi otra vida.",
+"start": 119.66,
+"end": 122.18
+}
+]
+}

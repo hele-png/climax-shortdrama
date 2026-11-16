@@ -21,7 +21,7 @@ export function clearOverlay() { localStorage.removeItem(OVERLAY_KEY); rebuild()
 
 function normalize(s, i) {
   const slug = s.slug || String(s.title || 'serie-' + i).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-  const episodes = (s.episodes || []).map((e, j) => ({ n: e.n ?? j + 1, title: e.title || `Episodio ${j + 1}`, hook: e.hook || '', durationSec: +e.durationSec || 90, script: e.script ?? null, freeEpisode: !!e.freeEpisode })).sort((a, b) => a.n - b.n);
+  const episodes = (s.episodes || []).map((e, j) => ({ n: e.n ?? j + 1, title: e.title || `Episodio ${j + 1}`, hook: e.hook || '', durationSec: +e.durationSec || 90, script: e.script ?? null, freeEpisode: !!e.freeEpisode, audio: e.audio || null, cues: e.cues || null, video: e.video || null })).sort((a, b) => a.n - b.n);
   return { id: s.id || slug, slug, title: s.title || 'Sin título', niche: s.niche || 'Drama', logline: s.logline || '', synopsis: s.synopsis || '', totalEpisodes: Math.max(+s.totalEpisodes || 0, episodes.length), style: s.style || '', characters: s.characters || [], images: s.images || [], episodes, _custom: !!s._custom };
 }
 function rebuild() {

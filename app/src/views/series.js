@@ -63,12 +63,12 @@ export function renderSeries(view, slug) {
         if (e.planned) return `<button class="ep planned" disabled ${hide} title="En producción"><b>${e.n}</b></button>`;
         const a = monetization.accessSync(s, e.n), c = epCompletion(s.id, e.n);
         return `<button class="ep ${a} ${p.lastEp === e.n ? 'current' : ''}" data-play="${e.n}" ${hide} aria-label="Episodio ${e.n}${a === 'locked' ? ', bloqueado' : ''}">
-          <b>${e.n}</b>${a === 'locked' ? ic('lock', 12, 'ep-lk') : a === 'subscription' ? '<i class="ep-vip">VIP</i>' : ''}
+          ${e.video ? `<i class="ep-vid" title="Vídeo">${ic('movie', 11)}</i>` : ''}<b>${e.n}</b>${a === 'locked' ? ic('lock', 12, 'ep-lk') : a === 'subscription' ? '<i class="ep-vip">VIP</i>' : ''}
           ${c ? `<span class="epbar"><i style="width:${c * 100}%"></i></span>` : ''}</button>`;
       }).join('')}</div>
       <div class="ep-list" ${mode === 'list' ? '' : 'hidden'}>${s.episodes.filter((e) => Math.floor((e.n - 1) / RANGE) === range).map(e => {
         const a = monetization.accessSync(s, e.n);
-        return `<button class="ep-row" data-play="${e.n}"><span class="ep-n">${String(e.n).padStart(2, '0')}</span><span class="ep-txt"><b>${esc(e.title)}</b><small>${esc(e.hook)}</small><em>${fmtTime(e.durationSec)}${a === 'locked' ? ` · ${coinIc(11)} ${cfg.coinCost}` : a === 'free' && e.n <= cfg.freeEpisodes ? ' · Gratis' : ''}</em></span>${a === 'locked' ? ic('lock', 16, 'ep-st') : ic('player-play', 16, 'ep-st')}</button>`;
+        return `<button class="ep-row" data-play="${e.n}"><span class="ep-n">${String(e.n).padStart(2, '0')}</span><span class="ep-txt"><b>${esc(e.title)}</b><small>${esc(e.hook)}</small><em>${e.video ? '<i class="tag-vid">Vídeo</i> ' : e.audio ? 'Con audio · ' : ''}${fmtTime(e.durationSec)}${a === 'locked' ? ` · ${coinIc(11)} ${cfg.coinCost}` : a === 'free' && e.n <= cfg.freeEpisodes ? ' · Gratis' : ''}</em></span>${a === 'locked' ? ic('lock', 16, 'ep-st') : ic('player-play', 16, 'ep-st')}</button>`;
       }).join('')}</div>
       <p class="fine">${s.episodes.length < s.totalEpisodes ? `${s.episodes.length} episodios publicados · ${s.totalEpisodes - s.episodes.length} en producción. ` : ''}Desbloquea los episodios con ${coinIc(11)} ${cfg.coinCost} coins, un anuncio o con VIP.</p>
     </section>

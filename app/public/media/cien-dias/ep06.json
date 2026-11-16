@@ -1,0 +1,189 @@
+{
+"slug": "cien-dias",
+"ep": 6,
+"duration": 120.19,
+"audio": "media/cien-dias/ep06.m4a",
+"cliff": 102.26,
+"cues": [
+{
+"type": "action",
+"text": "Un monitor cardiaco en línea plana. Pitido continuo. Elena golpea el cristal: \"¡PABLO!\"",
+"start": 0.35,
+"end": 5.5
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. UCI PEDIÁTRICA — NOCHE",
+"start": 6.05,
+"end": 7.15
+},
+{
+"type": "action",
+"text": "Médicos alrededor de Pablo. Desfibrilador. Una, dos descargas. El pitido vuelve: bip... bip... Elena cae de rodillas. Adrián la sostiene.",
+"start": 7.15,
+"end": 12.65
+},
+{
+"type": "dialogue",
+"text": "Está estable, pero no aguantará dos semanas. Hay que operar esta noche y aquí nadie hace esa técnica.",
+"start": 12.95,
+"end": 19.13,
+"speaker": "DOCTORA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "El doctor Harrison, de Boston, sí.",
+"start": 19.35,
+"end": 21.96,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Está en Estados Unidos.",
+"start": 22.18,
+"end": 23.87,
+"speaker": "DOCTORA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ya no. (Mira el reloj.) Aterriza en Barajas en cuarenta minutos. Le mandé mi avión hace cinco días. Por si acaso.",
+"start": 24.09,
+"end": 32.58,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena lo mira, sin entender.",
+"start": 32.8,
+"end": 35.27
+},
+{
+"type": "dialogue",
+"text": "¿Hace cinco días? Si nos conocimos hace seis.",
+"start": 35.57,
+"end": 39.61,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián no responde.",
+"start": 39.83,
+"end": 41.9
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SALA DE ESPERA — AMANECER",
+"start": 42.45,
+"end": 43.55
+},
+{
+"type": "action",
+"text": "Seis horas de operación. Elena, dormida sobre el hombro de Adrián, con su americana por encima. Él no se ha movido. Sale el CIRUJANO.",
+"start": 43.55,
+"end": 49.05
+},
+{
+"type": "dialogue",
+"text": "It went perfectly. El corazón del niño es fuerte.",
+"start": 49.35,
+"end": 52.82,
+"speaker": "CIRUJANO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena se despierta, oye la noticia y, sin pensar, se lanza al cuello de Adrián y lo abraza con todas sus fuerzas.",
+"start": 53.04,
+"end": 58.54
+},
+{
+"type": "dialogue",
+"text": "Gracias. Gracias. Gracias.",
+"start": 58.84,
+"end": 63.09,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián, rígido, tarda en devolverle el abrazo. Cuando lo hace, cierra los ojos como si le doliera.",
+"start": 63.31,
+"end": 68.81
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. CAFETERÍA DEL HOSPITAL — MAÑANA",
+"start": 69.36,
+"end": 70.46
+},
+{
+"type": "action",
+"text": "Elena, feliz, pide dos cafés. Iker aparece a su lado, con gafas de sol y una sonrisa.",
+"start": 70.46,
+"end": 75.52
+},
+{
+"type": "dialogue",
+"text": "Qué bonito. Mi hermano el héroe. ¿Te ha contado por qué es tan generoso contigo?",
+"start": 75.82,
+"end": 82.35,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque tiene corazón. Aunque lo esconda.",
+"start": 82.57,
+"end": 85.89,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ay, cuñada. (Saca un sobre.) Tu padre se llamaba Javier Robles, ¿verdad? Murió en la carretera de La Coruña, en 2016. Un conductor se dio a la fuga.",
+"start": 86.11,
+"end": 97.84,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena deja de sonreír.",
+"start": 98.06,
+"end": 100.26
+},
+{
+"type": "dialogue",
+"text": "¿Cómo sabes eso?",
+"start": 100.56,
+"end": 101.79,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 102.26,
+"end": 103.36
+},
+{
+"type": "action",
+"text": "Iker desliza una foto antigua sobre la mesa: un coche deportivo destrozado en una cuneta, de noche. Y junto a él, con la cara ensangrentada y veintidós años... Adrián Montenegro.",
+"start": 103.36,
+"end": 109.78
+},
+{
+"type": "dialogue",
+"text": "Mi hermano no te ha elegido por casualidad, Elena. Te ha elegido por culpa.",
+"start": 110.08,
+"end": 115.77,
+"speaker": "IKER",
+"paren": ""
+}
+]
+}

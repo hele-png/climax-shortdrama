@@ -1,0 +1,203 @@
+{
+"slug": "esposa-del-mar",
+"ep": 8,
+"duration": 135.61,
+"audio": "media/esposa-del-mar/ep08.m4a",
+"cliff": 115.57,
+"cues": [
+{
+"type": "action",
+"text": "Elvira, bajo la lluvia: \"Mi hijo es un cobarde. Pero tú y yo podemos llegar a un acuerdo.\"",
+"start": 0.35,
+"end": 5.64
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. CEMENTERIO — CONTINUO",
+"start": 6.19,
+"end": 7.29
+},
+{
+"type": "action",
+"text": "Valeria se planta frente a la anciana.",
+"start": 7.29,
+"end": 10.22
+},
+{
+"type": "dialogue",
+"text": "Si sabe quién soy, ¿por qué no ha llamado a la policía?",
+"start": 10.52,
+"end": 13.65,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque la policía haría preguntas. A todos. (Golpea el suelo con el bastón.) Odio a esa niña, a Carla. Vulgar, ambiciosa. Quiere quedarse con el apellido Saavedra.",
+"start": 13.87,
+"end": 27.13,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y qué propone?",
+"start": 27.35,
+"end": 28.42,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tú destruyes a Carla. Yo te ayudo. Y cuando acabes, te marchas de España y no vuelves a acercarte a mi hijo.",
+"start": 28.64,
+"end": 37.41,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y el niño? ¿Bruno?",
+"start": 37.63,
+"end": 39.96,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elvira tarda un segundo de más en contestar.",
+"start": 40.18,
+"end": 43.38
+},
+{
+"type": "dialogue",
+"text": "Bruno es un Saavedra. Se queda con su familia.",
+"start": 43.68,
+"end": 48.07,
+"speaker": "ELVIRA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. COCHE DE ELVIRA — NOCHE",
+"start": 48.54,
+"end": 49.64
+},
+{
+"type": "action",
+"text": "Elvira sube al coche con su chófer. Habla por teléfono, sin saber que Valeria ha dejado caer un micrófono diminuto en su bolso al despedirse.",
+"start": 49.64,
+"end": 55.14
+},
+{
+"type": "dialogue",
+"text": "Ha vuelto, doctor Lerma. Sí, ella. Si alguien pregunta por el hospital San Rafael de Cádiz, usted no recuerda nada. Le pagué para eso.",
+"start": 55.44,
+"end": 67.16,
+"speaker": "ELVIRA",
+"paren": "AL TELÉFONO"
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. ÁTICO DE MATEO — NOCHE",
+"start": 67.63,
+"end": 68.73
+},
+{
+"type": "action",
+"text": "Valeria y Mateo escuchan la grabación.",
+"start": 68.73,
+"end": 71.66
+},
+{
+"type": "dialogue",
+"text": "Hospital San Rafael. Donde te tuvieron en coma.",
+"start": 71.96,
+"end": 75.98,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Donde me dijeron que mi hijo había muerto.",
+"start": 76.2,
+"end": 78.59,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Mateo abre el portátil. Teclea rápido.",
+"start": 78.81,
+"end": 81.74
+},
+{
+"type": "dialogue",
+"text": "Tengo un contacto en el archivo. Me debe un favor. (Pausa.) Lucía... si lees esto, ya no hay vuelta atrás.",
+"start": 82.04,
+"end": 90.23,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No hay vuelta atrás desde que me tiraron al agua.",
+"start": 90.45,
+"end": 93.14,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. ÁTICO — MINUTOS DESPUÉS",
+"start": 93.61,
+"end": 94.71
+},
+{
+"type": "action",
+"text": "Llega un correo. Un PDF escaneado, con sello del hospital. Valeria lo abre. Lee en voz alta, cada vez más despacio.",
+"start": 94.71,
+"end": 100.21
+},
+{
+"type": "dialogue",
+"text": "\"Paciente femenina, sin identificar. Rescatada del mar. Estado: coma. Gestación: 28 semanas. Se practica cesárea de urgencia...\"",
+"start": 100.51,
+"end": 112.65,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Se le quiebra la voz.",
+"start": 112.87,
+"end": 115.02
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 115.57,
+"end": 116.67
+},
+{
+"type": "screen",
+"text": "RECIÉN NACIDO: VARÓN. ESTADO: VIVO. ENTREGADO A: E. SAAVEDRA.",
+"start": 116.67,
+"end": 124.88
+},
+{
+"type": "action",
+"text": "Valeria deja caer el portátil.",
+"start": 125.18,
+"end": 127.74
+},
+{
+"type": "dialogue",
+"text": "Mi hijo no murió. Me lo robaron.",
+"start": 128.04,
+"end": 131.19,
+"speaker": "VALERIA",
+"paren": ""
+}
+]
+}

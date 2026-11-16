@@ -1,7 +1,7 @@
 // Genera src/icons.js con los iconos de Tabler Icons (MIT) que usa la app
 import fs from 'node:fs';
 const base = new URL('../node_modules/@tabler/icons/icons/', import.meta.url);
-const names = 'home player-play player-pause heart heart:f bookmark bookmark:f list-numbers share-3 user search chevron-left chevron-right chevron-down lock lock-open crown crown:f coin gift player-skip-forward player-track-next rotate-clockwise x check flame sparkles star:f eye clock file-text download settings layout-dashboard chart-bar trash plus edit device-mobile-down logout history receipt arrow-up-right ad-2 credit-card brand-apple brand-google movie users photo layout-grid list refresh alert-triangle circle-check info-circle calendar-event bolt dots-vertical arrow-left adjustments script book-2 trending-up player-play:f home:f user:f bookmarks circle-check:f flame:f player-pause:f'.split(' ');
+const names = 'home player-play player-pause heart heart:f bookmark bookmark:f list-numbers share-3 user search chevron-left chevron-right chevron-down lock lock-open crown crown:f coin gift player-skip-forward player-track-next rotate-clockwise x check flame sparkles star:f eye clock file-text download settings layout-dashboard chart-bar trash plus edit device-mobile-down logout history receipt arrow-up-right ad-2 credit-card brand-apple brand-google movie users photo layout-grid list refresh alert-triangle circle-check info-circle calendar-event bolt dots-vertical arrow-left adjustments script book-2 trending-up player-play:f home:f user:f bookmarks circle-check:f flame:f player-pause:f volume volume-off'.split(' ');
 const out = {};
 for (const n of names) {
   const [name, f] = n.split(':');

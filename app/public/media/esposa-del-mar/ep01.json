@@ -1,0 +1,197 @@
+{
+"slug": "esposa-del-mar",
+"ep": 1,
+"duration": 115.24,
+"audio": "media/esposa-del-mar/ep01.m4a",
+"cliff": 101.94,
+"cues": [
+{
+"type": "action",
+"text": "Plano cenital: una mujer cae al mar negro. VOZ EN OFF DE LUCÍA: \"Esta es la noche en que mi marido me mató.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. CUBIERTA DEL YATE \"SAAVEDRA I\" — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Luces de fiesta, música lejana. LUCÍA (pelo castaño largo, vestido de seda crema) sostiene una cajita envuelta. Sonríe nerviosa.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "Cinco años casados... y por fin un regalo que no se compra.",
+"start": 13.3,
+"end": 16.92,
+"speaker": "LUCÍA",
+"paren": "para sí"
+},
+{
+"type": "screen",
+"text": "Dentro de la caja, una prueba de embarazo. Positivo.",
+"start": 17.14,
+"end": 21.66
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CAMAROTE PRINCIPAL — CONTINUO",
+"start": 22.21,
+"end": 23.31
+},
+{
+"type": "action",
+"text": "Lucía abre la puerta. Se le cae la caja. ÁLVARO besa a CARLA contra la pared. Carla lleva al cuello el collar de esmeralda de la madre de Lucía.",
+"start": 23.31,
+"end": 28.81
+},
+{
+"type": "dialogue",
+"text": "¿Carla? ¿Ese... es el collar de mamá?",
+"start": 29.11,
+"end": 32.54,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Te queda mejor a ti el luto, hermanita.",
+"start": 32.76,
+"end": 35.03,
+"speaker": "CARLA",
+"paren": "sin soltarle la corbata"
+},
+{
+"type": "dialogue",
+"text": "Lucía, no es lo que...",
+"start": 35.25,
+"end": 36.85,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Es exactamente lo que parece! Mañana mismo hablo con mi abogado. El 60 % de la naviera es mío, Álvaro. Mío. Mi padre me lo dejó a mí.",
+"start": 37.07,
+"end": 49.55,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Álvaro y Carla intercambian una mirada. Silencio.",
+"start": 49.77,
+"end": 53.2
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. POPA DEL YATE — MOMENTOS DESPUÉS",
+"start": 53.75,
+"end": 54.85
+},
+{
+"type": "action",
+"text": "Lucía sale corriendo. Viento. Álvaro la alcanza y la agarra del brazo.",
+"start": 54.85,
+"end": 59.23
+},
+{
+"type": "dialogue",
+"text": "Tranquila. Hablemos.",
+"start": 59.53,
+"end": 61.83,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Iba a decirte que vas a ser padre.",
+"start": 62.05,
+"end": 64.39,
+"speaker": "LUCÍA",
+"paren": "llorando, le enseña el test"
+},
+{
+"type": "action",
+"text": "Por un segundo, Álvaro duda. Carla aparece detrás de él y le susurra al oído.",
+"start": 64.61,
+"end": 69.31
+},
+{
+"type": "dialogue",
+"text": "Si firma el divorcio, no te queda nada. Si se cae... lo heredas todo.",
+"start": 69.61,
+"end": 74.46,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Álvaro le acaricia la mejilla a Lucía. Ella cierra los ojos, creyendo que la va a abrazar.",
+"start": 74.68,
+"end": 79.97
+},
+{
+"type": "dialogue",
+"text": "Feliz aniversario, cariño.",
+"start": 80.27,
+"end": 82.26,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "La empuja. Lucía se golpea la clavícula con la barandilla y cae al agua.",
+"start": 82.48,
+"end": 86.95
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. MAR — CONTINUO",
+"start": 87.5,
+"end": 88.6
+},
+{
+"type": "action",
+"text": "Bajo el agua. Burbujas. La prueba de embarazo se hunde a su lado. Arriba, dos siluetas la miran sin moverse. El yate se aleja.",
+"start": 88.6,
+"end": 94.1
+},
+{
+"type": "dialogue",
+"text": "Me dejaron hundirme. A mí... y a mi bebé.",
+"start": 94.4,
+"end": 98.15,
+"speaker": "LUCÍA",
+"paren": "V.O."
+},
+{
+"type": "action",
+"text": "Se le cierran los ojos. Oscuridad total.",
+"start": 98.37,
+"end": 101.39
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 101.94,
+"end": 103.04
+},
+{
+"type": "action",
+"text": "De pronto, una MANO desconocida le agarra la muñeca bajo el agua y tira de ella hacia arriba.",
+"start": 103.04,
+"end": 108.61
+},
+{
+"type": "screen",
+"text": "3 AÑOS DESPUÉS",
+"start": 108.91,
+"end": 110.74
+}
+]
+}

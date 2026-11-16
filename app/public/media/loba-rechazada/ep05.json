@@ -1,0 +1,231 @@
+{
+"slug": "loba-rechazada",
+"ep": 5,
+"duration": 139.28,
+"audio": "media/loba-rechazada/ep05.m4a",
+"cliff": 115.38,
+"cues": [
+{
+"type": "action",
+"text": "Leo, de rodillas ante el trono, se lleva la mano al pecho y gime de dolor: el vínculo roto arde.",
+"start": 0.35,
+"end": 5.89
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. SALÓN DEL TRONO — CONTINUO",
+"start": 6.44,
+"end": 7.54
+},
+{
+"type": "dialogue",
+"text": "Alba...",
+"start": 7.54,
+"end": 8.12,
+"speaker": "LEO",
+"paren": "con los dientes apretados"
+},
+{
+"type": "dialogue",
+"text": "Para ti es \"señora\". (Se levanta. Todos se encogen.) Esta mujer está bajo mi protección. El que le toque un pelo responderá ante mí.",
+"start": 8.34,
+"end": 15.52,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Majestad, es una omega sin...",
+"start": 15.74,
+"end": 17.9,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "He dicho ante mí, Rodrigo.",
+"start": 18.12,
+"end": 19.96,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Rodrigo baja la cabeza. Vanesa mira a Alba con un odio que quema.",
+"start": 20.18,
+"end": 24.33
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. JARDINES DEL CASTILLO — ATARDECER",
+"start": 24.88,
+"end": 25.98
+},
+{
+"type": "action",
+"text": "Alba pasea sola. Leo la alcanza.",
+"start": 25.98,
+"end": 28.64
+},
+{
+"type": "dialogue",
+"text": "Alba, escúchame. No dormí en toda la noche. Te siento. Siento tu frío, tu miedo. Es como si me hubiera arrancado la mitad de mí.",
+"start": 28.94,
+"end": 40.93,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Eso se llama rechazo, Leo. Yo lo sentí primero. Delante de todos.",
+"start": 41.15,
+"end": 47.4,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi padre me obligó. Dijo que si te elegía, nos expulsaría a los dos.",
+"start": 47.62,
+"end": 52.98,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y por eso besaste a Vanesa delante de mí mientras yo lloraba en el suelo? ¿También te obligó?",
+"start": 53.2,
+"end": 59.05,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Leo no responde.",
+"start": 59.27,
+"end": 61.2
+},
+{
+"type": "dialogue",
+"text": "Ese hombre es peligroso. Todas sus compañeras han muerto. Vuelve conmigo. Yo te protegeré.",
+"start": 61.5,
+"end": 70.09,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tú no me protegiste ni de ti mismo.",
+"start": 70.31,
+"end": 72.44,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Se va. Leo da un puñetazo a un árbol. La corteza se astilla.",
+"start": 72.66,
+"end": 76.59
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. COCINAS DEL CASTILLO — NOCHE",
+"start": 77.14,
+"end": 78.24
+},
+{
+"type": "action",
+"text": "Vanesa, envuelta en una capa, soborna a un COPERO con una bolsa de monedas.",
+"start": 78.24,
+"end": 83.21
+},
+{
+"type": "dialogue",
+"text": "La copa de la señora Alba en el banquete de esta noche. Solo unas gotas.",
+"start": 83.51,
+"end": 88.61,
+"speaker": "VANESA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Qué es?",
+"start": 88.83,
+"end": 89.43,
+"speaker": "COPERO",
+"paren": "temblando"
+},
+{
+"type": "dialogue",
+"text": "Un tónico. Para que duerma bien. (Sonríe.) Muy, muy bien.",
+"start": 89.65,
+"end": 94.42,
+"speaker": "VANESA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Le da un frasquito con un líquido violeta. Una flor morada en la etiqueta: acónito.",
+"start": 94.64,
+"end": 99.61
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. GRAN COMEDOR — NOCHE",
+"start": 100.16,
+"end": 101.26
+},
+{
+"type": "action",
+"text": "Banquete. Darío preside, con Alba a su derecha. Leo no le quita los ojos de encima. El copero llena la copa de Alba de vino. Le tiemblan las manos.",
+"start": 101.26,
+"end": 106.76
+},
+{
+"type": "dialogue",
+"text": "Por la luna roja. Que ha traído de vuelta lo que creíamos perdido.",
+"start": 107.06,
+"end": 111.55,
+"speaker": "DARÍO",
+"paren": "alzando su copa"
+},
+{
+"type": "action",
+"text": "Todos brindan. Alba sonríe a Darío. Bebe.",
+"start": 111.77,
+"end": 114.83
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 115.38,
+"end": 116.48
+},
+{
+"type": "action",
+"text": "La copa se le resbala de los dedos. Alba se lleva la mano a la garganta. Tose. Una tos con un hilo morado en los labios.",
+"start": 116.48,
+"end": 121.98
+},
+{
+"type": "dialogue",
+"text": "Darío... me arde...",
+"start": 122.28,
+"end": 123.74,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Cae de la silla. Darío la coge al vuelo. Sus ojos se vuelven de oro puro y un rugido inhumano sacude todo el castillo.",
+"start": 123.96,
+"end": 129.46
+},
+{
+"type": "action",
+"text": "Al fondo de la mesa, Vanesa se lleva la servilleta a los labios. Oculta una sonrisa.",
+"start": 129.76,
+"end": 134.78
+}
+]
+}

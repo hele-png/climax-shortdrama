@@ -1,0 +1,203 @@
+{
+"slug": "esposa-del-mar",
+"ep": 4,
+"duration": 121.0,
+"audio": "media/esposa-del-mar/ep04.m4a",
+"cliff": 98.07,
+"cues": [
+{
+"type": "action",
+"text": "Carla grita frente al espejo: \"¿Quién le ha dejado entrar con MI vestido?\"",
+"start": 0.35,
+"end": 4.91
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. SALA DE JUNTAS — CONTINUACIÓN DEL EP. 3",
+"start": 5.46,
+"end": 6.56
+},
+{
+"type": "action",
+"text": "Silencio absoluto. Valeria sonríe, sin perder la calma.",
+"start": 6.56,
+"end": 10.26
+},
+{
+"type": "dialogue",
+"text": "¿Lucía? Lo siento, señora. Soy de Bilbao. Y estoy muy viva.",
+"start": 10.56,
+"end": 17.5,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi madre está cansada. Mi esposa... falleció.",
+"start": 17.72,
+"end": 21.74,
+"speaker": "ÁLVARO",
+"paren": "recomponiéndose"
+},
+{
+"type": "dialogue",
+"text": "Lo leí. Un accidente en el mar, ¿verdad? (Recoge su carpeta.) Le espero el sábado en su fiesta de compromiso para firmar. Me han invitado los bancos.",
+"start": 21.96,
+"end": 31.94,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. JARDÍN DE LA FINCA SAAVEDRA — NOCHE",
+"start": 32.41,
+"end": 33.51
+},
+{
+"type": "action",
+"text": "Fiesta de compromiso. Velas, cuarteto de cuerda. Carla, en rosa, presume de anillo. Llega Valeria: lleva un vestido de encaje marfil idéntico al de la boda de Lucía. Murmullos.",
+"start": 33.51,
+"end": 39.01
+},
+{
+"type": "dialogue",
+"text": "¿Ese no es el vestido que llevaba Lucía en su boda?",
+"start": 39.31,
+"end": 41.96,
+"speaker": "INVITADA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Qué vestido tan... vintage.",
+"start": 42.18,
+"end": 43.94,
+"speaker": "CARLA",
+"paren": "acercándose, sonrisa tensa"
+},
+{
+"type": "dialogue",
+"text": "Era de una mujer que conocí. Me dijo que se lo habían quitado todo. Le prometí que se lo devolvería.",
+"start": 44.16,
+"end": 51.48,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Carla, con la mano temblando, \"tropieza\" y le lanza su copa de vino tinto al vestido. Gritos.",
+"start": 51.7,
+"end": 57.13
+},
+{
+"type": "dialogue",
+"text": "¡Uy! Qué torpe soy.",
+"start": 57.43,
+"end": 59.6,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria ni se inmuta. Coge la copa de un camarero, se acerca a Carla y la vacía lentamente sobre el collar de esmeralda.",
+"start": 59.82,
+"end": 65.32
+},
+{
+"type": "dialogue",
+"text": "Las esmeraldas auténticas no se manchan. (Pausa.) Las falsas, sí. Igual que las personas.",
+"start": 65.62,
+"end": 72.54,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Carla rompe a llorar. Álvaro aparece.",
+"start": 72.76,
+"end": 75.65
+},
+{
+"type": "dialogue",
+"text": "¡Señora Montes! Fuera de mi casa.",
+"start": 75.95,
+"end": 79.08,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Como quiera. Pero los 200 millones se van conmigo. (Se gira.) Tiene hasta medianoche.",
+"start": 79.3,
+"end": 85.67,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. JARDÍN — CONTINUO",
+"start": 86.14,
+"end": 87.24
+},
+{
+"type": "action",
+"text": "Valeria camina hacia la salida. Por dentro, tiembla. Mateo la espera junto al coche.",
+"start": 87.24,
+"end": 92.26
+},
+{
+"type": "dialogue",
+"text": "¿Estás bien?",
+"start": 92.56,
+"end": 93.44,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Él ni siquiera me ha mirado a los ojos. Ni una vez.",
+"start": 93.66,
+"end": 97.6,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 98.07,
+"end": 99.17
+},
+{
+"type": "action",
+"text": "Una vocecita a sus espaldas:",
+"start": 99.17,
+"end": 101.65
+},
+{
+"type": "dialogue",
+"text": "¡MAMÁ!",
+"start": 101.95,
+"end": 102.73,
+"speaker": "NIÑO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria se gira. Un NIÑO de casi tres años, rizos castaños y traje de marinerito, corre por el césped... y se lanza a los brazos de Carla.",
+"start": 102.95,
+"end": 108.45
+},
+{
+"type": "action",
+"text": "Primer plano del niño: tiene los ojos verde avellana. Exactamente iguales a los de Lucía.",
+"start": 108.75,
+"end": 114.0
+},
+{
+"type": "screen",
+"text": "Mi bebé... ¿está vivo?",
+"start": 114.3,
+"end": 116.5
+}
+]
+}

@@ -6,6 +6,10 @@ import { monetization } from './monetization.js';
 import { esc, fmtTime, h } from './util.js';
 import { ic } from './icons.js';
 const PAUSE = ic('player-pause-f', 22), PLAY = ic('player-play-f', 22);
+const VOL = ic('volume', 20), MUTE = ic('volume-off', 20);
+const cueCache = new Map();
+const loadCues = (u) => { if (!cueCache.has(u)) cueCache.set(u, fetch(u).then(r => r.ok ? r.json() : null).catch(() => null)); return cueCache.get(u); };
+let userMuted = false;
 
 const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
 function findChar(series, speaker) {
@@ -19,12 +23,15 @@ const SPEEDS = [1, 1.5, 2];
  * @param {object} opts { series, ep, mode: 'full'|'feed', autoplay, onNext(n), onEnd() }
  */
 export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, onNext, onEnd }) {
-  const D = ep.durationSec || 90;
-  const cues = timeline(ep.script ? parseScript(ep.script) : fallbackCues(series, ep), D);
+  let D = ep.durationSec || 90;
+  let cues = timeline(ep.script ? parseScript(ep.script) : fallbackCues(series, ep), D);
   const fr = sceneFrames(series, ep);
   const el = h(`<div class="player ${mode}">
     <div class="kb-stage">${fr.map((f, i) => `<div class="kb-frame kb-${i % 4}">${f.url ? `<img src="${f.url}" alt="" onerror="this.remove()">` : ''}</div>`).join('')}</div>
+    ${ep.video ? `<video class="pl-video" playsinline webkit-playsinline preload="metadata" poster="${fr[fr.length - 1]?.url || ''}"></video>` : ''}
     <div class="pl-shade"></div>
+    ${ep.video ? '<span class="pl-tag">' + ic('movie', 13) + 'Vídeo</span>' : ''}
+    <button class="pl-unmute" hidden>${MUTE}Toca para activar el sonido</button>
     <div class="pl-scene-chip" hidden></div>
     <div class="pl-subs"></div>
     <div class="pl-tapzones"><div data-z="prev"></div><div data-z="toggle"></div><div data-z="next"></div></div>
@@ -35,6 +42,7 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
         <button class="pl-btn" data-c="play" aria-label="Reproducir o pausar">${PAUSE}</button>
         <span class="pl-time">0:00 / ${fmtTime(D)}</span>
         <span class="spacer"></span>
+        ${ep.audio || ep.video ? `<button class="pl-btn" data-c="mute" aria-label="Silenciar">${VOL}</button>` : ''}
         <button class="pl-btn pill-btn" data-c="speed">1x</button>
         <button class="pl-btn" data-c="skip" aria-label="Saltar al final">${ic('player-skip-forward', 22)}</button>
       </div>
@@ -45,6 +53,37 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
   const $ = (s) => el.querySelector(s);
   const frameEls = [...el.querySelectorAll('.kb-frame')];
   let t = 0, playing = false, speed = 1, raf = 0, last = 0, curCue = -1, curFrame = -1, ended = false, lastSave = 0;
+  // ---- audio / vídeo: el medio manda el reloj cuando está listo; si falla, sigue el reloj interno (mudo)
+  let media = null, mediaOk = false, frameOf = null, destroyed = false;
+  if (ep.video) media = el.querySelector('.pl-video');
+  else if (ep.audio) { media = new Audio(); media.preload = 'auto'; }
+  const setMuteIcon = () => { const b = $('[data-c=mute]'); if (b && media) b.innerHTML = media.muted ? MUTE : VOL; $('.pl-unmute').hidden = !(media && media.muted && !userMuted && playing); };
+  function tryPlayMedia() {
+    if (!media || !mediaOk) return;
+    media.muted = userMuted || media.muted && !navigator.userActivation?.hasBeenActive;
+    const p = media.play(); setMuteIcon();
+    if (p && p.catch) p.catch((err) => { if (err?.name === 'NotAllowedError' && !media.muted) { media.muted = true; media.play().catch(() => {}); setMuteIcon(); } });
+  }
+  if (media) {
+    media.addEventListener('loadedmetadata', () => {
+      if (destroyed) return; mediaOk = true; if (isFinite(media.duration) && media.duration > 1) D = media.duration;
+      if (t > 0.5) media.currentTime = Math.min(t, D - 0.5);
+      if (playing) tryPlayMedia(); update();
+    });
+    media.addEventListener('error', () => { mediaOk = false; });
+    media.addEventListener('ended', () => { if (!ended) { t = D; update(); finish(); } });
+    media.addEventListener('volumechange', setMuteIcon);
+    if (ep.video) el.classList.add('has-video');
+  }
+  if (ep.cues) loadCues(ep.cues).then(meta => {
+    if (!meta || destroyed || !meta.cues?.length) return;
+    const frac = t / D; cues = meta.cues; D = media && mediaOk && isFinite(media.duration) ? media.duration : meta.duration;
+    // un fotograma por escena del guion (sincronizado con el audio)
+    let k = 0; frameOf = cues.map((c, i) => { if (c.type === 'scene' && i > 0) k = (k + 1) % fr.length; return k; });
+    if (!mediaOk) t = frac * D; curCue = -1; update();
+    if (media && !media.src) { media.src = ep.video || ep.audio; media.load(); }
+  });
+  else if (media) { media.src = ep.video || ep.audio; }
   const startAt = epCompletion(series.id, ep.n); if (startAt > 0.05 && startAt < 0.9 && mode === 'full') t = startAt * D;
 
   function renderCue(i) {
@@ -74,21 +113,22 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
     $('.pl-time').textContent = `${fmtTime(t)} / ${fmtTime(D)}`;
     let i = cues.findIndex(c => t >= c.start && t < c.end); if (i < 0) i = t >= D * 0.96 ? cues.length - 1 : 0;
     renderCue(i);
-    renderFrame(Math.min(fr.length - 1, Math.floor(p * fr.length)));
+    renderFrame(frameOf ? frameOf[Math.max(0, i)] : Math.min(fr.length - 1, Math.floor(p * fr.length)));
     if (Date.now() - lastSave > 2500 && t > 1) { lastSave = Date.now(); recordProgress(series.id, ep.n, p); }
   }
   function loop(now) {
     if (!playing) return;
     const dt = (now - last) / 1000; last = now;
-    t += Math.min(dt, 0.25) * speed;
-    if (t >= D) { t = D; update(); return finish(); }
+    if (media && mediaOk && !media.paused && media.readyState >= 2) t = media.currentTime;
+    else t += Math.min(dt, 0.25) * speed;
+    if (t >= D - (media && mediaOk ? 0.05 : 0)) { t = D; update(); return finish(); }
     update(); raf = requestAnimationFrame(loop);
   }
-  function play() { if (ended) return; playing = true; el.classList.remove('paused'); $('.pl-paused').hidden = true; $('[data-c=play]').innerHTML = PAUSE; last = performance.now(); cancelAnimationFrame(raf); raf = requestAnimationFrame(loop); }
-  function pause(show = true) { playing = false; cancelAnimationFrame(raf); el.classList.add('paused'); $('[data-c=play]').innerHTML = PLAY; if (show) $('.pl-paused').hidden = false; }
-  function seek(nt) { t = Math.max(0, Math.min(D - 0.01, nt)); if (ended) { ended = false; $('.pl-end').hidden = true; } update(); }
+  function play() { if (ended) return; playing = true; tryPlayMedia(); el.classList.remove('paused'); $('.pl-paused').hidden = true; $('[data-c=play]').innerHTML = PAUSE; last = performance.now(); cancelAnimationFrame(raf); raf = requestAnimationFrame(loop); }
+  function pause(show = true) { playing = false; media?.pause(); setMuteIcon(); cancelAnimationFrame(raf); el.classList.add('paused'); $('[data-c=play]').innerHTML = PLAY; if (show) $('.pl-paused').hidden = false; }
+  function seek(nt) { t = Math.max(0, Math.min(D - 0.01, nt)); if (media && mediaOk) { try { media.currentTime = t; } catch {} } if (ended) { ended = false; $('.pl-end').hidden = true; } update(); }
   function finish() {
-    playing = false; ended = true; recordProgress(series.id, ep.n, 1);
+    playing = false; ended = true; media?.pause(); setMuteIcon(); recordProgress(series.id, ep.n, 1);
     const next = getEpisode(series, ep.n + 1);
     const box = $('.pl-end'); box.hidden = false;
     const locked = next && monetization.accessSync(series, next.n) === 'locked';
@@ -116,7 +156,10 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
   el.querySelector('[data-z=next]').onclick = () => { const nx = cues.find(c => c.start > t + 0.05); seek(nx ? nx.start : D - 0.05); if (!playing) play(); };
   el.querySelector('[data-z=prev]').onclick = () => { const cur = cues.findIndex(c => t >= c.start && t < c.end); const pv = cues[Math.max(0, cur - 1)]; seek(pv ? pv.start : 0); if (!playing) play(); };
   $('[data-c=play]').onclick = (e) => { e.stopPropagation(); playing ? pause() : play(); };
-  $('[data-c=speed]').onclick = (e) => { e.stopPropagation(); speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.currentTarget.textContent = speed + 'x'; };
+  $('[data-c=speed]').onclick = (e) => { e.stopPropagation(); speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.currentTarget.textContent = speed + 'x'; if (media) media.playbackRate = speed; };
+  const toggleMute = (e) => { e.stopPropagation(); if (!media) return; media.muted = !media.muted; userMuted = media.muted; if (!media.muted && playing && media.paused) tryPlayMedia(); setMuteIcon(); };
+  el.querySelector('[data-c=mute]')?.addEventListener('click', toggleMute);
+  $('.pl-unmute').onclick = (e) => { e.stopPropagation(); if (media) { media.muted = false; userMuted = false; if (playing) tryPlayMedia(); setMuteIcon(); } };
   $('[data-c=skip]').onclick = (e) => { e.stopPropagation(); seek(D - 0.3); if (!playing) play(); };
   const prog = $('.pl-progress');
   const seekFromEvent = (ev) => { const r = prog.getBoundingClientRect(); const x = (ev.touches ? ev.touches[0].clientX : ev.clientX) - r.left; seek((x / r.width) * D); };
@@ -126,6 +169,6 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
   update(); if (autoplay) play(); else pause(false);
   return {
     play, pause, el,
-    destroy() { if (t > 1 && !ended) recordProgress(series.id, ep.n, t / D); playing = false; cancelAnimationFrame(raf); document.removeEventListener('visibilitychange', onVis); el.remove(); },
+    destroy() { if (t > 1 && !ended) recordProgress(series.id, ep.n, t / D); playing = false; destroyed = true; if (media) { media.pause(); media.removeAttribute('src'); media.load(); } cancelAnimationFrame(raf); document.removeEventListener('visibilitychange', onVis); el.remove(); },
   };
 }

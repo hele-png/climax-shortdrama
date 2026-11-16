@@ -11,8 +11,16 @@ if (fs.existsSync(contentFile)) {
   catch (e) { console.warn('[sync] content/data.json inválido, uso mock:', e.message); }
 }
 if (process.env.USE_MOCK) { src = mockFile; label = 'mock (forzado)'; }
-fs.copyFileSync(src, path.join(pub, 'data.json'));
 const data = JSON.parse(fs.readFileSync(src, 'utf8'));
+// media (audio/vídeo generados): public/media/<slug>/epNN.{m4a,json,mp4}
+let nAudio = 0, nVideo = 0;
+for (const ser of data) for (const ep of (ser.episodes || [])) {
+  const b = `media/${ser.slug}/ep${String(ep.n).padStart(2, '0')}`;
+  if (fs.existsSync(path.join(pub, b + '.json')) && fs.existsSync(path.join(pub, b + '.m4a'))) { ep.audio = b + '.m4a'; ep.cues = b + '.json'; nAudio++; }
+  if (fs.existsSync(path.join(pub, b + '.mp4'))) { ep.video = b + '.mp4'; nVideo++; }
+}
+fs.writeFileSync(path.join(pub, 'data.json'), JSON.stringify(data));
+console.log(`[sync] media: ${nAudio} episodios con audio, ${nVideo} con vídeo`);
 // manifest de imágenes
 const imgDir = path.join(pub, 'img');
 const images = [];

@@ -1,0 +1,237 @@
+{
+"slug": "renaci",
+"ep": 8,
+"duration": 135.21,
+"audio": "media/renaci/ep08.m4a",
+"cliff": 115.84,
+"cues": [
+{
+"type": "action",
+"text": "Hugo, ante un inversor: \"Doce millones, don Ramón. Firme aquí.\" Martina rompe el contrato en dos.",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. DESPACHO DE LA BODEGA OLMEDO — DÍA",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Ramón, recuperado pero débil, con su gorra. Hugo y el SR. VIDAL, del Fondo Ébano, con un contrato. Martina entra sin llamar.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "Papá, no firmes.",
+"start": 13.3,
+"end": 14.79,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Martina, esto es una oportunidad única para la bodega.",
+"start": 15.01,
+"end": 18.42,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Lo único que es único es la comisión que vas a cobrar tú. (Al Sr. Vidal.) ¿Qué tal sus oficinas en Luxemburgo, señor Vidal? ¿Las que no existen?",
+"start": 18.64,
+"end": 27.41,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El Sr. Vidal se pone pálido.",
+"start": 27.63,
+"end": 30.1
+},
+{
+"type": "dialogue",
+"text": "No sé de qué habla.",
+"start": 30.4,
+"end": 31.64,
+"speaker": "SR. VIDAL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Hablo de la Bodega Garrido, de la Bodega Rioja Alta Sur y de otras trece que han firmado con ustedes este año. (Deja una carpeta.) Hoy salen en la prensa. Gabriel y yo hemos hablado con un periodista.",
+"start": 31.86,
+"end": 43.55,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Rompe el contrato.",
+"start": 43.77,
+"end": 45.79
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. DESPACHO — CONTINUO",
+"start": 46.34,
+"end": 47.44
+},
+{
+"type": "action",
+"text": "El móvil del Sr. Vidal empieza a vibrar sin parar. Mira la pantalla. Sale corriendo sin despedirse.",
+"start": 47.44,
+"end": 52.94
+},
+{
+"type": "dialogue",
+"text": "Hija... ¿cómo lo sabías?",
+"start": 53.24,
+"end": 55.17,
+"speaker": "RAMÓN",
+"paren": "atónito"
+},
+{
+"type": "dialogue",
+"text": "Intuición.",
+"start": 55.39,
+"end": 56.38,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Hugo se queda en silencio. Mira a Martina como si la viera por primera vez.",
+"start": 56.6,
+"end": 61.21
+},
+{
+"type": "dialogue",
+"text": "Muy buena intuición.",
+"start": 61.51,
+"end": 62.83,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. VIÑEDO — ATARDECER",
+"start": 63.3,
+"end": 64.4
+},
+{
+"type": "action",
+"text": "Martina camina entre las viñas. Victoria. Llama a Gabriel.",
+"start": 64.4,
+"end": 68.24
+},
+{
+"type": "dialogue",
+"text": "¡Lo hemos conseguido! El fondo está acabado. Y Hugo, con él.",
+"start": 68.54,
+"end": 74.03,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Martina, ten cuidado. Un hombre acorralado es peligroso.",
+"start": 74.25,
+"end": 78.76,
+"speaker": "GABRIEL",
+"paren": "O.S."
+},
+{
+"type": "dialogue",
+"text": "Lo sé mejor que nadie.",
+"start": 78.98,
+"end": 80.47,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Cuelga. Unos pasos detrás de ella. Hugo.",
+"start": 80.69,
+"end": 83.71
+},
+{
+"type": "dialogue",
+"text": "Me has costado dos millones en comisiones. ¿Sabes lo que es más raro? Que esa noticia no debía salir hasta noviembre.",
+"start": 84.01,
+"end": 92.64,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina se queda quieta.",
+"start": 92.86,
+"end": 95.15
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. VIÑEDO — CONTINUO",
+"start": 95.7,
+"end": 96.8
+},
+{
+"type": "action",
+"text": "Hugo la agarra de la muñeca. Su reloj de oro brilla con el sol poniente.",
+"start": 96.8,
+"end": 101.27
+},
+{
+"type": "dialogue",
+"text": "Rechazaste mi pedida sin motivo. Le quitaste las pastillas a tu padre antes de que nadie sospechara. Buscaste a un bombero con el que no habías hablado nunca. Y ahora esto.",
+"start": 101.57,
+"end": 114.16,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Suéltame.",
+"start": 114.38,
+"end": 115.37,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 115.84,
+"end": 116.94
+},
+{
+"type": "action",
+"text": "Hugo se acerca a su oído y susurra:",
+"start": 116.94,
+"end": 119.73
+},
+{
+"type": "dialogue",
+"text": "Tú también recuerdas, ¿verdad, cariño? (Sonríe.) Recuerdas el fuego.",
+"start": 120.03,
+"end": 124.98,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina siente que se le hiela la sangre.",
+"start": 125.2,
+"end": 128.26
+},
+{
+"type": "screen",
+"text": "Él también ha vuelto.",
+"start": 128.56,
+"end": 130.71
+}
+]
+}

@@ -1,0 +1,211 @@
+{
+"slug": "loba-rechazada",
+"ep": 2,
+"duration": 116.01,
+"audio": "media/loba-rechazada/ep02.m4a",
+"cliff": 92.63,
+"cues": [
+{
+"type": "action",
+"text": "El Alfa Rodrigo, señalando el bosque: \"Bruja. Fuera de mis tierras antes del amanecer.\"",
+"start": 0.35,
+"end": 5.5
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. CLARO DE LA LUNA — CONTINUO",
+"start": 6.05,
+"end": 7.15
+},
+{
+"type": "action",
+"text": "Pánico. La luna roja. Los lobos se apartan de Alba como de una enfermedad.",
+"start": 7.15,
+"end": 11.72
+},
+{
+"type": "dialogue",
+"text": "¡Ha maldecido la luna! ¡Mirad sus ojos!",
+"start": 12.02,
+"end": 15.38,
+"speaker": "VANESA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Alba Rivas, quedas desterrada de Sierra Negra. Si vuelves a pisar estas tierras, morirás.",
+"start": 15.6,
+"end": 23.13,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Por qué? ¡No he hecho nada!",
+"start": 23.35,
+"end": 26.02,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tienes los ojos de tu madre. Y tu madre trajo la desgracia a esta manada.",
+"start": 26.24,
+"end": 32.56,
+"speaker": "RODRIGO",
+"paren": "en voz baja, solo para ella"
+},
+{
+"type": "action",
+"text": "Leo, todavía doblado de dolor, no dice nada.",
+"start": 32.78,
+"end": 35.98
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. LINDE DEL BOSQUE — NOCHE",
+"start": 36.53,
+"end": 37.63
+},
+{
+"type": "action",
+"text": "Alba, con su capa gris, cruza el límite del territorio. Leo aparece detrás de un árbol.",
+"start": 37.63,
+"end": 42.78
+},
+{
+"type": "dialogue",
+"text": "Alba... espera.",
+"start": 43.08,
+"end": 44.51,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Vienes a rechazarme otra vez?",
+"start": 44.73,
+"end": 46.71,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Me duele. Aquí. (Se toca el pecho.) Desde que lo dijiste.",
+"start": 46.93,
+"end": 51.35,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Bien. Que te duela toda la vida.",
+"start": 51.57,
+"end": 54.58,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Le da la espalda y se adentra en el bosque oscuro.",
+"start": 54.8,
+"end": 58.27
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. BOSQUE PROFUNDO — MÁS TARDE",
+"start": 58.82,
+"end": 59.92
+},
+{
+"type": "action",
+"text": "Niebla. Ramas que crujen. Alba camina sola, helada. Ojos amarillos se encienden en la oscuridad. Uno. Tres. Siete.",
+"start": 59.92,
+"end": 65.42
+},
+{
+"type": "dialogue",
+"text": "¿Quién anda ahí?",
+"start": 65.72,
+"end": 66.85,
+"speaker": "ALBA",
+"paren": "asustada"
+},
+{
+"type": "action",
+"text": "Salen de la niebla: RENEGADOS. Lobos sin manada, flacos, salvajes, con el pelo sucio. Uno se transforma a medias en humano.",
+"start": 67.07,
+"end": 72.57
+},
+{
+"type": "dialogue",
+"text": "Una loba sin manada en nuestro bosque. Y huele... deliciosa.",
+"start": 72.87,
+"end": 77.31,
+"speaker": "RENEGADO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No tengo loba. No soy nada. Dejadme pasar.",
+"start": 77.53,
+"end": 82.41,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mientes. Hueles a luna.",
+"start": 82.63,
+"end": 85.17,
+"speaker": "RENEGADO",
+"paren": "olfateando"
+},
+{
+"type": "action",
+"text": "La rodean. Alba retrocede hasta un árbol. No hay escapatoria. Cierra los ojos.",
+"start": 85.39,
+"end": 90.14
+},
+{
+"type": "dialogue",
+"text": "Mamá... ayúdame.",
+"start": 90.44,
+"end": 92.16,
+"speaker": "ALBA",
+"paren": "susurrando"
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 92.63,
+"end": 93.73
+},
+{
+"type": "action",
+"text": "Un rugido sacude el bosque. Los pájaros salen volando. Los renegados se quedan petrificados, con las orejas pegadas a la cabeza.",
+"start": 93.73,
+"end": 99.23
+},
+{
+"type": "action",
+"text": "De entre la niebla emerge un lobo negro colosal, el doble de grande que cualquiera. Sus ojos arden como oro fundido.",
+"start": 99.53,
+"end": 105.03
+},
+{
+"type": "dialogue",
+"text": "No... es él. El Rey.",
+"start": 105.33,
+"end": 107.95,
+"speaker": "RENEGADO",
+"paren": "aterrado"
+},
+{
+"type": "action",
+"text": "El lobo negro mira a Alba. Y avanza hacia ella.",
+"start": 108.17,
+"end": 111.51
+}
+]
+}

@@ -1,3 +1,6 @@
-node_modules/
-dist/
 app/public/descargas/
+app/public/media/**/*.m4a
+app/public/media/**/*.mp4
+app/public/media/*.mp4
+dist/
+node_modules/

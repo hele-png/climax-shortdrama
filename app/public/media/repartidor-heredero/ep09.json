@@ -1,0 +1,189 @@
+{
+"slug": "repartidor-heredero",
+"ep": 9,
+"duration": 126.37,
+"audio": "media/repartidor-heredero/ep09.m4a",
+"cliff": 105.8,
+"cues": [
+{
+"type": "action",
+"text": "Daniel frente a Irene: \"¿Me estás chantajeando?\" Ella, pálida: \"Daniel, he perdido el móvil esta noche.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. APARCAMIENTO DEL PALACIO — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "dialogue",
+"text": "¡Te lo juro! Lo dejé en el baño y desapareció.",
+"start": 7.5,
+"end": 11.23,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Quién más estaba en el baño?",
+"start": 11.45,
+"end": 12.99,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Una mujer. Leopardo, mucho oro... la madre de Marina.",
+"start": 13.21,
+"end": 17.62,
+"speaker": "IRENE",
+"paren": "lo piensa"
+},
+{
+"type": "action",
+"text": "Daniel cierra los ojos. Lo entiende todo.",
+"start": 17.84,
+"end": 20.9
+},
+{
+"type": "dialogue",
+"text": "Rosa. Por supuesto.",
+"start": 21.2,
+"end": 23.68,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. TORRE ALTAMIRA, SALA DEL CONSEJO — DÍA 30, MAÑANA",
+"start": 24.15,
+"end": 25.25
+},
+{
+"type": "action",
+"text": "Junta extraordinaria. Doce consejeros. El abogado de Don Ernesto, en un rincón. Bruno, de pie, con Marina y Rosa a su lado.",
+"start": 25.25,
+"end": 30.75
+},
+{
+"type": "dialogue",
+"text": "Señores, tras perder el contrato del puerto, la empresa está en caída libre. Don Ernesto murió sin un heredero visible. Propongo que me nombren CEO interino.",
+"start": 31.05,
+"end": 42.08,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Los consejeros votan. Manos alzadas. Una tras otra.",
+"start": 42.3,
+"end": 45.82
+},
+{
+"type": "dialogue",
+"text": "Aprobado por mayoría. Enhorabuena, señor Castell.",
+"start": 46.12,
+"end": 50.12,
+"speaker": "CONSEJERO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Aplausos. Se abren las puertas. Entra Daniel, con la chaqueta naranja de reparto. Rosa se ríe.",
+"start": 50.34,
+"end": 55.81
+},
+{
+"type": "dialogue",
+"text": "¿Has venido a traer los cafés?",
+"start": 56.11,
+"end": 58.36,
+"speaker": "ROSA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi primera decisión como CEO: tú, despedido. (A seguridad.) Seguridad, ¡saquen a este repartidor del edificio!",
+"start": 58.58,
+"end": 66.14,
+"speaker": "BRUNO",
+"paren": "feliz"
+},
+{
+"type": "action",
+"text": "Dos vigilantes se acercan. Daniel levanta una mano. Se detienen.",
+"start": 66.36,
+"end": 70.47
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. SALA DEL CONSEJO — CONTINUO",
+"start": 71.02,
+"end": 72.12
+},
+{
+"type": "action",
+"text": "Daniel deja sobre la mesa una bolsa de reparto. La abre. Dentro: carpetas.",
+"start": 72.12,
+"end": 76.68
+},
+{
+"type": "dialogue",
+"text": "Antes de irme, un último pedido. Para el consejo. (Saca una carpeta.) Las transferencias de Bruno a Andorra. (Otra.) El vídeo de la gala con Kessler. (Otra.) Y los mensajes de chantaje que me envió la señora Rosa Velasco desde un móvil robado.",
+"start": 76.98,
+"end": 91.97,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Rosa se pone blanca. Marina mira a su madre.",
+"start": 92.19,
+"end": 95.39
+},
+{
+"type": "dialogue",
+"text": "¡Eso no prueba nada! ¡Tú no eres nadie!",
+"start": 95.69,
+"end": 99.09,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Tienes razón. Llevo treinta días sin ser nadie. (Mira el reloj de bolsillo de su abuelo. Las 12:00.) Y se acaban de cumplir.",
+"start": 99.31,
+"end": 105.33,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 105.8,
+"end": 106.9
+},
+{
+"type": "action",
+"text": "Daniel se quita la chaqueta naranja. Debajo, un traje negro impecable. Se sienta en la silla presidencial.",
+"start": 106.9,
+"end": 112.4
+},
+{
+"type": "dialogue",
+"text": "Una pregunta, Bruno. ¿Tú sabes quién es el dueño de este edificio?",
+"start": 112.7,
+"end": 117.26,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El abogado de Don Ernesto se levanta despacio y abre un sobre lacrado.",
+"start": 117.48,
+"end": 121.87
+}
+]
+}

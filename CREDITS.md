@@ -12,3 +12,8 @@ El rediseño v2 se ha construido sobre plantillas y recursos de diseñadores con
 Las imágenes de las series, los guiones y el logotipo son originales de este proyecto.
 
 Textos completos de licencia: `node_modules/@tabler/icons/LICENSE`, `node_modules/@fontsource-variable/inter/LICENSE`, `node_modules/@fontsource/barlow-condensed/LICENSE`; Tabler: https://github.com/tabler/tabler/blob/main/LICENSE
+
+## Audio y vídeo (v3)
+- **Voces:** síntesis de voz neuronal de Microsoft (edge-tts, voces es-ES Álvaro, Elvira y Ximena), con variaciones de tono y velocidad por personaje. El reparto está en `content/voces.json`. Los audios se generan con `scripts/gen_audio.py`.
+- **Música, ambientes y efectos** (pads, latido, olas, ciudad, viento, fuego, reloj, whoosh y sting del cliffhanger): sintetizados a mano con numpy/ffmpeg en `scripts/gen_audio.py`. No usan muestras de terceros y son obra original del proyecto.
+- **Vídeo piloto** (ep. 1 de "La esposa que volvió del mar" y de "El repartidor era el heredero"): planos generados con Grok Imagine a partir de las ilustraciones del proyecto, montados con ffmpeg (`/workspace/shortdrama/video/stitch.py`).

@@ -1,0 +1,227 @@
+{
+"slug": "cien-dias",
+"ep": 8,
+"duration": 116.67,
+"audio": "media/cien-dias/ep08.m4a",
+"cliff": 90.33,
+"cues": [
+{
+"type": "action",
+"text": "Pablo, desde la cama del hospital: \"Ele, ¿por qué te mira así tu marido? Papá miraba así a mamá.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. HABITACIÓN DE PABLO — DÍA",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Pablo, recuperándose, come helado. Adrián le ha traído una camiseta firmada por todo el equipo de fútbol.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "¡Hala! ¡Está firmada por TODOS!",
+"start": 13.3,
+"end": 16.25,
+"speaker": "PABLO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Les dije que era para el chaval más valiente de Madrid.",
+"start": 16.47,
+"end": 19.2,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ele, cásate con él de verdad. Por fa.",
+"start": 19.42,
+"end": 22.65,
+"speaker": "PABLO",
+"paren": "a Elena"
+},
+{
+"type": "action",
+"text": "Elena se ríe, roja. Adrián también sonríe. Una sonrisa de verdad. La primera.",
+"start": 22.87,
+"end": 27.57
+},
+{
+"type": "dialogue",
+"text": "Sabes sonreír.",
+"start": 27.87,
+"end": 29.13,
+"speaker": "ELENA",
+"paren": "sorprendida"
+},
+{
+"type": "dialogue",
+"text": "No se lo digas a nadie. Arruinarías mi reputación.",
+"start": 29.35,
+"end": 33.4,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. HABITACIÓN DE PABLO — NOCHE",
+"start": 33.87,
+"end": 34.97
+},
+{
+"type": "action",
+"text": "Pablo duerme. Elena y Adrián, en el sofá, en penumbra.",
+"start": 34.97,
+"end": 38.63
+},
+{
+"type": "dialogue",
+"text": "No sé qué pasó hace diez años. No sé quién es Clara. No sé por qué me vigilabas. (Pausa.) Pero sé que salvaste a mi hermano. Dos veces.",
+"start": 38.93,
+"end": 49.97,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Elena, no hagas esto.",
+"start": 50.19,
+"end": 51.86,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿El qué?",
+"start": 52.08,
+"end": 52.76,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mirarme como si fuera bueno.",
+"start": 52.98,
+"end": 54.71,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Ella le coge la mano. Le acaricia la cicatriz.",
+"start": 54.93,
+"end": 58.22
+},
+{
+"type": "dialogue",
+"text": "¿Cómo te la hiciste?",
+"start": 58.52,
+"end": 59.78,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Rompiendo el cristal de un coche. Para sacar a alguien.",
+"start": 60.0,
+"end": 64.07,
+"speaker": "ADRIÁN",
+"paren": "largo silencio"
+},
+{
+"type": "action",
+"text": "Elena le mira. Él le mira los labios. Esta vez nadie llama por teléfono. Él la besa. Despacio. Ella le devuelve el beso.",
+"start": 64.29,
+"end": 69.79
+},
+{
+"type": "screen",
+"text": "Cláusula siete: ROTA.",
+"start": 70.09,
+"end": 72.24
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. PASILLO DEL HOSPITAL — CONTINUO",
+"start": 72.79,
+"end": 73.89
+},
+{
+"type": "action",
+"text": "Tras el cristal de la puerta, Bianca, con su abrigo blanco, graba el beso con el móvil. Sonríe.",
+"start": 73.89,
+"end": 79.39
+},
+{
+"type": "dialogue",
+"text": "Qué tierno.",
+"start": 79.69,
+"end": 80.48,
+"speaker": "BIANCA",
+"paren": "para sí"
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. HABITACIÓN — CONTINUO",
+"start": 80.95,
+"end": 82.05
+},
+{
+"type": "action",
+"text": "Elena se separa, asustada.",
+"start": 82.05,
+"end": 84.43
+},
+{
+"type": "dialogue",
+"text": "Esto no estaba en el contrato.",
+"start": 84.73,
+"end": 86.63,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Lo sé. Es lo único que no estaba.",
+"start": 86.85,
+"end": 89.86,
+"speaker": "ADRIÁN",
+"paren": "con la frente apoyada en la suya"
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 90.33,
+"end": 91.43
+},
+{
+"type": "action",
+"text": "Bianca, en el aparcamiento, envía el vídeo. Destinatario: \"IKER\".",
+"start": 91.43,
+"end": 95.59
+},
+{
+"type": "dialogue",
+"text": "Ya tengo lo que necesitas. El contrato dice que si se enamoran, el matrimonio es nulo. Y si el matrimonio es nulo...",
+"start": 95.89,
+"end": 104.03,
+"speaker": "BIANCA",
+"paren": "AL TELÉFONO"
+},
+{
+"type": "dialogue",
+"text": "...la empresa es mía. Organiza una cena familiar. Mañana. Y que venga el notario.",
+"start": 104.25,
+"end": 112.25,
+"speaker": "IKER",
+"paren": "O.S."
+}
+]
+}

@@ -25,6 +25,8 @@ self.addEventListener('fetch', (e) => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (url.origin !== location.origin) return;
+  // audio/vídeo: streaming directo (sin caché, respeta Range); los cues JSON sí van con SWR
+  if (/\/media\/.*\.(mp4|m4a|webm|mp3|opus)$/.test(url.pathname) || req.headers.has('range') || req.destination === 'video' || req.destination === 'audio') return;
   // datos: network-first (para ver contenido nuevo), con fallback offline
   if (/\/(data|manifest)\.json$/.test(url.pathname)) {
     e.respondWith(fetch(req).then(r => { const cp = r.clone(); caches.open(DATA).then(c => c.put(req, cp)); return r; }).catch(() => caches.match(req)));

@@ -1,0 +1,207 @@
+{
+"slug": "esposa-del-mar",
+"ep": 5,
+"duration": 110.51,
+"audio": "media/esposa-del-mar/ep05.m4a",
+"cliff": 98.06,
+"cues": [
+{
+"type": "action",
+"text": "El niño mira a Valeria y sonríe. Ella se tapa la boca para no gritar.",
+"start": 0.35,
+"end": 4.69
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. JARDÍN DE LA FINCA — NOCHE",
+"start": 5.24,
+"end": 6.34
+},
+{
+"type": "action",
+"text": "Valeria da un paso hacia el niño. Mateo la sujeta del brazo.",
+"start": 6.34,
+"end": 10.26
+},
+{
+"type": "dialogue",
+"text": "Ahora no. Si te descubres, lo pierdes para siempre.",
+"start": 10.56,
+"end": 15.39,
+"speaker": "MATEO",
+"paren": "en voz baja"
+},
+{
+"type": "dialogue",
+"text": "¡Mi Bruno! Mi niño precioso. Saluda a la señora.",
+"start": 15.61,
+"end": 20.53,
+"speaker": "CARLA",
+"paren": "en voz alta, para que todos oigan"
+},
+{
+"type": "dialogue",
+"text": "Hola.",
+"start": 20.75,
+"end": 21.35,
+"speaker": "BRUNO",
+"paren": "tímido"
+},
+{
+"type": "dialogue",
+"text": "Hola, cariño. ¿Cuántos años tienes?",
+"start": 21.57,
+"end": 25.14,
+"speaker": "VALERIA",
+"paren": "con un nudo en la garganta"
+},
+{
+"type": "dialogue",
+"text": "Casi tres. Lo tuve justo después de... la tragedia. Fue mi consuelo.",
+"start": 25.36,
+"end": 31.45,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria hace las cuentas en silencio. Coincide al día.",
+"start": 31.67,
+"end": 35.32
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. COCHE DE MATEO — NOCHE",
+"start": 35.87,
+"end": 36.97
+},
+{
+"type": "action",
+"text": "Valeria, rota, mira por la ventanilla.",
+"start": 36.97,
+"end": 39.9
+},
+{
+"type": "dialogue",
+"text": "Carla no estaba embarazada. La vi en el yate. Llevaba un vestido ceñido.",
+"start": 40.2,
+"end": 46.46,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Entonces ese niño salió de algún sitio.",
+"start": 46.68,
+"end": 49.18,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Salió de mí, Mateo. Lo sé. Lo he sentido aquí. (Se toca el pecho.)",
+"start": 49.4,
+"end": 54.37,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Necesitamos pruebas. Un pelo, un vaso, algo.",
+"start": 54.59,
+"end": 59.36,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Suena el móvil de Valeria. Mensaje de Álvaro: \"Acepto. Firmamos mañana a las 9. Venga sola.\"",
+"start": 59.58,
+"end": 64.96
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. ASCENSOR, NAVIERA SAAVEDRA — DÍA SIGUIENTE",
+"start": 65.51,
+"end": 66.61
+},
+{
+"type": "action",
+"text": "Valeria sube sola. En la planta 3 entra Álvaro. Las puertas se cierran. Él pulsa el botón de parada. El ascensor se detiene con un golpe.",
+"start": 66.61,
+"end": 72.11
+},
+{
+"type": "dialogue",
+"text": "¿Qué hace?",
+"start": 72.41,
+"end": 73.16,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi madre no duerme desde que la vio. Y yo tampoco.",
+"start": 73.38,
+"end": 77.21,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Se acerca. Ella retrocede hasta la pared de espejo.",
+"start": 77.43,
+"end": 80.94
+},
+{
+"type": "dialogue",
+"text": "Mi mujer tenía una cicatriz. Aquí. (Le señala la clavícula, sin tocarla.) Se la hizo... en un accidente.",
+"start": 81.24,
+"end": 87.15,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y qué quiere? ¿Que me desnude en un ascensor para comprobar que no soy un fantasma?",
+"start": 87.37,
+"end": 92.72,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Quiero que me digas la verdad.",
+"start": 92.94,
+"end": 94.41,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Le agarra la solapa del traje blanco.",
+"start": 94.63,
+"end": 97.51
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 98.06,
+"end": 99.16
+},
+{
+"type": "dialogue",
+"text": "¿Quién eres de verdad?",
+"start": 99.16,
+"end": 100.29,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Las luces parpadean. Un chasquido. APAGÓN. Oscuridad total. Solo se oye la respiración de los dos.",
+"start": 100.51,
+"end": 106.01
+}
+]
+}

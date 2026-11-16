@@ -1,0 +1,181 @@
+{
+"slug": "repartidor-heredero",
+"ep": 3,
+"duration": 105.15,
+"audio": "media/repartidor-heredero/ep03.m4a",
+"cliff": 86.93,
+"cues": [
+{
+"type": "action",
+"text": "Bruno le tira un café a los pies: \"Límpialo. Con la lengua, si hace falta, becario.\"",
+"start": 0.35,
+"end": 5.37
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. TORRE ALTAMIRA, PLANTA 12 — MAÑANA",
+"start": 5.92,
+"end": 7.02
+},
+{
+"type": "action",
+"text": "Daniel llega con una acreditación de becario y la chaqueta naranja (no tiene otra). Los empleados se ríen. Bruno lo ve y abre los brazos.",
+"start": 7.02,
+"end": 12.52
+},
+{
+"type": "dialogue",
+"text": "¡No me lo puedo creer! ¡El repartidor! ¿Qué pasa, te ha enviado Glovo a traerme el desayuno?",
+"start": 12.82,
+"end": 20.2,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Soy el nuevo becario. Departamento de fotocopias.",
+"start": 20.42,
+"end": 24.43,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Escuchad! Este es el tío que anoche le pidió matrimonio a MI novia con un anillo de lata.",
+"start": 24.65,
+"end": 30.51,
+"speaker": "BRUNO",
+"paren": "a todos"
+},
+{
+"type": "action",
+"text": "Carcajadas. Bruno deja caer su café al suelo.",
+"start": 30.73,
+"end": 33.97
+},
+{
+"type": "dialogue",
+"text": "Bienvenido. Empieza por ahí.",
+"start": 34.27,
+"end": 37.28,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel se agacha y limpia. Desde su despacho de cristal, Irene lo observa.",
+"start": 37.5,
+"end": 42.06
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SALA DE FOTOCOPIAS — DÍA",
+"start": 42.61,
+"end": 43.71
+},
+{
+"type": "action",
+"text": "Daniel fotocopia informes. Se para. Lee. Frunce el ceño.",
+"start": 43.71,
+"end": 47.46
+},
+{
+"type": "dialogue",
+"text": "Este proyecto del puerto de Valencia... los números no cuadran. Faltan doce millones.",
+"start": 47.76,
+"end": 53.66,
+"speaker": "DANIEL",
+"paren": "para sí"
+},
+{
+"type": "action",
+"text": "Irene entra con unos papeles.",
+"start": 53.88,
+"end": 56.39
+},
+{
+"type": "dialogue",
+"text": "Treinta copias, por favor. (En voz baja.) ¿Estás bien?",
+"start": 56.69,
+"end": 60.0,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mejor que nunca. ¿Sabías que alguien está robando en esta planta?",
+"start": 60.22,
+"end": 64.71,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Cómo sabes eso?",
+"start": 64.93,
+"end": 66.16,
+"speaker": "IRENE",
+"paren": "lo mira con interés"
+},
+{
+"type": "dialogue",
+"text": "Soy ingeniero. Dejé la carrera para cuidar de mi madre. Pero los números no se olvidan.",
+"start": 66.38,
+"end": 73.06,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. PLANTA 12 — TARDE",
+"start": 73.53,
+"end": 74.63
+},
+{
+"type": "action",
+"text": "Un murmullo. Se abren las puertas del ascensor. Tacones. Bruno sale a recibir a alguien con un ramo de rosas.",
+"start": 74.63,
+"end": 80.13
+},
+{
+"type": "dialogue",
+"text": "¡Atención todos! Os presento a vuestra nueva directora de marketing... y mi futura esposa.",
+"start": 80.43,
+"end": 86.46,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 86.93,
+"end": 88.03
+},
+{
+"type": "action",
+"text": "Entra MARINA, vestido rojo, gafas de sol. Saluda como una reina. Entonces ve a Daniel junto a la fotocopiadora, con su chaqueta naranja.",
+"start": 88.03,
+"end": 93.53
+},
+{
+"type": "action",
+"text": "Se quita las gafas despacio.",
+"start": 93.83,
+"end": 96.31
+},
+{
+"type": "dialogue",
+"text": "¿Tú? ¿Qué haces TÚ aquí?",
+"start": 96.61,
+"end": 98.69,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "screen",
+"text": "Día 1 de 30.",
+"start": 98.91,
+"end": 100.65
+}
+]
+}

@@ -1,0 +1,221 @@
+{
+"slug": "renaci",
+"ep": 2,
+"duration": 123.61,
+"audio": "media/renaci/ep02.m4a",
+"cliff": 100.0,
+"cues": [
+{
+"type": "action",
+"text": "Martina mira el anillo. Todo el pueblo espera. \"No.\"",
+"start": 0.35,
+"end": 3.91
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. BODEGA OLMEDO — CONTINUO",
+"start": 4.46,
+"end": 5.56
+},
+{
+"type": "action",
+"text": "Silencio absoluto. A alguien se le cae una copa. Hugo sonríe, nervioso.",
+"start": 5.56,
+"end": 9.99
+},
+{
+"type": "dialogue",
+"text": "Cariño, es una broma, ¿no?",
+"start": 10.29,
+"end": 12.65,
+"speaker": "HUGO",
+"paren": "en voz baja"
+},
+{
+"type": "dialogue",
+"text": "No me caso contigo, Hugo. Ni hoy. Ni nunca.",
+"start": 12.87,
+"end": 17.78,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Murmullos. RAMÓN, su padre, se acerca, desconcertado.",
+"start": 18.0,
+"end": 21.61
+},
+{
+"type": "dialogue",
+"text": "Hija, ¿qué pasa? Si estabas loca por él.",
+"start": 21.91,
+"end": 26.12,
+"speaker": "RAMÓN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Papá. Estás vivo.",
+"start": 26.34,
+"end": 29.04,
+"speaker": "MARTINA",
+"paren": "lo abraza muy fuerte, a punto de llorar"
+},
+{
+"type": "dialogue",
+"text": "Pues claro que estoy vivo. Tengo 58 años, no 90.",
+"start": 29.26,
+"end": 34.74,
+"speaker": "RAMÓN",
+"paren": "riendo"
+},
+{
+"type": "action",
+"text": "Hugo se levanta. Por un segundo, su sonrisa desaparece. Martina lo ve: es la misma mirada que a través del cristal.",
+"start": 34.96,
+"end": 40.46
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. VIÑEDO — NOCHE",
+"start": 41.01,
+"end": 42.11
+},
+{
+"type": "action",
+"text": "Martina sale a respirar. Noelia corre tras ella, con su cárdigan lila.",
+"start": 42.11,
+"end": 46.5
+},
+{
+"type": "dialogue",
+"text": "¡Marti! ¿Estás bien? Le has roto el corazón.",
+"start": 46.8,
+"end": 51.26,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Te importa mucho su corazón, Noe?",
+"start": 51.48,
+"end": 53.9,
+"speaker": "MARTINA",
+"paren": "fría"
+},
+{
+"type": "dialogue",
+"text": "¡Me importas tú! Eres mi mejor amiga. Mi hermana.",
+"start": 54.12,
+"end": 58.97,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Noelia la abraza. Martina se queda rígida. Por encima del hombro de Noelia ve su móvil, que se ilumina en el bolsillo del cárdigan.",
+"start": 59.19,
+"end": 64.69
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. VIÑEDO — CONTINUO",
+"start": 65.24,
+"end": 66.34
+},
+{
+"type": "action",
+"text": "Martina le coge el móvil con disimulo mientras la abraza.",
+"start": 66.34,
+"end": 70.13
+},
+{
+"type": "dialogue",
+"text": "Gracias, Noe. No sé qué haría sin ti.",
+"start": 70.43,
+"end": 74.01,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Noelia vuelve dentro. Martina mira la pantalla. Un mensaje de un contacto guardado como \"H ❤\".",
+"start": 74.23,
+"end": 79.71
+},
+{
+"type": "screen",
+"text": "Ha dicho que no. Pasamos al plan B. El viejo primero.",
+"start": 80.01,
+"end": 85.5
+},
+{
+"type": "action",
+"text": "A Martina le tiemblan las manos.",
+"start": 85.8,
+"end": 88.46
+},
+{
+"type": "dialogue",
+"text": "El viejo primero... Papá.",
+"start": 88.76,
+"end": 91.3,
+"speaker": "MARTINA",
+"paren": "para sí"
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. VIÑEDO — CONTINUO",
+"start": 91.77,
+"end": 92.87
+},
+{
+"type": "action",
+"text": "A lo lejos, un camión de bomberos pasa por la carretera. Martina se queda mirando. En la cabina, un chico rubio con la cabeza rapada.",
+"start": 92.87,
+"end": 98.37
+},
+{
+"type": "dialogue",
+"text": "Gabriel.",
+"start": 98.67,
+"end": 99.53,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 100.0,
+"end": 101.1
+},
+{
+"type": "action",
+"text": "Detrás de ella, la voz de Hugo, muy cerca:",
+"start": 101.1,
+"end": 104.21
+},
+{
+"type": "dialogue",
+"text": "¿Buscabas esto?",
+"start": 104.51,
+"end": 105.64,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina se gira. Hugo sostiene el móvil de Noelia. Se lo quita de la mano con suavidad.",
+"start": 105.86,
+"end": 111.02
+},
+{
+"type": "dialogue",
+"text": "Se le cae siempre. (Sonríe.) Ten cuidado con lo que lees por la noche, Martina. Hace que una no pueda dormir.",
+"start": 111.32,
+"end": 119.19,
+"speaker": "HUGO",
+"paren": ""
+}
+]
+}

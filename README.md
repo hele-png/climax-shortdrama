@@ -79,3 +79,8 @@ images/<serie>/     57 imágenes originales (portadas, personajes, escenas)
 docs/monetizacion.md
 RESUMEN.md
 ```
+
+## Audio y vídeo (v3)
+- Los 50 episodios con guion tienen audio: voces TTS es-ES por personaje (`content/voces.json`), música y efectos sintetizados, y cues sincronizados en `app/public/media/<slug>/epNN.json`. Se generan con `python3 app/scripts/gen_audio.py`.
+- El piloto en vídeo vertical es el episodio 1 de *La esposa que volvió del mar* y de *El repartidor era el heredero*. Se monta con `tools/video/stitch.py`.
+- Los ficheros `.m4a`/`.mp4` no se versionan en `main`: se publican solo en la rama `gh-pages`.

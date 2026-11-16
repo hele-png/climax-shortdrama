@@ -1,0 +1,191 @@
+{
+"slug": "cien-dias",
+"ep": 1,
+"duration": 112.3,
+"audio": "media/cien-dias/ep01.m4a",
+"cliff": 93.47,
+"cues": [
+{
+"type": "action",
+"text": "Un café hirviendo empapa una camisa negra de tres mil euros. Silencio total en la terraza. \"¿Sabes quién soy?\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. AZOTEA \"CIELO\", MADRID — MAÑANA",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "ELENA, uniforme negro y coleta pelirroja, corre entre mesas con una bandeja. Su móvil vibra: \"HOSPITAL\". Se distrae, tropieza... y vacía el café sobre ADRIÁN MONTENEGRO.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "¡Señor Montenegro! ¡Mil perdones! ¡Está despedida, Elena!",
+"start": 13.3,
+"end": 18.9,
+"speaker": "ENCARGADO",
+"paren": "aterrado"
+},
+{
+"type": "dialogue",
+"text": "¿Sabes quién soy?",
+"start": 19.12,
+"end": 20.25,
+"speaker": "ADRIÁN",
+"paren": "sin alterarse, secándose"
+},
+{
+"type": "dialogue",
+"text": "Un señor con una camisa manchada. Lo siento de verdad. Pero no tengo tiempo para que me grite.",
+"start": 20.47,
+"end": 27.48,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No iba a gritarte.",
+"start": 27.7,
+"end": 28.99,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ah. Pues mejor.",
+"start": 29.21,
+"end": 31.38,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Se quita el delantal, se lo da al encargado y se va corriendo. Adrián la mira marchar. Se fija en su colgante de luna de plata. Algo cambia en su mirada.",
+"start": 31.6,
+"end": 37.1
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. HOSPITAL INFANTIL — DÍA",
+"start": 37.65,
+"end": 38.75
+},
+{
+"type": "action",
+"text": "PABLO, doce años, pijama azul, bufanda del equipo. Elena entra sin aliento. Una DOCTORA la espera.",
+"start": 38.75,
+"end": 44.25
+},
+{
+"type": "dialogue",
+"text": "La válvula de Pablo no aguanta más. Tenemos que operar en dos semanas. En la privada. Ochenta mil euros.",
+"start": 44.55,
+"end": 52.83,
+"speaker": "DOCTORA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No los tengo. Me acaban de despedir.",
+"start": 53.05,
+"end": 56.4,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ele, no pasa nada. Yo me pongo bien solo. Soy un crack.",
+"start": 56.62,
+"end": 61.94,
+"speaker": "PABLO",
+"paren": "desde la cama"
+},
+{
+"type": "action",
+"text": "Elena sonríe para no llorar. Sale al pasillo y se rompe.",
+"start": 62.16,
+"end": 65.9
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. PASILLO DEL HOSPITAL — NOCHE",
+"start": 66.45,
+"end": 67.55
+},
+{
+"type": "action",
+"text": "Elena, sentada en el suelo, revisa su cuenta bancaria: 214,37 €. Unos zapatos negros se detienen delante de ella. Levanta la vista: Adrián Montenegro, con una carpeta.",
+"start": 67.55,
+"end": 74.55
+},
+{
+"type": "dialogue",
+"text": "¿Me ha seguido? ¿Viene a cobrarme la camisa?",
+"start": 74.85,
+"end": 78.48,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Vengo a hacerte una oferta. La operación de tu hermano. El mejor cirujano de Europa. Todo pagado.",
+"start": 78.7,
+"end": 87.0,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿A cambio de qué?",
+"start": 87.22,
+"end": 88.36,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián abre la carpeta. Dentro, un contrato con su nombre ya escrito.",
+"start": 88.58,
+"end": 92.92
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 93.47,
+"end": 94.57
+},
+{
+"type": "dialogue",
+"text": "Cásate conmigo.",
+"start": 94.57,
+"end": 95.71,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena se queda helada.",
+"start": 95.93,
+"end": 98.13
+},
+{
+"type": "dialogue",
+"text": "Cien días. Ni uno más. (Le tiende un bolígrafo de plata.) Firma antes de medianoche... o la oferta desaparece.",
+"start": 98.43,
+"end": 104.97,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "screen",
+"text": "Faltan 3 horas para medianoche.",
+"start": 105.19,
+"end": 107.8
+}
+]
+}
