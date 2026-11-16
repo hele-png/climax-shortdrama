@@ -7,6 +7,7 @@ import { mountPlayer } from '../player.js';
 import { ensureAccess, openPaywall } from './paywall.js';
 import { esc, hashStr, toast, num } from '../util.js';
 import { go, fakeViews, fmtViews } from './common.js';
+import { ic, coinIc } from '../icons.js';
 import { charHTML, coverHTML } from '../data.js';
 
 export function renderFeed(view) {
@@ -15,27 +16,27 @@ export function renderFeed(view) {
   const items = [];
   for (let r = 0; r < 3; r++) for (const s of order) { const start = seriesProgress(s).resumeEp || 1; const ep = getEpisode(s, start + r); if (ep) items.push({ s, ep }); }
   view.classList.add('feed-view');
-  view.innerHTML = `<div class="feed-top"><a href="#/" class="ft-l">Inicio</a><b class="ft-on">Para ti</b><a href="#/perfil" class="coin-chip sm"><span class="coin-ic">◉</span><b data-coins>${monetization.syncWallet.coins}</b></a></div>
+  view.innerHTML = `<div class="feed-top"><a href="#/" class="ft-tab">Inicio</a><b class="ft-tab on">Para ti</b><a href="#/tienda" class="tb-coins">${coinIc(16)}<b data-coins>${num(monetization.syncWallet.coins)}</b></a></div>
     <div class="feed">${items.map(({ s, ep }, i) => {
       const f = episodePoster(s, ep);
       const likes = 12e3 + (hashStr(s.id + ep.n) % 380e3);
       const locked = monetization.accessSync(s, ep.n) === 'locked';
       return `<section class="feed-item" data-i="${i}">
-        <div class="fi-stage"><div class="fi-poster" style="background-image:${f.bg}">${f.url ? `<img src="${f.url}" alt="" loading="lazy" onerror="this.remove()">` : ''}</div></div>
-        ${locked ? `<div class="fi-lock"><div>🔒</div><b>Episodio ${ep.n} bloqueado</b><button class="btn red" data-unlock>Desbloquear</button></div>` : ''}
-        <aside class="fi-side">
-          <a href="#/serie/${s.slug}" class="fi-av">${coverHTML(s, 'mini')}</a>
-          <button data-like class="${isLiked(s.id + ':' + ep.n) ? 'on' : ''}"><span>♥</span><small>${fmtViews(likes)}</small></button>
-          <button data-fav class="${isFav(s.id) ? 'on' : ''}"><span>★</span><small>Mi lista</small></button>
-          <button data-eps><span>☰</span><small>${s.totalEpisodes} ep.</small></button>
-          <button data-share><span>↗</span><small>Compartir</small></button>
+        <div class="fi-stage"><div class="fi-poster">${f.url ? `<img src="${f.url}" alt="" loading="lazy" onerror="this.remove()">` : ''}</div></div>
+        ${locked ? `<div class="fi-lock">${ic('lock', 28)}<b>Episodio ${ep.n} bloqueado</b><button class="btn primary" data-unlock>Desbloquear</button></div>` : ''}
+        <aside class="rail">
+          <a href="#/serie/${s.slug}" class="rail-av">${coverHTML(s, 'mini')}</a>
+          <button data-like class="${isLiked(s.id + ':' + ep.n) ? 'on' : ''}" aria-label="Me gusta">${ic('heart-f', 30)}<small>${fmtViews(likes)}</small></button>
+          <button data-fav class="${isFav(s.id) ? 'on' : ''}" aria-label="Mi lista">${ic('bookmark-f', 28)}<small>Mi lista</small></button>
+          <button data-eps aria-label="Episodios">${ic('list-numbers', 28)}<small>${s.totalEpisodes} ep.</small></button>
+          <button data-share aria-label="Compartir">${ic('share-3', 28)}<small>Compartir</small></button>
         </aside>
         <div class="fi-info">
-          <a href="#/serie/${s.slug}" class="fi-title">${esc(s.title)} <span>›</span></a>
-          <div class="fi-ep">Ep. ${ep.n} · ${esc(ep.title)}</div>
+          <a href="#/serie/${s.slug}" class="fi-title">${esc(s.title)}</a>
+          <div class="fi-ep">Episodio ${ep.n} · ${esc(ep.title)}</div>
           <p class="fi-hook">${esc(ep.hook)}</p>
-          <button class="fi-cta" data-full>▶ Ver serie completa · ${s.totalEpisodes} episodios</button>
         </div>
+        <button class="fi-cta" data-full>${ic('movie', 16)}<span>Ver serie completa · ${s.totalEpisodes} episodios</span>${ic('chevron-right', 16)}</button>
       </section>`;
     }).join('')}</div>`;
   const feed = view.querySelector('.feed');

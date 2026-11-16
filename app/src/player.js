@@ -4,6 +4,8 @@ import { parseScript, timeline, fallbackCues } from './script.js';
 import { recordProgress, epCompletion } from './store.js';
 import { monetization } from './monetization.js';
 import { esc, fmtTime, h } from './util.js';
+import { ic } from './icons.js';
+const PAUSE = ic('player-pause-f', 22), PLAY = ic('player-play-f', 22);
 
 const norm = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
 function findChar(series, speaker) {
@@ -21,20 +23,20 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
   const cues = timeline(ep.script ? parseScript(ep.script) : fallbackCues(series, ep), D);
   const fr = sceneFrames(series, ep);
   const el = h(`<div class="player ${mode}">
-    <div class="kb-stage">${fr.map((f, i) => `<div class="kb-frame kb-${i % 4}" style="background-image:${f.bg}">${f.url ? `<img src="${f.url}" alt="" onerror="this.remove()">` : ''}</div>`).join('')}</div>
+    <div class="kb-stage">${fr.map((f, i) => `<div class="kb-frame kb-${i % 4}">${f.url ? `<img src="${f.url}" alt="" onerror="this.remove()">` : ''}</div>`).join('')}</div>
     <div class="pl-shade"></div>
     <div class="pl-scene-chip" hidden></div>
     <div class="pl-subs"></div>
     <div class="pl-tapzones"><div data-z="prev"></div><div data-z="toggle"></div><div data-z="next"></div></div>
-    <div class="pl-paused" hidden>❚❚</div>
+    <div class="pl-paused" hidden>${ic('player-play-f', 34)}</div>
     <div class="pl-bottom">
       <div class="pl-progress"><div class="pl-buffer"></div><div class="pl-fill"></div><div class="pl-knob"></div></div>
       <div class="pl-controls">
-        <button class="pl-btn" data-c="play" aria-label="Pausa">❚❚</button>
+        <button class="pl-btn" data-c="play" aria-label="Reproducir o pausar">${PAUSE}</button>
         <span class="pl-time">0:00 / ${fmtTime(D)}</span>
         <span class="spacer"></span>
         <button class="pl-btn pill-btn" data-c="speed">1x</button>
-        <button class="pl-btn pill-btn" data-c="skip" title="Saltar al final">⏭</button>
+        <button class="pl-btn" data-c="skip" aria-label="Saltar al final">${ic('player-skip-forward', 22)}</button>
       </div>
     </div>
     <div class="pl-end" hidden></div>
@@ -50,15 +52,16 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
     const subs = $('.pl-subs'); const c = cues[i];
     // chip de escena: la última escena anterior al cue actual
     let sc = null; for (let j = i; j >= 0; j--) if (cues[j]?.type === 'scene') { sc = cues[j]; break; }
-    const chip = $('.pl-scene-chip'); chip.hidden = !sc; if (sc) chip.textContent = sc.text;
+    const chip = $('.pl-scene-chip'); chip.hidden = !sc || c === sc; if (sc) chip.textContent = sc.text.replace(/^ESC\.\s*\d+\s*[—-]\s*/i, '');
     if (!c) { subs.innerHTML = ''; return; }
     let html;
     if (c.type === 'dialogue') {
       const ch = findChar(series, c.speaker);
-      html = `<div class="bubble ${ch && ch === series.characters[0] ? 'lead' : ''}">${ch ? charHTML(series, ch, 'sm') : `<div class="avatar sm"><span>${esc(c.speaker[0])}</span></div>`}<div><b>${esc(ch ? ch.name.split(' ')[0] : c.speaker)}</b>${c.paren ? `<i> (${esc(c.paren)})</i>` : ''}<p>${esc(c.text)}</p></div></div>`;
-    } else if (c.type === 'scene') html = `<div class="scene-title ${/cliffhanger/i.test(c.text) ? 'cliff' : ''}">${esc(c.text)}</div>`;
+      const who = ch ? ch.name.split(/[\s/]+/)[0] : c.speaker.replace(/\s*\(.*$/, '');
+      html = `<div class="sub"><span class="sub-who">${esc(who)}${c.paren ? ` <em>${esc(c.paren)}</em>` : ''}</span><p>${esc(c.text)}</p></div>`;
+    } else if (c.type === 'scene') html = `<div class="slate ${/cliffhanger/i.test(c.text) ? 'cliff' : ''}">${esc(c.text.replace(/^ESC\.\s*\d+\s*[—-]\s*/i, ''))}</div>`;
     else if (c.type === 'screen') html = `<div class="screen-text">${esc(c.text)}</div>`;
-    else html = `<div class="action">${esc(c.text)}</div>`;
+    else html = `<div class="sub action"><p>${esc(c.text)}</p></div>`;
     subs.innerHTML = html;
   }
   function renderFrame(i) {
@@ -81,22 +84,23 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
     if (t >= D) { t = D; update(); return finish(); }
     update(); raf = requestAnimationFrame(loop);
   }
-  function play() { if (ended) return; playing = true; el.classList.remove('paused'); $('.pl-paused').hidden = true; $('[data-c=play]').textContent = '❚❚'; last = performance.now(); cancelAnimationFrame(raf); raf = requestAnimationFrame(loop); }
-  function pause(show = true) { playing = false; cancelAnimationFrame(raf); el.classList.add('paused'); $('[data-c=play]').textContent = '▶'; if (show) $('.pl-paused').hidden = false; }
+  function play() { if (ended) return; playing = true; el.classList.remove('paused'); $('.pl-paused').hidden = true; $('[data-c=play]').innerHTML = PAUSE; last = performance.now(); cancelAnimationFrame(raf); raf = requestAnimationFrame(loop); }
+  function pause(show = true) { playing = false; cancelAnimationFrame(raf); el.classList.add('paused'); $('[data-c=play]').innerHTML = PLAY; if (show) $('.pl-paused').hidden = false; }
   function seek(nt) { t = Math.max(0, Math.min(D - 0.01, nt)); if (ended) { ended = false; $('.pl-end').hidden = true; } update(); }
   function finish() {
     playing = false; ended = true; recordProgress(series.id, ep.n, 1);
     const next = getEpisode(series, ep.n + 1);
     const box = $('.pl-end'); box.hidden = false;
     const locked = next && monetization.accessSync(series, next.n) === 'locked';
+    const nf = next ? sceneFrames(series, next) : [];
     box.innerHTML = `<div class="end-card">
-      <div class="end-kicker">CONTINUARÁ…</div>
+      <div class="end-kicker">Continuará</div>
       <h3>${esc(ep.hook || ep.title)}</h3>
-      ${next ? `<div class="end-next"><span class="muted tiny">Episodio ${next.n} de ${series.totalEpisodes}</span><b>${esc(next.title)}</b><p>${esc(next.hook)}</p></div>
-        <button class="btn block red big" data-e="next">${locked ? '🔒 ' : '▶ '}Siguiente episodio</button>
-        ${!locked && mode === 'full' ? '<div class="end-auto tiny muted">Reproducción automática en <b>6</b> s</div>' : ''}`
-        : `<div class="end-next"><b>Has llegado al último episodio disponible</b><p>${series.totalEpisodes > series.episodes.length ? `Próximos episodios en producción (${series.episodes.length}/${series.totalEpisodes}).` : '¡Fin de la serie!'}</p></div>`}
-      <button class="btn block ghost" data-e="replay">↺ Volver a ver</button>
+      ${next ? `<div class="end-next"><div class="end-thumb">${nf[0]?.url ? `<img src="${nf[0].url}" alt="">` : ''}${locked ? `<span class="end-lock">${ic('lock', 16)}</span>` : ''}</div><div><small>Siguiente · Episodio ${next.n} de ${series.totalEpisodes}</small><b>${esc(next.title)}</b><p>${esc(next.hook)}</p></div></div>
+        <button class="btn block primary lg" data-e="next">${locked ? ic('lock', 18) + 'Desbloquear episodio ' + next.n : ic('player-play-f', 18) + 'Ver episodio ' + next.n}</button>
+        ${!locked && mode === 'full' ? '<div class="end-auto">Empieza en <b>6</b> s</div>' : ''}`
+        : `<div class="end-next solo"><div><b>Has llegado al último episodio disponible</b><p>${series.totalEpisodes > series.episodes.length ? `Próximos episodios en producción (${series.episodes.length} de ${series.totalEpisodes}).` : 'Fin de la serie.'}</p></div></div>`}
+      <button class="btn block ghost" data-e="replay">${ic('rotate-clockwise', 18)}Volver a ver</button>
     </div>`;
     box.querySelector('[data-e=replay]').onclick = (e) => { e.stopPropagation(); clearInterval(auto); seek(0); play(); };
     let auto;
@@ -112,7 +116,7 @@ export function mountPlayer(host, { series, ep, mode = 'full', autoplay = true, 
   el.querySelector('[data-z=next]').onclick = () => { const nx = cues.find(c => c.start > t + 0.05); seek(nx ? nx.start : D - 0.05); if (!playing) play(); };
   el.querySelector('[data-z=prev]').onclick = () => { const cur = cues.findIndex(c => t >= c.start && t < c.end); const pv = cues[Math.max(0, cur - 1)]; seek(pv ? pv.start : 0); if (!playing) play(); };
   $('[data-c=play]').onclick = (e) => { e.stopPropagation(); playing ? pause() : play(); };
-  $('[data-c=speed]').onclick = (e) => { e.stopPropagation(); speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.target.textContent = speed + 'x'; };
+  $('[data-c=speed]').onclick = (e) => { e.stopPropagation(); speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.currentTarget.textContent = speed + 'x'; };
   $('[data-c=skip]').onclick = (e) => { e.stopPropagation(); seek(D - 0.3); if (!playing) play(); };
   const prog = $('.pl-progress');
   const seekFromEvent = (ev) => { const r = prog.getBoundingClientRect(); const x = (ev.touches ? ev.touches[0].clientX : ev.clientX) - r.left; seek((x / r.width) * D); };

@@ -1,8 +1,9 @@
 // Panel de administración básico: CRUD de series/episodios (overlay en localStorage) + configuración de monetización
-import { getCatalog, getSeries, getOverlay, saveOverlay, clearOverlay, coverHTML, getBase } from '../data.js';
+import { getCatalog, getSeries, getOverlay, saveOverlay, clearOverlay, coverHTML, getBase, genre } from '../data.js';
 import { monetization, DEFAULT_CONFIG } from '../monetization.js';
 import { esc, toast } from '../util.js';
-import { topbar } from './common.js';
+import { adminbar } from './common.js';
+import { ic } from '../icons.js';
 
 const clone = (o) => JSON.parse(JSON.stringify(o));
 function putSeries(s) { const o = getOverlay(); o.series[s.id] = s; o.deleted = o.deleted.filter(d => d !== s.id); saveOverlay(o); }
@@ -12,14 +13,14 @@ export function renderAdmin(view) {
   const draw = () => {
     const cat = getCatalog(), cfg = monetization.config, ov = getOverlay();
     const s = sel && getSeries(sel);
-    view.innerHTML = `${topbar('Panel de administración')}
+    view.innerHTML = `${adminbar('Panel de administración', 'admin')}
     <div class="pad admin">
       <div class="seg">${[['series', 'Series'], ['money', 'Monetización'], ['data', 'Datos']].map(([k, l]) => `<button class="${tab === k ? 'on' : ''}" data-tab="${k}">${l}</button>`).join('')}</div>
       ${tab === 'series' && !s ? `
-        <div class="adm-bar"><b>${cat.length} series</b><button class="btn sm red" id="new">+ Nueva serie</button></div>
-        ${cat.map(x => `<div class="adm-row">${coverHTML(x, 'thumb')}<div class="grow"><b>${esc(x.title)}</b><small class="muted">${esc(x.niche)} · ${x.episodes.length}/${x.totalEpisodes} ep. · ${x.episodes.filter(e => e.script).length} guiones ${ov.series[x.id] ? '· <span class="gold-t">editada</span>' : ''}</small></div><button class="btn sm ghost" data-edit="${x.id}">Editar</button></div>`).join('')}` : ''}
+        <div class="adm-bar"><b>${cat.length} series</b><button class="btn sm primary" id="new">${ic('plus', 16)}Nueva serie</button></div>
+        ${cat.map(x => `<div class="adm-row">${coverHTML(x, 'thumb')}<div class="grow"><b>${esc(x.title)}</b><small class="muted">${esc(genre(x.niche))} · ${x.episodes.length}/${x.totalEpisodes} ep. · ${x.episodes.filter(e => e.script).length} guiones ${ov.series[x.id] ? '<span class="badge b-yellow">editada</span>' : ''}</small></div><button class="btn sm ghost" data-edit="${x.id}">Editar</button></div>`).join('')}` : ''}
       ${tab === 'series' && s ? `
-        <button class="link" id="backlist">‹ Todas las series</button>
+        <button class="link" id="backlist">${ic('chevron-left', 16)}Todas las series</button>
         <form class="form" id="sf">
           <label>Título<input name="title" value="${esc(s.title)}" required></label>
           <div class="two"><label>Slug<input name="slug" value="${esc(s.slug)}" ${s._custom ? '' : 'readonly'}></label><label>Nicho<input name="niche" value="${esc(s.niche)}"></label></div>
@@ -28,15 +29,15 @@ export function renderAdmin(view) {
           <div class="two"><label>Episodios planificados<input name="totalEpisodes" type="number" min="1" value="${s.totalEpisodes}"></label><label>Estilo visual<input name="style" value="${esc(s.style)}"></label></div>
           <div class="row-btns"><button class="btn red">Guardar serie</button><button type="button" class="btn ghost danger-t" id="del">Eliminar</button></div>
         </form>
-        <div class="adm-bar"><b>Episodios (${s.episodes.length})</b><button class="btn sm ghost" id="addep">+ Episodio</button></div>
-        <div class="ep-admin">${s.episodes.map(e => `<button class="adm-ep ${epSel === e.n ? 'on' : ''}" data-ep="${e.n}"><span>${e.n}</span><div><b>${esc(e.title)}</b><small class="muted">${e.durationSec}s · ${e.script ? '✓ guion' : '— sin guion'} ${monetization.isFree(s, e.n) ? '· gratis' : ''}</small></div></button>`).join('')}</div>
+        <div class="adm-bar"><b>Episodios (${s.episodes.length})</b><button class="btn sm secondary" id="addep">${ic('plus', 16)}Episodio</button></div>
+        <div class="ep-admin">${s.episodes.map(e => `<button class="adm-ep ${epSel === e.n ? 'on' : ''}" data-ep="${e.n}"><span>${e.n}</span><div><b>${esc(e.title)}</b><small class="muted">${e.durationSec}s · ${e.script ? 'Con guion' : 'Sin guion'} ${monetization.isFree(s, e.n) ? '· gratis' : ''}</small></div></button>`).join('')}</div>
         ${epSel ? (() => { const e = s.episodes.find(x => x.n === epSel); return e ? `
           <form class="form ep-form" id="ef"><h4>Episodio ${e.n}</h4>
             <label>Título<input name="title" value="${esc(e.title)}"></label>
             <label>Hook viral<input name="hook" value="${esc(e.hook)}"></label>
             <div class="two"><label>Duración (s)<input name="durationSec" type="number" min="20" max="600" value="${e.durationSec}"></label><label class="check"><input type="checkbox" name="freeEpisode" ${e.freeEpisode ? 'checked' : ''}> Marcado gratis (freeEpisode)</label></div>
             <label>Guion (markdown: <code>**NOMBRE:** diálogo</code>, <code>## ESCENA</code>, <code>*acción*</code>)<textarea name="script" rows="12">${esc(e.script || '')}</textarea></label>
-            <div class="row-btns"><button class="btn red">Guardar episodio</button><a class="btn ghost" href="#/ver/${s.slug}/${e.n}">▶ Previsualizar</a><button type="button" class="btn ghost danger-t" id="delep">Borrar</button></div>
+            <div class="row-btns"><button class="btn red">Guardar episodio</button><a class="btn secondary" href="#/ver/${s.slug}/${e.n}">${ic('eye', 16)}Previsualizar</a><button type="button" class="btn ghost danger-t" id="delep">Borrar</button></div>
           </form>` : ''; })() : ''}` : ''}
       ${tab === 'money' ? `
         <form class="form" id="mf">
@@ -49,7 +50,7 @@ export function renderAdmin(view) {
         <p class="tiny muted">Los cambios se aplican al instante en esta demo (candados, paywall y precios).</p>` : ''}
       ${tab === 'data' ? `
         <div class="card-box"><b>Origen:</b> data.json (${getBase().length} series) + ${Object.keys(ov.series).length} ediciones locales, ${ov.deleted.length} eliminadas.</div>
-        <div class="row-btns"><button class="btn ghost" id="export">⬇ Exportar data.json fusionado</button><button class="btn ghost danger-t" id="clear">Descartar ediciones locales</button></div>
+        <div class="row-btns"><button class="btn secondary" id="export">${ic('download', 16)}Exportar data.json</button><button class="btn ghost danger-t" id="clear">Descartar ediciones locales</button></div>
         <p class="tiny muted">Para publicar cambios: exporta el JSON y sustitúyelo en <code>content/data.json</code>, luego <code>npm run build</code>.</p>` : ''}
     </div>`;
     const q = (x) => view.querySelector(x);

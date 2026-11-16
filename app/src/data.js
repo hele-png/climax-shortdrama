@@ -81,10 +81,23 @@ export function sceneFrames(s, ep) {
 export function episodePoster(s, ep) { const f = sceneFrames(s, ep); return f[f.length - 1]; }
 /** HTML de imagen con placeholder degradado elegante (si falta o falla la imagen) */
 export function artHTML({ url, key, label = '', sub = '', cls = '', variant = 0 }) {
-  return `<div class="art ${cls}" style="background-image:${gradient(key, variant)}">
+  return `<div class="art sk ${cls}">
     ${label ? `<div class="art-ph"><span class="art-ph-title">${esc(label)}</span>${sub ? `<span class="art-ph-sub">${esc(sub)}</span>` : ''}</div>` : ''}
-    ${url ? `<img loading="lazy" decoding="async" src="${url}" alt="" onerror="this.remove()" onload="this.parentElement.classList.add('loaded')">` : ''}
+    ${url ? `<img loading="lazy" decoding="async" src="${url}" alt="" onload="this.parentElement.classList.add('loaded')" onerror="this.parentElement.classList.add('loaded');this.remove()">` : ''}
   </div>`;
 }
 export const coverHTML = (s, cls = '') => artHTML({ url: coverUrl(s), key: s.slug, label: s.title, sub: s.niche, cls: 'cover ' + cls });
-export const charHTML = (s, c, cls = '') => `<div class="avatar ${cls}" style="background-image:${gradient(s.slug + c.id, 2)}"><span>${initials(c.name)}</span>${charUrl(s, c) ? `<img loading="lazy" src="${charUrl(s, c)}" alt="${esc(c.name)}" onerror="this.remove()">` : ''}</div>`;
+export const charHTML = (s, c, cls = '') => `<div class="avatar ${cls}"><span>${initials(c.name)}</span>${charUrl(s, c) ? `<img loading="lazy" src="${charUrl(s, c)}" alt="${esc(c.name)}" onerror="this.remove()">` : ''}</div>`;
+
+/** Imagen de cabecera sin texto (escena clave) para hero y ficha */
+export function keyArt(s, i = 0) { const sc = scenes(s); return (sc[i] || sc[0])?.url || coverUrl(s); }
+/** Nombre corto del género para chips y metadatos */
+export function genre(niche) {
+  const n = String(niche || '').toLowerCase();
+  if (/lobo|alfa/.test(n)) return 'Hombres lobo';
+  if (/contrato/.test(n)) return 'Matrimonio por contrato';
+  if (/oculta|secreto/.test(n)) return 'Millonario secreto';
+  if (/renac|segunda/.test(n)) return 'Renacer';
+  if (/venganza/.test(n)) return 'Venganza';
+  return String(niche || 'Drama').split(/[\/(]/)[0].trim();
+}

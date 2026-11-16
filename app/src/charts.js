@@ -1,6 +1,7 @@
 // Gráficas SVG ligeras sin dependencias
 import { esc, num } from './util.js';
-export const COLORS = ['#e50914', '#e0a83a', '#4fc3f7', '#ba68c8', '#81c784', '#ff8a65', '#f06292'];
+// Paleta de Tabler (MIT): primary, yellow, azure, purple, green, orange, red
+export const COLORS = ['#066fd1', '#f59f00', '#4299e1', '#ae3ec9', '#2fb344', '#f76707', '#d63939'];
 export function lineChart(series, { w = 340, h = 180, yMax, yFmt = (v) => v, xLabels = [], area = false } = {}) {
   const P = { l: 34, r: 8, t: 10, b: 22 }, iw = w - P.l - P.r, ih = h - P.t - P.b;
   const maxLen = Math.max(...series.map(s => s.data.length));

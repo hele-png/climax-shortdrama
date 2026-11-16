@@ -4,6 +4,8 @@
 **Código del prototipo:** https://github.com/hele-png/climax-shortdrama
 **Descarga de guiones e imágenes:** https://hele-png.github.io/climax-shortdrama/descargas/climax-guiones-e-imagenes.zip
 
+**Diseño v2:** interfaz basada en la plantilla Tabler 1.7.5 (MIT, Paweł Kuna / codecalm, https://github.com/tabler/tabler), iconos Tabler Icons (MIT) y tipografías Inter y Barlow Condensed (SIL OFL). Ver [CREDITS.md](CREDITS.md).
+
 ---
 
 ## 1. Qué se ha creado

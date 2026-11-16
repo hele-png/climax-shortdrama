@@ -1,9 +1,9 @@
 // Dashboard de control: contenido real (data.json + manifest.json) + métricas simuladas deterministas
-import { getCatalog, getManifest, coverHTML } from '../data.js';
+import { getCatalog, getManifest, coverHTML, genre } from '../data.js';
 import { monetization } from '../monetization.js';
 import { lineChart, stackedBars, hbars, donut, funnel, COLORS } from '../charts.js';
 import { rng, eur, num, esc } from '../util.js';
-import { topbar } from './common.js';
+import { adminbar } from './common.js';
 
 export function simulate(cat, cfg) {
   const r = rng('climax-metrics-v1:' + cat.map(s => s.id).join(','));
@@ -35,9 +35,9 @@ export function renderDashboard(view) {
   const local = monetization.syncWallet.paywall || [];
   const lc = (ev) => local.filter(x => x.event === ev).length;
   const kpi = (l, v, sub = '') => `<div class="kpi"><small>${l}</small><b>${v}</b>${sub ? `<span>${sub}</span>` : ''}</div>`;
-  view.innerHTML = `${topbar('Dashboard de control')}
+  view.innerHTML = `${adminbar('Dashboard de control', 'dash')}
   <div class="pad dash">
-    <h2 class="h2">Contenido <span class="pill">datos reales</span></h2>
+    <h2 class="h2">Contenido <span class="badge b-green">datos reales</span></h2>
     <div class="kpis">
       ${kpi('Series creadas', cat.length, [...new Set(cat.map(s => s.niche))].length + ' nichos')}
       ${kpi('Episodios generados', created, `de ${planned} planificados`)}
@@ -46,13 +46,13 @@ export function renderDashboard(view) {
     </div>
     <div class="panel"><h3>Producción por serie</h3>
       <table class="tbl"><thead><tr><th>Serie</th><th>Ep.</th><th>Guiones</th><th>Portada</th><th>Pers.</th><th>Escenas</th></tr></thead><tbody>
-      ${cat.map(s => { const si = imgs.filter(i => i.slug === s.slug); const sc = s.episodes.filter(e => e.script).length; return `<tr><td><a href="#/serie/${s.slug}">${esc(s.title)}</a><small class="muted"> ${esc(s.niche)}</small></td><td>${s.episodes.length}/${s.totalEpisodes}</td><td><div class="mini-bar"><i style="width:${sc / Math.max(1, s.totalEpisodes) * 100}%"></i></div>${sc}</td><td>${si.some(i => i.type === 'cover') ? '✅' : '—'}</td><td>${si.filter(i => i.type === 'character').length}/${plannedChars(s)}</td><td>${si.filter(i => i.type === 'scene').length}/5</td></tr>`; }).join('')}
+      ${cat.map(s => { const si = imgs.filter(i => i.slug === s.slug); const sc = s.episodes.filter(e => e.script).length; return `<tr><td><a href="#/serie/${s.slug}">${esc(s.title)}</a><small class="muted">${esc(genre(s.niche))}</small></td><td>${s.episodes.length}/${s.totalEpisodes}</td><td><div class="mini-bar"><i style="width:${sc / Math.max(1, s.totalEpisodes) * 100}%"></i></div>${sc}</td><td>${si.some(i => i.type === 'cover') ? '<span class="badge b-green">Sí</span>' : '<span class="badge">No</span>'}</td><td>${si.filter(i => i.type === 'character').length}/${plannedChars(s)}</td><td>${si.filter(i => i.type === 'scene').length}/5</td></tr>`; }).join('')}
       </tbody></table>
       <p class="tiny muted">Imágenes por tipo: ${byType('cover')} portadas · ${byType('character')} personajes · ${byType('scene')} escenas · manifest generado ${man.generatedAt ? new Date(man.generatedAt).toLocaleString('es-ES') : '—'} (fuente: ${esc(man.dataSource || '—')})</p>
       ${imgs.length ? `<div class="img-strip">${imgs.slice(0, 40).map(i => `<img loading="lazy" src="./${i.path}" title="${esc(i.path)}" alt="">`).join('')}</div>` : ''}
     </div>
 
-    <h2 class="h2">Negocio <span class="pill red">datos simulados</span></h2>
+    <h2 class="h2">Negocio <span class="badge b-orange">datos simulados</span></h2>
     <div class="kpis">
       ${kpi('MAU', num(m.MAU), `DAU ${num(m.DAU)} · ${Math.round(m.DAU / m.MAU * 100)} % stickiness`)}
       ${kpi('MRR', eur(m.MRR), `${num(m.activeSubs)} suscriptores VIP`)}
@@ -65,12 +65,12 @@ export function renderDashboard(view) {
       ${lineChart(m.retention, { yMax: 100, yFmt: v => Math.round(v) + '%', xLabels: Array.from({ length: 30 }, (_, i) => 'E' + (i + 1)) })}</div>
     <div class="panel"><h3>Episodios más vistos (30 d)</h3>${hbars(m.views, { fmt: v => num(v / 1000, 0) + 'K' })}</div>
     <div class="panel"><h3>Conversión del paywall (30 d)</h3>
-      ${funnel([{ label: 'Vistas del paywall', value: m.pwViews, color: '#555' }, { label: 'Anuncio rewarded', value: m.adUnl, color: '#4fc3f7' }, { label: 'Compra de coins', value: m.coinBuy, color: '#e0a83a' }, { label: 'Suscripción VIP', value: m.subs, color: '#e50914' }])}
-      ${donut([{ name: 'Suscripción', value: m.days.reduce((a, d) => a + d.sub, 0), color: '#e50914' }, { name: 'Coins', value: m.coinRev, color: '#e0a83a' }, { name: 'Anuncios', value: m.adRev, color: '#4fc3f7' }], { center: eur(m.rev30 / 1000).replace(/,\d+/, '') + 'K' })}
+      ${funnel([{ label: 'Vistas del paywall', value: m.pwViews, color: '#9aa0a6' }, { label: 'Anuncio rewarded', value: m.adUnl, color: COLORS[2] }, { label: 'Compra de coins', value: m.coinBuy, color: COLORS[1] }, { label: 'Suscripción VIP', value: m.subs, color: COLORS[0] }])}
+      ${donut([{ name: 'Suscripción', value: m.days.reduce((a, d) => a + d.sub, 0), color: COLORS[0] }, { name: 'Coins', value: m.coinRev, color: COLORS[1] }, { name: 'Anuncios', value: m.adRev, color: COLORS[2] }], { center: eur(m.rev30 / 1000).replace(/,\d+/, '') + 'K' })}
     </div>
     <div class="panel"><h3>Ingresos diarios por fuente</h3>
-      ${stackedBars(m.days, [{ key: 'sub', name: 'VIP', color: '#e50914' }, { key: 'coins', name: 'Coins', color: '#e0a83a' }, { key: 'ads', name: 'Ads', color: '#4fc3f7' }], { yFmt: v => num(v / 1000, 1) + 'K€', xLabels: m.days.map((_, i) => 'D' + (i + 1)) })}</div>
-    <div class="panel"><h3>Este dispositivo <span class="pill">datos reales locales</span></h3>
+      ${stackedBars(m.days, [{ key: 'sub', name: 'VIP', color: COLORS[0] }, { key: 'coins', name: 'Coins', color: COLORS[1] }, { key: 'ads', name: 'Ads', color: COLORS[2] }], { yFmt: v => num(v / 1000, 1) + 'K€', xLabels: m.days.map((_, i) => 'D' + (i + 1)) })}</div>
+    <div class="panel"><h3>Este dispositivo <span class="badge b-green">datos locales</span></h3>
       <div class="kpis sm">${kpi('Paywalls vistos', lc('view'))}${kpi('Suscripciones', lc('subscribe'))}${kpi('Desbloqueos coins', lc('unlock_coins'))}${kpi('Desbloqueos anuncio', lc('unlock_ad'))}${kpi('Packs comprados', lc('buy_coins'))}${kpi('Paywall cerrado', lc('dismiss'))}</div></div>
     <p class="tiny muted center">Las métricas de negocio son datos simulados deterministas (semilla fija) para ilustrar el panel.</p>
   </div>`;

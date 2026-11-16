@@ -2,6 +2,10 @@
 
 Stack: **Vite 8 + JavaScript vanilla** (sin framework), sale a ficheros estáticos en `dist/`. Rutas con hash (`#/…`), así que funciona en cualquier hosting estático y en cualquier subruta.
 
+## Diseño (v2)
+Interfaz rediseñada sobre la plantilla **Tabler 1.7.5** (MIT, Paweł Kuna / codecalm, https://github.com/tabler/tabler): escala de grises, radios, sombras, KPIs, tablas, formularios y list-groups; el Dashboard y el Admin usan el tema claro de Tabler. Iconos **Tabler Icons** (MIT), tipografías **Inter** y **Barlow Condensed** (SIL OFL, autoalojadas). Detalle y licencias en [CREDITS.md](CREDITS.md).
+
+
 ## Comandos
 ```bash
 npm install
@@ -18,7 +22,7 @@ npm run icons      # regenera los iconos PWA desde SVG
 3. Si falta una imagen, se muestra un degradado cinematográfico con el título.
 
 ## Rutas
-`#/` inicio · `#/feed` feed vertical · `#/serie/<slug>` ficha · `#/ver/<slug>/<n>` reproductor · `#/lista` · `#/perfil` · `#/admin` · `#/dashboard` (también `/admin/` y `/dashboard/` redirigen).
+`#/` inicio · `#/feed` feed vertical · `#/serie/<slug>` ficha · `#/ver/<slug>/<n>` reproductor · `#/lista` · `#/perfil` · `#/admin` · `#/dashboard` · `#/tienda` (coins) · `#/vip` · `#/guiones` (también `/admin/` y `/dashboard/` redirigen).
 
 ## Módulos
 - `src/monetization.js`: entitlements, coins, VIP, anuncios y check-in (interfaz asíncrona que se puede cambiar por un backend)
