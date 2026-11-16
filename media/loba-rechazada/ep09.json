@@ -1,0 +1,229 @@
+{
+"slug": "loba-rechazada",
+"ep": 9,
+"duration": 131.49,
+"audio": "media/loba-rechazada/ep09.m4a",
+"cliff": 110.46,
+"cues": [
+{
+"type": "action",
+"text": "La loba blanca abre la boca y una voz retumba en la mente de todos: \"ARRODILLAOS.\"",
+"start": 0.35,
+"end": 5.28
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. ARENA — CONTINUO",
+"start": 5.83,
+"end": 6.93
+},
+{
+"type": "action",
+"text": "Los lobos de la arena, incluso los que intentan resistirse, pegan la frente al suelo. Alba, en su forma de loba, se acerca a Darío, que jadea en el suelo.",
+"start": 6.93,
+"end": 12.43
+},
+{
+"type": "dialogue",
+"text": "¿Darío? ¿Qué te pasa?",
+"start": 12.73,
+"end": 15.13,
+"speaker": "ALBA",
+"paren": "V.O., TELEPÁTICA"
+},
+{
+"type": "dialogue",
+"text": "Nada. Tu poder... me llama.",
+"start": 15.35,
+"end": 18.15,
+"speaker": "DARÍO",
+"paren": "con los dientes apretados"
+},
+{
+"type": "action",
+"text": "Alba vuelve a su forma humana. Remedios le echa una capa por encima.",
+"start": 18.37,
+"end": 22.66
+},
+{
+"type": "dialogue",
+"text": "La Voz de Plata. La última que la tuvo fue tu madre.",
+"start": 22.96,
+"end": 27.73,
+"speaker": "REMEDIOS",
+"paren": "en voz baja, asombrada"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. ARENA — CONTINUO",
+"start": 28.2,
+"end": 29.3
+},
+{
+"type": "action",
+"text": "Leo se arrastra hasta Alba, de rodillas.",
+"start": 29.3,
+"end": 32.32
+},
+{
+"type": "dialogue",
+"text": "Alba... Alba, perdóname. Retiro el rechazo. Vuelve conmigo, eres mi compañera, mi Luna...",
+"start": 32.62,
+"end": 41.88,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Di la verdad, Leo.",
+"start": 42.1,
+"end": 43.47,
+"speaker": "ALBA",
+"paren": "con la voz resonando, plateada"
+},
+{
+"type": "action",
+"text": "Leo se queda rígido. La Voz le obliga. Las palabras le salen solas.",
+"start": 43.69,
+"end": 47.94
+},
+{
+"type": "dialogue",
+"text": "Mi padre... mi padre me dijo que te rechazara porque si te reconocía como compañera descubrirías lo que le hizo a tu madre.",
+"start": 48.24,
+"end": 54.99,
+"speaker": "LEO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Murmullos en las gradas. Rodrigo se pone en pie.",
+"start": 55.21,
+"end": 58.59
+},
+{
+"type": "dialogue",
+"text": "¡Mentira! ¡La bruja le controla!",
+"start": 58.89,
+"end": 62.08,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Arrodíllate, Rodrigo.",
+"start": 62.3,
+"end": 64.02,
+"speaker": "ALBA",
+"paren": "girándose hacia él"
+},
+{
+"type": "action",
+"text": "Rodrigo cae de rodillas como si le hubieran cortado las piernas. Intenta levantarse. No puede.",
+"start": 64.24,
+"end": 69.72
+},
+{
+"type": "dialogue",
+"text": "¿Mataste a mi madre?",
+"start": 70.02,
+"end": 71.39,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Rodrigo aprieta los dientes. Suda. La Voz le arranca las palabras.",
+"start": 71.61,
+"end": 75.81
+},
+{
+"type": "dialogue",
+"text": "Yo... no la maté. Yo solo la entregué.",
+"start": 76.11,
+"end": 80.11,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. ARENA — CONTINUO",
+"start": 80.58,
+"end": 81.68
+},
+{
+"type": "dialogue",
+"text": "¿A quién?",
+"start": 81.68,
+"end": 82.4,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Rodrigo levanta la mirada lentamente hacia el palco... hacia el lugar donde está Darío.",
+"start": 82.62,
+"end": 87.77
+},
+{
+"type": "action",
+"text": "Pero no llega a hablar. Darío se levanta de golpe y agarra a Alba del brazo.",
+"start": 88.07,
+"end": 92.73
+},
+{
+"type": "dialogue",
+"text": "¡Basta! Suéltale.",
+"start": 93.03,
+"end": 95.3,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Alba lo mira, confundida. La Voz se rompe. Rodrigo cae al suelo, libre, jadeando.",
+"start": 95.52,
+"end": 100.4
+},
+{
+"type": "dialogue",
+"text": "¿Por qué le proteges? ¡Iba a decirme quién mató a mi madre!",
+"start": 100.7,
+"end": 104.95,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío la mira. En sus ojos dorados hay algo que Alba nunca había visto: miedo.",
+"start": 105.17,
+"end": 109.91
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 110.46,
+"end": 111.56
+},
+{
+"type": "dialogue",
+"text": "Esa voz. Esa misma voz... ya la oí una vez. Hace dieciséis años.",
+"start": 111.56,
+"end": 118.25,
+"speaker": "DARÍO",
+"paren": "en un susurro"
+},
+{
+"type": "action",
+"text": "Detrás de ellos, Vanesa se escabulle de las gradas. En la mano, un cuchillo de plata.",
+"start": 118.47,
+"end": 123.53
+},
+{
+"type": "screen",
+"text": "Él la conoció. Él estaba allí.",
+"start": 123.83,
+"end": 126.99
+}
+]
+}

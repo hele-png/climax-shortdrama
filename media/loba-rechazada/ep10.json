@@ -1,0 +1,213 @@
+{
+"slug": "loba-rechazada",
+"ep": 10,
+"duration": 116.45,
+"audio": "media/loba-rechazada/ep10.m4a",
+"cliff": 89.78,
+"cues": [
+{
+"type": "action",
+"text": "Un cuchillo de plata brilla en la oscuridad y se clava... en el costado del Rey Alfa.",
+"start": 0.35,
+"end": 5.41
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. ARENA — CONTINUO",
+"start": 5.96,
+"end": 7.06
+},
+{
+"type": "action",
+"text": "Vanesa se lanza contra Alba con el cuchillo. Darío la ve en el último segundo y se interpone. El cuchillo de plata se le clava en el costado. Cae de rodillas.",
+"start": 7.06,
+"end": 12.56
+},
+{
+"type": "dialogue",
+"text": "¡DARÍO!",
+"start": 12.86,
+"end": 13.67,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Los guardias reducen a Vanesa. Rodrigo aprovecha el caos y desaparece. Leo se queda inmóvil.",
+"start": 13.89,
+"end": 19.27
+},
+{
+"type": "dialogue",
+"text": "¡Era para ella! ¡Era para la bruja!",
+"start": 19.57,
+"end": 22.56,
+"speaker": "VANESA",
+"paren": "forcejeando, histérica"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CABAÑA DE REMEDIOS — NOCHE",
+"start": 23.03,
+"end": 24.13
+},
+{
+"type": "action",
+"text": "Darío, tendido sobre la mesa, gris, la herida ennegrecida por la plata. Remedios niega con la cabeza.",
+"start": 24.13,
+"end": 29.63
+},
+{
+"type": "dialogue",
+"text": "La plata le está entrando en el corazón. Ni con todas mis hierbas.",
+"start": 29.93,
+"end": 35.2,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Tiene que haber algo!",
+"start": 35.42,
+"end": 36.68,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Lo hay. (La mira.) Un vínculo completo. Si le marcas, tu poder fluirá en él y quemará la plata.",
+"start": 36.9,
+"end": 44.29,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Pero la maldición... Si me marca, yo moriré.",
+"start": 44.51,
+"end": 48.03,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "La maldición dice que muere la que lleva su marca. No la que se la pone a él.",
+"start": 48.25,
+"end": 53.87,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío abre los ojos, débil.",
+"start": 54.09,
+"end": 56.52
+},
+{
+"type": "dialogue",
+"text": "No... Alba. No lo hagas. No sabes... lo que verás.",
+"start": 56.82,
+"end": 63.12,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Me da igual.",
+"start": 63.34,
+"end": 64.39,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. CABAÑA — CONTINUO",
+"start": 64.86,
+"end": 65.96
+},
+{
+"type": "action",
+"text": "Alba se inclina sobre él. Le aparta el pelo del cuello. Sus colmillos aparecen. Le muerde suavemente en el lugar del vínculo. Una luz plateada estalla en la cabaña. La herida de Darío se cierra, humeando.",
+"start": 65.96,
+"end": 71.46
+},
+{
+"type": "action",
+"text": "Pero, al unirse sus almas, Alba ve dentro de él. Sus recuerdos.",
+"start": 71.76,
+"end": 75.82
+},
+{
+"type": "scene",
+"text": "ESC. 4 — FLASHBACK — EXT. ALDEA EN LLAMAS — NOCHE, HACE 16 AÑOS",
+"start": 76.37,
+"end": 77.47
+},
+{
+"type": "action",
+"text": "Casas ardiendo. Una mujer de pelo plateado, idéntica a Alba, con un vestido blanco: ELENA RIVAS. Frente a ella, un enorme lobo negro de ojos dorados se transforma en Darío. Detrás de él, Rodrigo, más joven.",
+"start": 77.47,
+"end": 82.97
+},
+{
+"type": "dialogue",
+"text": "Por favor... por mi hija.",
+"start": 83.27,
+"end": 84.76,
+"speaker": "ELENA",
+"paren": "con la Voz de Plata"
+},
+{
+"type": "action",
+"text": "Darío levanta la mano. Sus garras se alargan. Ella cierra los ojos.",
+"start": 84.98,
+"end": 89.23
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 89.78,
+"end": 90.88
+},
+{
+"type": "action",
+"text": "Las garras de Darío caen sobre la madre de Alba. Grito. Blanco.",
+"start": 90.88,
+"end": 94.94
+},
+{
+"type": "action",
+"text": "Alba se aparta del cuello de Darío de golpe, con la boca temblando y lágrimas en los ojos. El vínculo ya está completo: no se puede deshacer.",
+"start": 95.24,
+"end": 100.74
+},
+{
+"type": "dialogue",
+"text": "Fuiste tú.",
+"start": 101.04,
+"end": 102.05,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío, ya curado, la mira sin defenderse.",
+"start": 102.27,
+"end": 105.33
+},
+{
+"type": "dialogue",
+"text": "Sí. Yo maté a tu madre.",
+"start": 105.63,
+"end": 108.21,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "screen",
+"text": "Acaba de unir su alma a la del asesino de su madre.",
+"start": 108.43,
+"end": 111.95
+}
+]
+}

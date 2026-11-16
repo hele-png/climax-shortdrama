@@ -1,0 +1,217 @@
+{
+"slug": "repartidor-heredero",
+"ep": 10,
+"duration": 137.49,
+"audio": "media/repartidor-heredero/ep10.m4a",
+"cliff": 109.93,
+"cues": [
+{
+"type": "action",
+"text": "El abogado lee en voz alta: \"Lego la totalidad del Grupo Altamira a mi único nieto... Daniel Cruz Altamira.\"",
+"start": 0.35,
+"end": 6.25
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. SALA DEL CONSEJO — CONTINUO",
+"start": 6.8,
+"end": 7.9
+},
+{
+"type": "action",
+"text": "Silencio absoluto. A Marina se le cae el bolso. Rosa se agarra a una silla.",
+"start": 7.9,
+"end": 12.51
+},
+{
+"type": "dialogue",
+"text": "El señor Daniel Altamira ha superado las pruebas establecidas por su abuelo. Desde este momento es el accionista mayoritario y presidente del grupo.",
+"start": 12.81,
+"end": 20.73,
+"speaker": "ABOGADO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Los consejeros se ponen en pie, uno a uno. Bruno se queda sentado, temblando.",
+"start": 20.95,
+"end": 25.65
+},
+{
+"type": "dialogue",
+"text": "No... esto es imposible. Es un repartidor. ¡Le tiré monedas!",
+"start": 25.95,
+"end": 32.18,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Lo sé. Las he guardado. (Deja las monedas en la mesa, una a una.) Para el taxi, Bruno. Porque a partir de hoy ya no tienes coche de empresa. Ni empresa.",
+"start": 32.4,
+"end": 42.75,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Seguridad, acompañen al señor Castell a la salida. La policía le espera abajo.",
+"start": 42.97,
+"end": 48.53,
+"speaker": "DANIEL",
+"paren": "a seguridad"
+},
+{
+"type": "action",
+"text": "Los vigilantes se llevan a Bruno a rastras.",
+"start": 48.75,
+"end": 51.91
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SALA DEL CONSEJO — MOMENTOS DESPUÉS",
+"start": 52.46,
+"end": 53.56
+},
+{
+"type": "action",
+"text": "Marina se acerca a Daniel con lágrimas en los ojos.",
+"start": 53.56,
+"end": 57.07
+},
+{
+"type": "dialogue",
+"text": "Dani... cariño. Yo siempre te quise. Fue mi madre, me obligó...",
+"start": 57.37,
+"end": 62.99,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Perdónanos, hijo! ¡Eras de la familia!",
+"start": 63.21,
+"end": 66.9,
+"speaker": "ROSA",
+"paren": "de rodillas"
+},
+{
+"type": "dialogue",
+"text": "Hace treinta días me dijisteis que sacara mis cosas del piso. (A Irene.) Irene, ¿de quién es el edificio de los Velasco?",
+"start": 67.12,
+"end": 73.9,
+"speaker": "DANIEL",
+"paren": "sin mirarlas"
+},
+{
+"type": "dialogue",
+"text": "Hipotecado con Altamira Hoteles, señor. Desde 2019.",
+"start": 74.12,
+"end": 78.99,
+"speaker": "IRENE",
+"paren": "sonriendo"
+},
+{
+"type": "dialogue",
+"text": "Pues que saquen ellas sus cosas.",
+"start": 79.21,
+"end": 81.08,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Marina rompe a llorar. Irene y Daniel intercambian una mirada cómplice.",
+"start": 81.3,
+"end": 85.73
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. DESPACHO PRESIDENCIAL — TARDE",
+"start": 86.28,
+"end": 87.38
+},
+{
+"type": "action",
+"text": "Daniel, solo con Irene, mira Madrid desde la planta 50.",
+"start": 87.38,
+"end": 91.39
+},
+{
+"type": "dialogue",
+"text": "Lo hemos conseguido.",
+"start": 91.69,
+"end": 92.99,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Lo has conseguido tú. Yo solo traje el traje.",
+"start": 93.21,
+"end": 97.12,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Él se acerca. Ella no se aparta. Están a punto de besarse. Llaman a la puerta. El abogado.",
+"start": 97.34,
+"end": 102.63
+},
+{
+"type": "dialogue",
+"text": "Disculpe. Hay algo que no he leído delante del consejo. Una cláusula adicional del testamento.",
+"start": 102.93,
+"end": 109.46,
+"speaker": "ABOGADO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 109.93,
+"end": 111.03
+},
+{
+"type": "action",
+"text": "El abogado lee:",
+"start": 111.03,
+"end": 112.91
+},
+{
+"type": "dialogue",
+"text": "\"Para conservar la herencia, mi nieto deberá contraer matrimonio en un plazo de sesenta días... con la mujer que yo he elegido para él.\"",
+"start": 113.21,
+"end": 119.96,
+"speaker": "ABOGADO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Qué mujer?",
+"start": 120.18,
+"end": 120.98,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El abogado gira el documento. Un nombre. Irene lo lee y da un paso atrás.",
+"start": 121.2,
+"end": 125.72
+},
+{
+"type": "screen",
+"text": "MARINA VELASCO.",
+"start": 126.02,
+"end": 127.9
+},
+{
+"type": "action",
+"text": "Desde la puerta, Marina, que lo ha oído todo, se seca las lágrimas... y sonríe.",
+"start": 128.2,
+"end": 132.99
+}
+]
+}

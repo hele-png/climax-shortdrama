@@ -1,0 +1,209 @@
+{
+"slug": "cien-dias",
+"ep": 2,
+"duration": 126.27,
+"audio": "media/cien-dias/ep02.m4a",
+"cliff": 102.57,
+"cues": [
+{
+"type": "action",
+"text": "Elena lee en voz alta, incrédula: \"Cláusula siete: si la esposa se enamora, pierde todo lo pactado.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CAFETERÍA DEL HOSPITAL — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Elena y Adrián, frente a frente. El contrato entre los dos.",
+"start": 7.5,
+"end": 11.38
+},
+{
+"type": "dialogue",
+"text": "¿Por qué yo? Podría casarse con cualquier modelo de Instagram.",
+"start": 11.68,
+"end": 16.04,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi padre murió hace un año. Su testamento dice que, si no estoy casado antes de mi cumpleaños, la presidencia pasa a mi hermanastro. Faltan nueve días.",
+"start": 16.26,
+"end": 26.66,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Eso no responde a \"por qué yo\".",
+"start": 26.88,
+"end": 28.86,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque no me tienes miedo. Y porque necesitas el dinero más que nadie. Las mujeres que necesitan algo no se enamoran. Negocian.",
+"start": 29.08,
+"end": 38.85,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. CAFETERÍA — CONTINUO",
+"start": 39.32,
+"end": 40.42
+},
+{
+"type": "action",
+"text": "Elena pasa las páginas.",
+"start": 40.42,
+"end": 42.66
+},
+{
+"type": "dialogue",
+"text": "\"Uno: dormitorios separados.\" Perfecto. \"Tres: la esposa acompañará al marido a eventos públicos.\" Vale. \"Cinco: prohibido entrar en la habitación del tercer piso.\" ¿Qué hay en el tercer piso? ¿Un cadáver?",
+"start": 42.96,
+"end": 59.74,
+"speaker": "ELENA",
+"paren": "leyendo"
+},
+{
+"type": "dialogue",
+"text": "Nada que te importe.",
+"start": 59.96,
+"end": 61.19,
+"speaker": "ADRIÁN",
+"paren": "serio"
+},
+{
+"type": "dialogue",
+"text": "\"Siete: si la esposa se enamora del marido, el contrato quedará anulado y deberá devolver la totalidad del dinero.\"",
+"start": 61.41,
+"end": 67.83,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Tan irresistible se cree?",
+"start": 68.05,
+"end": 69.78,
+"speaker": "ELENA",
+"paren": "se ríe"
+},
+{
+"type": "dialogue",
+"text": "No es por mí. Es por ti. Yo no puedo darte lo que querrías.",
+"start": 70.0,
+"end": 75.31,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena le mira. Por primera vez ve algo triste en sus ojos verdes.",
+"start": 75.53,
+"end": 79.69
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. HABITACIÓN DE PABLO — CONTINUO",
+"start": 80.24,
+"end": 81.34
+},
+{
+"type": "action",
+"text": "Elena mira a Pablo dormido a través del cristal. El monitor pita, irregular.",
+"start": 81.34,
+"end": 85.99
+},
+{
+"type": "dialogue",
+"text": "¿Y si uno de los dos rompe una cláusula antes de los cien días?",
+"start": 86.29,
+"end": 89.95,
+"speaker": "ELENA",
+"paren": "a Adrián, sin girarse"
+},
+{
+"type": "dialogue",
+"text": "Yo nunca rompo nada.",
+"start": 90.17,
+"end": 91.56,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena firma. Adrián firma después. Sus manos se rozan. Ella aparta la suya enseguida.",
+"start": 91.78,
+"end": 96.84
+},
+{
+"type": "dialogue",
+"text": "Que conste que no me caes bien.",
+"start": 97.14,
+"end": 98.93,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Perfecto. Así será más fácil.",
+"start": 99.15,
+"end": 102.1,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 102.57,
+"end": 103.67
+},
+{
+"type": "action",
+"text": "Adrián se levanta, se abrocha la chaqueta.",
+"start": 103.67,
+"end": 106.78
+},
+{
+"type": "dialogue",
+"text": "Mañana nos casamos en el registro a las diez. Por la noche conocerás a mi familia.",
+"start": 107.08,
+"end": 112.39,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y qué tengo que saber de ellos?",
+"start": 112.61,
+"end": 114.51,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián se detiene en la puerta.",
+"start": 114.73,
+"end": 117.34
+},
+{
+"type": "dialogue",
+"text": "Que te van a odiar. Y que uno de ellos ya ha intentado matarme.",
+"start": 117.64,
+"end": 121.85,
+"speaker": "ADRIÁN",
+"paren": ""
+}
+]
+}

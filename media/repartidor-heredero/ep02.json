@@ -1,0 +1,223 @@
+{
+"slug": "repartidor-heredero",
+"ep": 2,
+"duration": 145.26,
+"audio": "media/repartidor-heredero/ep02.m4a",
+"cliff": 123.97,
+"cues": [
+{
+"type": "action",
+"text": "Un anciano en una cama de hospital agarra la mano de Daniel: \"Tienes los ojos de tu madre. Y vas a ser el hombre más rico de España.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. SUITE PRIVADA, CLÍNICA — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Daniel, todavía con la chaqueta naranja empapada, frente a DON ERNESTO ALTAMIRA.",
+"start": 7.5,
+"end": 12.63
+},
+{
+"type": "dialogue",
+"text": "Usted echó a mi madre de casa. Murió limpiando oficinas.",
+"start": 12.93,
+"end": 17.35,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Y no hay un día en veinte años en que no me haya arrepentido. Por eso estás aquí.",
+"start": 17.57,
+"end": 23.39,
+"speaker": "DON ERNESTO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Le hace un gesto a IRENE SALAS, gafas doradas, tablet en mano.",
+"start": 23.61,
+"end": 27.78
+},
+{
+"type": "dialogue",
+"text": "Grupo Altamira. Inmobiliaria, hoteles, puertos. Valor estimado: cuarenta mil millones de euros.",
+"start": 28.08,
+"end": 36.06,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel se ríe, incrédulo.",
+"start": 36.28,
+"end": 38.62
+},
+{
+"type": "dialogue",
+"text": "Esto es una broma.",
+"start": 38.92,
+"end": 40.18,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ojalá. Mi empresa está llena de buitres. No me fío de nadie. Ni siquiera de ti... todavía.",
+"start": 40.4,
+"end": 49.89,
+"speaker": "DON ERNESTO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SUITE — CONTINUO",
+"start": 50.36,
+"end": 51.46
+},
+{
+"type": "action",
+"text": "Don Ernesto saca un reloj de bolsillo de oro y se lo pone en la mano.",
+"start": 51.46,
+"end": 55.8
+},
+{
+"type": "dialogue",
+"text": "Una condición. Durante treinta días trabajarás en Altamira como becario. Sin apellido. Sin dinero. Si alguien descubre quién eres antes de tiempo, lo pierdes todo.",
+"start": 56.1,
+"end": 70.94,
+"speaker": "DON ERNESTO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Por qué?",
+"start": 71.16,
+"end": 71.81,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque quiero saber si eres un Altamira... o solo un chico con suerte. Un hombre se conoce por cómo le tratan cuando creen que no vale nada.",
+"start": 72.03,
+"end": 81.3,
+"speaker": "DON ERNESTO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel aprieta el reloj.",
+"start": 81.52,
+"end": 83.81
+},
+{
+"type": "dialogue",
+"text": "Ya sé cómo me tratan cuando creen que no valgo nada. Me lo han enseñado esta noche.",
+"start": 84.11,
+"end": 89.47,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. PASILLO DE LA CLÍNICA — MOMENTOS DESPUÉS",
+"start": 89.94,
+"end": 91.04
+},
+{
+"type": "action",
+"text": "Pitido largo del monitor. Médicos corriendo. Daniel, tras el cristal, ve cómo su abuelo se apaga. Irene le pone una mano en el hombro.",
+"start": 91.04,
+"end": 96.54
+},
+{
+"type": "dialogue",
+"text": "Lo siento. Esperó tres días para verte.",
+"start": 96.84,
+"end": 100.52,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel llora en silencio.",
+"start": 100.74,
+"end": 103.07
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. PASILLO — MINUTOS DESPUÉS",
+"start": 103.62,
+"end": 104.72
+},
+{
+"type": "action",
+"text": "Un ABOGADO de pelo blanco se acerca con una carpeta.",
+"start": 104.72,
+"end": 108.29
+},
+{
+"type": "dialogue",
+"text": "Señor Altamira, el testamento entra en vigor ahora. Mañana empieza en Altamira Inmobiliaria. Planta 12. Departamento de... fotocopias.",
+"start": 108.59,
+"end": 118.59,
+"speaker": "ABOGADO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y quién es mi jefe?",
+"start": 118.81,
+"end": 120.0,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "El abogado le enseña una ficha con una foto.",
+"start": 120.22,
+"end": 123.42
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 123.97,
+"end": 125.07
+},
+{
+"type": "action",
+"text": "Primer plano de la ficha: la sonrisa de BRUNO CASTELL.",
+"start": 125.07,
+"end": 128.72
+},
+{
+"type": "dialogue",
+"text": "Su jefe directo será Bruno Castell. ¿Le conoce?",
+"start": 129.02,
+"end": 132.55,
+"speaker": "ABOGADO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel cierra la carpeta despacio. Sonríe por primera vez en toda la noche.",
+"start": 132.77,
+"end": 137.38
+},
+{
+"type": "dialogue",
+"text": "Le conozco. Me debe unas monedas.",
+"start": 137.68,
+"end": 140.84,
+"speaker": "DANIEL",
+"paren": ""
+}
+]
+}

@@ -1,0 +1,203 @@
+{
+"slug": "cien-dias",
+"ep": 5,
+"duration": 108.05,
+"audio": "media/cien-dias/ep05.m4a",
+"cliff": 87.49,
+"cues": [
+{
+"type": "action",
+"text": "Adrián abre el armario de golpe. Vacío. Pero al fondo hay una puerta secreta... abierta.",
+"start": 0.35,
+"end": 5.55
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. HABITACIÓN DEL TERCER PISO — CONTINUO",
+"start": 6.1,
+"end": 7.2
+},
+{
+"type": "action",
+"text": "Un pasadizo estrecho de servicio, con escaleras hacia el jardín. Corriente de aire frío.",
+"start": 7.2,
+"end": 12.4
+},
+{
+"type": "dialogue",
+"text": "Esta escalera estaba tapiada.",
+"start": 12.7,
+"end": 14.58,
+"speaker": "ADRIÁN",
+"paren": "pálido"
+},
+{
+"type": "dialogue",
+"text": "Pues alguien la ha destapiado. Y tocaba tu piano a las tres de la mañana. ¿Vas a contarme quién es la mujer del cuadro o voy a seguir rompiendo cláusulas?",
+"start": 14.8,
+"end": 24.76,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián cierra la puerta secreta. Le da la espalda.",
+"start": 24.98,
+"end": 28.46
+},
+{
+"type": "dialogue",
+"text": "Mañana vendrá un cerrajero. Y tú no volverás a subir aquí.",
+"start": 28.76,
+"end": 32.93,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. JARDÍN DE LA MANSIÓN — NOCHE",
+"start": 33.4,
+"end": 34.5
+},
+{
+"type": "action",
+"text": "Tormenta. Elena sale corriendo bajo la lluvia, en bata, siguiendo unas huellas en el barro hacia la verja. Se pierden. Adrián sale tras ella.",
+"start": 34.5,
+"end": 40.0
+},
+{
+"type": "dialogue",
+"text": "¡Elena! ¡Vuelve dentro, vas a enfermar!",
+"start": 40.3,
+"end": 43.7,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Me casé con un desconocido para salvar a mi hermano y resulta que vivo en una casa con fantasmas y retratos con mi cara! ¡Estoy harta de tus secretos!",
+"start": 43.92,
+"end": 52.9,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Mis secretos te protegen!",
+"start": 53.12,
+"end": 54.73,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿De qué?",
+"start": 54.95,
+"end": 55.64,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Él la agarra por los brazos. Están empapados. Muy cerca.",
+"start": 55.86,
+"end": 59.61
+},
+{
+"type": "dialogue",
+"text": "De mí.",
+"start": 59.91,
+"end": 60.55,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Silencio. La lluvia. Él le aparta un mechón mojado de la cara. Ella no se mueve. Él se inclina. Sus labios, a un centímetro.",
+"start": 60.77,
+"end": 66.27
+},
+{
+"type": "dialogue",
+"text": "Cláusula siete.",
+"start": 66.57,
+"end": 67.94,
+"speaker": "ELENA",
+"paren": "en un susurro"
+},
+{
+"type": "dialogue",
+"text": "La cláusula siete es para ti. No para mí.",
+"start": 68.16,
+"end": 71.61,
+"speaker": "ADRIÁN",
+"paren": "sin apartarse"
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. JARDÍN — CONTINUO",
+"start": 72.08,
+"end": 73.18
+},
+{
+"type": "action",
+"text": "El móvil de Elena suena en el bolsillo de la bata. Una vez. Otra. Ella lo ignora. A la tercera, mira la pantalla: \"HOSPITAL INFANTIL\".",
+"start": 73.18,
+"end": 78.68
+},
+{
+"type": "action",
+"text": "Contesta. Su cara cambia por completo.",
+"start": 78.98,
+"end": 81.9
+},
+{
+"type": "dialogue",
+"text": "Señora Robles, venga ya. Su hermano ha entrado en parada cardiaca.",
+"start": 82.2,
+"end": 87.02,
+"speaker": "ENFERMERA",
+"paren": "O.S."
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 87.49,
+"end": 88.59
+},
+{
+"type": "action",
+"text": "El móvil cae al barro. Elena empieza a temblar.",
+"start": 88.59,
+"end": 91.93
+},
+{
+"type": "dialogue",
+"text": "Pablo... Pablo se está muriendo.",
+"start": 92.23,
+"end": 95.22,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián ya tiene su móvil en la oreja.",
+"start": 95.44,
+"end": 98.33
+},
+{
+"type": "dialogue",
+"text": "Preparad el helicóptero. Ahora.",
+"start": 98.63,
+"end": 101.36,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "screen",
+"text": "Día 6 de 100.",
+"start": 101.58,
+"end": 103.55
+}
+]
+}

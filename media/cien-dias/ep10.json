@@ -1,0 +1,171 @@
+{
+"slug": "cien-dias",
+"ep": 10,
+"duration": 119.24,
+"audio": "media/cien-dias/ep10.m4a",
+"cliff": 94.92,
+"cues": [
+{
+"type": "action",
+"text": "Elena, empapada, aporrea una puerta a medianoche: \"Iker. Tú tienes pruebas. Las quiero todas.\"",
+"start": 0.35,
+"end": 5.82
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. CARRETERA — NOCHE",
+"start": 6.37,
+"end": 7.47
+},
+{
+"type": "action",
+"text": "Elena camina bajo la lluvia, con el vestido verde, descalza. Un coche deportivo frena a su lado. Iker baja la ventanilla.",
+"start": 7.47,
+"end": 12.97
+},
+{
+"type": "dialogue",
+"text": "Sube. Te vas a matar.",
+"start": 13.27,
+"end": 15.74,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Llévame donde tengas la verdad. Toda.",
+"start": 15.96,
+"end": 19.18,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. ÁTICO DE IKER — NOCHE",
+"start": 19.65,
+"end": 20.75
+},
+{
+"type": "action",
+"text": "Luces tenues. Iker le da una toalla y una copa. Abre un portátil.",
+"start": 20.75,
+"end": 24.9
+},
+{
+"type": "dialogue",
+"text": "Esto es la cámara del salpicadero del coche de tu padre. La policía nunca la encontró. Yo sí.",
+"start": 25.2,
+"end": 32.79,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Pone el vídeo. Imagen granulada. Faros. Un coche negro que invade el carril. El choque. Elena se tapa la boca. El vídeo sigue: el coche negro se para. Alguien baja por la puerta del copiloto. Adrián, joven, corre hacia el coche del padre de Elena y rompe el cristal con la mano desnuda.",
+"start": 33.01,
+"end": 38.51
+},
+{
+"type": "dialogue",
+"text": "Sale... por el lado del copiloto.",
+"start": 38.81,
+"end": 40.84,
+"speaker": "ELENA",
+"paren": "en un hilo de voz"
+},
+{
+"type": "action",
+"text": "Congela la imagen. Amplía. Al volante del coche negro, todavía dentro, iluminado por los faros: un chico rubio de pelo largo, riéndose, con una botella en la mano.",
+"start": 41.06,
+"end": 46.56
+},
+{
+"type": "action",
+"text": "Elena se gira despacio hacia Iker.",
+"start": 46.86,
+"end": 49.6
+},
+{
+"type": "dialogue",
+"text": "Adrián no conducía. Intentó salvarle. Conducías tú.",
+"start": 49.9,
+"end": 55.33,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. ÁTICO DE IKER — CONTINUO",
+"start": 55.8,
+"end": 56.9
+},
+{
+"type": "action",
+"text": "Iker deja de sonreír por un segundo. Luego vuelve a sonreír, más que nunca.",
+"start": 56.9,
+"end": 61.51
+},
+{
+"type": "dialogue",
+"text": "Diecinueve años, borracho, con el carné recién sacado. Papá dijo que el escándalo destruiría la empresa. Así que Adrián, el hijo perfecto, se echó la culpa. Pagó al juez. Pagó a la prensa. Y desde entonces carga con mi pecado. (Brinda.) Es su especialidad.",
+"start": 61.81,
+"end": 83.02,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y por qué me lo enseñas?",
+"start": 83.24,
+"end": 84.89,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque quería ver tu cara. (Se levanta.) Y porque ya no vas a poder contárselo a nadie.",
+"start": 85.11,
+"end": 90.08,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena coge el móvil. Sin cobertura. Iker se acerca a la puerta.",
+"start": 90.3,
+"end": 94.37
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 94.92,
+"end": 96.02
+},
+{
+"type": "action",
+"text": "Clic. Iker cierra la puerta con llave y se guarda la llave en el bolsillo.",
+"start": 96.02,
+"end": 100.58
+},
+{
+"type": "dialogue",
+"text": "Mi hermano siempre carga con mis pecados, Elena. (Sonríe.) Tú vas a ser el siguiente.",
+"start": 100.88,
+"end": 106.48,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Al otro lado de la ciudad, el móvil de Adrián se ilumina: \"Elena: 1 llamada perdida.\"",
+"start": 106.7,
+"end": 112.04
+},
+{
+"type": "screen",
+"text": "Día 31 de 100.",
+"start": 112.34,
+"end": 114.74
+}
+]
+}

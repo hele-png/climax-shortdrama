@@ -1,0 +1,207 @@
+{
+"slug": "esposa-del-mar",
+"ep": 6,
+"duration": 115.58,
+"audio": "media/esposa-del-mar/ep06.m4a",
+"cliff": 101.47,
+"cues": [
+{
+"type": "action",
+"text": "Negro total. La voz de Álvaro: \"Si eres tú... perdóname.\"",
+"start": 0.35,
+"end": 4.14
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. ASCENSOR — OSCURIDAD",
+"start": 4.69,
+"end": 5.79
+},
+{
+"type": "action",
+"text": "Solo la luz roja de emergencia. Álvaro está muy cerca de Valeria.",
+"start": 5.79,
+"end": 9.95
+},
+{
+"type": "dialogue",
+"text": "Sueño con ella cada noche. Con el agua. Con sus ojos.",
+"start": 10.25,
+"end": 15.51,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Remordimientos, señor Saavedra?",
+"start": 15.73,
+"end": 18.04,
+"speaker": "VALERIA",
+"paren": "fría"
+},
+{
+"type": "dialogue",
+"text": "Fue un accidente.",
+"start": 18.26,
+"end": 19.5,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Los accidentes no se planean en un camarote.",
+"start": 19.72,
+"end": 22.46,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Álvaro se queda helado.",
+"start": 22.68,
+"end": 24.93
+},
+{
+"type": "dialogue",
+"text": "¿Cómo sabes lo del camarote?",
+"start": 25.23,
+"end": 26.82,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria se da cuenta de su error. Silencio. Él alarga la mano hacia el cuello de su traje, hacia la clavícula. Los dedos rozan la tela.",
+"start": 27.04,
+"end": 32.54
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. ASCENSOR — CONTINUO",
+"start": 33.09,
+"end": 34.19
+},
+{
+"type": "action",
+"text": "La luz vuelve de golpe. Valeria le cruza la cara con una bofetada seca.",
+"start": 34.19,
+"end": 38.62
+},
+{
+"type": "dialogue",
+"text": "Lo pone en el informe de la Guardia Civil, idiota. Soy inversora. Leo todo antes de poner 200 millones.",
+"start": 38.92,
+"end": 47.25,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Las puertas se abren. Ella sale sin mirar atrás. Álvaro se queda tocándose la mejilla... y sonríe.",
+"start": 47.47,
+"end": 52.97
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. SALA DE SEGURIDAD — MISMO MOMENTO",
+"start": 53.52,
+"end": 54.62
+},
+{
+"type": "action",
+"text": "Carla, frente a los monitores, ha visto toda la escena en la cámara del ascensor. Rebobina: Álvaro, demasiado cerca de Valeria.",
+"start": 54.62,
+"end": 60.12
+},
+{
+"type": "dialogue",
+"text": "Borra esta grabación. Y tú no has visto nada.",
+"start": 60.42,
+"end": 63.96,
+"speaker": "CARLA",
+"paren": "al vigilante"
+},
+{
+"type": "action",
+"text": "Sale y marca un número.",
+"start": 64.18,
+"end": 66.43
+},
+{
+"type": "dialogue",
+"text": "¿Ramiro? Necesito que sigas a alguien. Valeria Montes. Quiero saber dónde duerme, con quién y qué esconde.",
+"start": 66.73,
+"end": 75.36,
+"speaker": "CARLA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. DESPACHO DE VALERIA, RÍOS CAPITAL — NOCHE",
+"start": 75.83,
+"end": 76.93
+},
+{
+"type": "action",
+"text": "Valeria, temblando, se sirve un whisky. Mateo entra.",
+"start": 76.93,
+"end": 80.49
+},
+{
+"type": "dialogue",
+"text": "Has firmado. Ya estás dentro del consejo.",
+"start": 80.79,
+"end": 84.51,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Y casi me descubre. Me ha tocado, Mateo. El hombre que me tiró al mar me ha tocado... y por un segundo me temblaron las piernas.",
+"start": 84.73,
+"end": 93.7,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿De miedo?",
+"start": 93.92,
+"end": 94.72,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "VALERIA: (no responde)",
+"start": 94.94,
+"end": 97.14
+},
+{
+"type": "action",
+"text": "Mateo aprieta la mandíbula y se va sin decir nada.",
+"start": 97.44,
+"end": 100.92
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 101.47,
+"end": 102.57
+},
+{
+"type": "action",
+"text": "Esa misma noche. Carla, en su vestidor, recibe un mensaje de su detective. Una foto: Valeria Montes, de rodillas en el cementerio, dejando rosas blancas en la tumba de Lucía Ferrer.",
+"start": 102.57,
+"end": 108.07
+},
+{
+"type": "dialogue",
+"text": "Nadie lleva flores a la tumba de una desconocida.",
+"start": 108.37,
+"end": 111.16,
+"speaker": "CARLA",
+"paren": "pálida"
+}
+]
+}

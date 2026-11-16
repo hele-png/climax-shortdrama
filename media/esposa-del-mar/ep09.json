@@ -1,0 +1,193 @@
+{
+"slug": "esposa-del-mar",
+"ep": 9,
+"duration": 108.26,
+"audio": "media/esposa-del-mar/ep09.m4a",
+"cliff": 91.14,
+"cues": [
+{
+"type": "action",
+"text": "Valeria agarra a un médico por la corbata contra una pared: \"¿Cuánto le pagaron por mi hijo?\"",
+"start": 0.35,
+"end": 5.78
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CONSULTA DEL DR. LERMA, CÁDIZ — DÍA",
+"start": 6.33,
+"end": 7.43
+},
+{
+"type": "action",
+"text": "El DR. LERMA, sesentón, sudoroso. Mateo bloquea la puerta.",
+"start": 7.43,
+"end": 11.26
+},
+{
+"type": "dialogue",
+"text": "¡Yo no quería! La señora Saavedra apareció a los dos días. Dijo que era la abuela. Que la madre no despertaría nunca.",
+"start": 11.56,
+"end": 20.09,
+"speaker": "DR. LERMA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Y me dijo a mí que estaba muerto.",
+"start": 20.31,
+"end": 22.19,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Me pagó medio millón! Me dijo que si usted despertaba... tenía que creer que lo había perdido.",
+"start": 22.41,
+"end": 27.89,
+"speaker": "DR. LERMA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Valeria lo suelta. Le tiemblan las manos.",
+"start": 28.11,
+"end": 31.18
+},
+{
+"type": "dialogue",
+"text": "Va a declarar. Ante un juez.",
+"start": 31.48,
+"end": 34.48,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Si declaro, esa mujer me mata.",
+"start": 34.7,
+"end": 36.88,
+"speaker": "DR. LERMA",
+"paren": "llorando"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. FINCA SAAVEDRA — NOCHE",
+"start": 37.35,
+"end": 38.45
+},
+{
+"type": "action",
+"text": "Fiesta del cumpleaños de Álvaro. Valeria, como consejera, está invitada. Bruno juega con un barco de madera. Valeria se agacha a su lado.",
+"start": 38.45,
+"end": 43.95
+},
+{
+"type": "dialogue",
+"text": "Qué barco tan bonito. ¿Me dejas?",
+"start": 44.25,
+"end": 47.29,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Es el barco de papá.",
+"start": 47.51,
+"end": 48.81,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Ella le aparta un rizo con ternura. Detrás de la oreja izquierda: una pequeña marca de nacimiento con forma de corazón. Lucía tiene la misma.",
+"start": 49.03,
+"end": 54.53
+},
+{
+"type": "action",
+"text": "Con disimulo, guarda un pelo del niño en un pañuelo.",
+"start": 54.83,
+"end": 58.39
+},
+{
+"type": "dialogue",
+"text": "Mamá ha vuelto, cariño. Mamá ha vuelto.",
+"start": 58.69,
+"end": 62.51,
+"speaker": "VALERIA",
+"paren": "susurrando"
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. DESPACHO DE ÁLVARO — MOMENTOS DESPUÉS",
+"start": 62.98,
+"end": 64.08
+},
+{
+"type": "action",
+"text": "Valeria entra a buscar los papeles del yate. Busca en el cajón. Encuentra algo: la prueba de embarazo de aquella noche, en una bolsita. Él la guardó.",
+"start": 64.08,
+"end": 69.58
+},
+{
+"type": "action",
+"text": "La puerta se cierra con llave a su espalda. Álvaro.",
+"start": 69.88,
+"end": 73.4
+},
+{
+"type": "dialogue",
+"text": "Esa prueba la saqué del agua al día siguiente. Flotaba junto al yate. Es lo único que me queda de ella.",
+"start": 73.7,
+"end": 81.09,
+"speaker": "ÁLVARO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Qué romántico. Un asesino sentimental.",
+"start": 81.31,
+"end": 84.87,
+"speaker": "VALERIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Álvaro se lanza hacia ella, le sujeta las muñecas contra la estantería y, de un tirón, aparta el cuello de su traje blanco.",
+"start": 85.09,
+"end": 90.59
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 91.14,
+"end": 92.24
+},
+{
+"type": "action",
+"text": "Primer plano: la fina cicatriz blanca en la clavícula izquierda.",
+"start": 92.24,
+"end": 96.35
+},
+{
+"type": "action",
+"text": "Álvaro se queda sin aire. Sus ojos grises se llenan de pánico.",
+"start": 96.65,
+"end": 100.66
+},
+{
+"type": "dialogue",
+"text": "...Lucía.",
+"start": 100.96,
+"end": 101.7,
+"speaker": "ÁLVARO",
+"paren": "en un susurro"
+},
+{
+"type": "screen",
+"text": "ÉL YA LO SABE.",
+"start": 101.92,
+"end": 103.76
+}
+]
+}

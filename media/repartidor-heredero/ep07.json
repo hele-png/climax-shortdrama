@@ -1,0 +1,203 @@
+{
+"slug": "repartidor-heredero",
+"ep": 7,
+"duration": 115.71,
+"audio": "media/repartidor-heredero/ep07.m4a",
+"cliff": 95.88,
+"cues": [
+{
+"type": "action",
+"text": "Daniel, con pajarita de camarero, sostiene una bandeja de champán en la gala de su propia empresa.",
+"start": 0.35,
+"end": 6.32
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. PALACIO DE CRISTAL — NOCHE",
+"start": 6.87,
+"end": 7.97
+},
+{
+"type": "action",
+"text": "Alfombra roja. Fotógrafos. Bruno y Marina posan como reyes. Por la puerta de servicio entra Daniel, vestido de camarero.",
+"start": 7.97,
+"end": 13.47
+},
+{
+"type": "dialogue",
+"text": "Tú, el nuevo. Champán a la mesa uno. Y no hables con nadie.",
+"start": 13.77,
+"end": 19.22,
+"speaker": "JEFE DE SALA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. SALÓN DE LA GALA — NOCHE",
+"start": 19.69,
+"end": 20.79
+},
+{
+"type": "action",
+"text": "Daniel sirve. Marina le reconoce y se ríe.",
+"start": 20.79,
+"end": 23.9
+},
+{
+"type": "dialogue",
+"text": "¡Pero si te han ascendido! De repartidor a camarero. Tu madre estaría orgullosa.",
+"start": 24.2,
+"end": 30.42,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi madre fue camarera. Sí, lo estaría.",
+"start": 30.64,
+"end": 34.38,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Marina le \"tropieza\" y le derrama una copa en la chaqueta. Los invitados se ríen.",
+"start": 34.6,
+"end": 39.48
+},
+{
+"type": "dialogue",
+"text": "Uy. Recoge eso.",
+"start": 39.78,
+"end": 42.12,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel recoge en silencio. Ve a Bruno escabullirse hacia la terraza con un hombre de traje oscuro y acento alemán.",
+"start": 42.34,
+"end": 47.84
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. TERRAZA — CONTINUO",
+"start": 48.39,
+"end": 49.49
+},
+{
+"type": "action",
+"text": "Daniel, escondido tras una columna, graba con el móvil.",
+"start": 49.49,
+"end": 53.21
+},
+{
+"type": "dialogue",
+"text": "¿Tiene los planos del puerto?",
+"start": 53.51,
+"end": 54.97,
+"speaker": "SR. KESSLER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Aquí. (Le da un pendrive.) Diez millones en mi cuenta de Andorra y Altamira pierde el contrato. Cuando caigan las acciones, el consejo me nombrará CEO para salvarla.",
+"start": 55.19,
+"end": 65.59,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y el heredero? Dicen que el viejo tenía un nieto.",
+"start": 65.81,
+"end": 69.47,
+"speaker": "SR. KESSLER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Nadie lo ha visto nunca. Si existe, será un inútil. Como todos los niños ricos.",
+"start": 69.69,
+"end": 77.01,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel tiene que reprimir una sonrisa.",
+"start": 77.23,
+"end": 80.16
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. TERRAZA — MOMENTOS DESPUÉS",
+"start": 80.71,
+"end": 81.81
+},
+{
+"type": "action",
+"text": "Daniel retrocede y choca con alguien. Marina. Le ha visto grabar.",
+"start": 81.81,
+"end": 85.96
+},
+{
+"type": "dialogue",
+"text": "¿Qué haces con el móvil?",
+"start": 86.26,
+"end": 87.53,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Mi trabajo.",
+"start": 87.75,
+"end": 88.68,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Dámelo.",
+"start": 88.9,
+"end": 89.68,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No.",
+"start": 89.9,
+"end": 90.45,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Marina le agarra de la chaqueta. Se acerca a su oído con una sonrisa helada.",
+"start": 90.67,
+"end": 95.33
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 95.88,
+"end": 96.98
+},
+{
+"type": "dialogue",
+"text": "Si le enseñas eso a alguien, gritaré. Diré que me has arrinconado aquí fuera. Que me has tocado. (Se despeina el pelo con una mano.) ¿A quién crees que van a creer? ¿A mí... o a un camarero?",
+"start": 96.98,
+"end": 108.47,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Marina coge aire para gritar.",
+"start": 108.69,
+"end": 111.21
+}
+]
+}

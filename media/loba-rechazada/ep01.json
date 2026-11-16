@@ -1,0 +1,193 @@
+{
+"slug": "loba-rechazada",
+"ep": 1,
+"duration": 115.49,
+"audio": "media/loba-rechazada/ep01.m4a",
+"cliff": 95.11,
+"cues": [
+{
+"type": "action",
+"text": "Luna llena. Cien lobos en círculo. Un chico grita: \"Yo, Leo Navarro, futuro Alfa de Sierra Negra... te rechazo.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CASA DEL ALFA — ATARDECER",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "ALBA, pelo blanco plateado recogido bajo un pañuelo, friega el suelo de rodillas. VANESA pasa y le tira el cubo de agua sucia de una patada.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "Uy. Feliz cumpleaños, huérfana. Dieciocho años y todavía sin loba. Qué vergüenza.",
+"start": 13.3,
+"end": 21.14,
+"speaker": "VANESA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Esta noche la Diosa Luna me dará un compañero. Como a todos.",
+"start": 21.36,
+"end": 26.27,
+"speaker": "ALBA",
+"paren": "en voz baja"
+},
+{
+"type": "dialogue",
+"text": "¿A ti? A ti te tocará un perro callejero.",
+"start": 26.49,
+"end": 29.72,
+"speaker": "VANESA",
+"paren": "riéndose"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. CLARO DE LA LUNA — NOCHE",
+"start": 30.19,
+"end": 31.29
+},
+{
+"type": "action",
+"text": "Ceremonia de la Luna. Hoguera. La manada en círculo. RODRIGO NAVARRO, el Alfa, preside. Los jóvenes de dieciocho años pasan uno a uno bajo la luz de la luna llena. Le toca a Alba. Avanza con su vestido blanco. Risas.",
+"start": 31.29,
+"end": 36.79
+},
+{
+"type": "action",
+"text": "Se quita el pañuelo. Su larga melena plateada brilla bajo la luna. Las risas se apagan.",
+"start": 37.09,
+"end": 42.24
+},
+{
+"type": "action",
+"text": "Entonces lo siente: un olor a pino y tormenta. Un tirón en el pecho. Se gira. LEO NAVARRO, el hijo del Alfa, la mira paralizado. Sus ojos ámbar se encienden.",
+"start": 42.54,
+"end": 48.04
+},
+{
+"type": "dialogue",
+"text": "Compañero.",
+"start": 48.34,
+"end": 49.23,
+"speaker": "ALBA",
+"paren": "sin aliento"
+},
+{
+"type": "action",
+"text": "Murmullos de escándalo. Vanesa se agarra al brazo de Leo.",
+"start": 49.45,
+"end": 53.24
+},
+{
+"type": "dialogue",
+"text": "Leo... dime que no.",
+"start": 53.54,
+"end": 54.84,
+"speaker": "VANESA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. CLARO DE LA LUNA — CONTINUO",
+"start": 55.31,
+"end": 56.41
+},
+{
+"type": "action",
+"text": "Leo mira a su padre. Rodrigo niega con la cabeza, frío. Leo traga saliva. Da un paso hacia Alba. Por un segundo, parece que va a cogerle la mano.",
+"start": 56.41,
+"end": 61.91
+},
+{
+"type": "dialogue",
+"text": "La futura Luna de Sierra Negra no puede ser una omega sin lobo.",
+"start": 62.21,
+"end": 66.25,
+"speaker": "LEO",
+"paren": "con voz rota"
+},
+{
+"type": "dialogue",
+"text": "Leo, por favor. Lo sientes igual que yo.",
+"start": 66.47,
+"end": 70.08,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Yo, Leo Navarro, futuro Alfa de Sierra Negra, te rechazo, Alba Rivas, como mi compañera.",
+"start": 70.3,
+"end": 76.57,
+"speaker": "LEO",
+"paren": "gritando, para que todos le oigan"
+},
+{
+"type": "action",
+"text": "Alba cae de rodillas. Un dolor como si le arrancaran el corazón. La manada aplaude. Vanesa besa a Leo delante de ella.",
+"start": 76.79,
+"end": 82.29
+},
+{
+"type": "dialogue",
+"text": "Acéptalo, huérfana. Y lárgate.",
+"start": 82.59,
+"end": 85.74,
+"speaker": "VANESA",
+"paren": "a Alba"
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. CLARO DE LA LUNA — CONTINUO",
+"start": 86.21,
+"end": 87.31
+},
+{
+"type": "action",
+"text": "Alba se levanta, temblando. Se limpia las lágrimas. Mira a Leo a los ojos.",
+"start": 87.31,
+"end": 91.87
+},
+{
+"type": "dialogue",
+"text": "Yo, Alba Rivas... acepto tu rechazo.",
+"start": 92.17,
+"end": 94.64,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 95.11,
+"end": 96.21
+},
+{
+"type": "action",
+"text": "El vínculo se rompe con un chasquido que todos oyen. Leo se dobla de dolor. Un viento helado apaga la hoguera.",
+"start": 96.21,
+"end": 101.71
+},
+{
+"type": "action",
+"text": "Alba levanta la cabeza: sus ojos se han vuelto de plata brillante. Sobre ellos, la luna llena se tiñe lentamente de rojo sangre.",
+"start": 102.01,
+"end": 107.51
+},
+{
+"type": "dialogue",
+"text": "No puede ser. Esos ojos...",
+"start": 107.81,
+"end": 111.07,
+"speaker": "RODRIGO",
+"paren": "pálido, para sí"
+}
+]
+}

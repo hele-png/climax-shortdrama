@@ -1,0 +1,195 @@
+{
+"slug": "loba-rechazada",
+"ep": 8,
+"duration": 122.57,
+"audio": "media/loba-rechazada/ep08.m4a",
+"cliff": 99.87,
+"cues": [
+{
+"type": "action",
+"text": "Una arena de piedra. Cien Alfas en las gradas. Una voz: \"Transfórmate, omega... o muere.\"",
+"start": 0.35,
+"end": 5.6
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. CABAÑA DE REMEDIOS — DÍA",
+"start": 6.15,
+"end": 7.25
+},
+{
+"type": "action",
+"text": "Alba, nerviosa, bebe un brebaje que sabe a ceniza.",
+"start": 7.25,
+"end": 10.72
+},
+{
+"type": "dialogue",
+"text": "Esto te limpiará el acónito de la sangre. Pero solo funcionará si tú quieres despertar a la loba.",
+"start": 11.02,
+"end": 17.7,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y si no despierta?",
+"start": 17.92,
+"end": 19.23,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Despertará. La pregunta es si sobrevivirás tú a lo que eres.",
+"start": 19.45,
+"end": 24.48,
+"speaker": "REMEDIOS",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. ARENA DEL CONSEJO — MEDIANOCHE",
+"start": 24.95,
+"end": 26.05
+},
+{
+"type": "action",
+"text": "Luna llena. Gradas llenas de Alfas y sus manadas. Leo y Vanesa en primera fila, junto a Rodrigo. Darío, en el palco real, de pie, con la mandíbula tensa.",
+"start": 26.05,
+"end": 31.55
+},
+{
+"type": "action",
+"text": "Alba entra en la arena, descalza, con el vestido blanco. Murmullos y abucheos.",
+"start": 31.85,
+"end": 36.59
+},
+{
+"type": "dialogue",
+"text": "¡Consejo! Esta chica volvió roja la luna. ¡Es una bruja! Si es una loba, que lo demuestre.",
+"start": 36.89,
+"end": 46.37,
+"speaker": "RODRIGO",
+"paren": "en pie"
+},
+{
+"type": "dialogue",
+"text": "¡Que la quemen!",
+"start": 46.59,
+"end": 47.46,
+"speaker": "VANESA",
+"paren": "gritando"
+},
+{
+"type": "action",
+"text": "Alba se arrodilla en el centro. Cierra los ojos. Nada. Pasa un minuto. Las risas crecen.",
+"start": 47.68,
+"end": 52.88
+},
+{
+"type": "dialogue",
+"text": "¿Lo veis? ¡Nada! ¡Ejecutadla!",
+"start": 53.18,
+"end": 57.61,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Dos verdugos entran en la arena con lanzas de plata.",
+"start": 57.83,
+"end": 61.4
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. ARENA — CONTINUO",
+"start": 61.95,
+"end": 63.05
+},
+{
+"type": "action",
+"text": "Alba, aterrada, mira hacia el palco. Darío salta la barandilla, aterriza en la arena y se pone delante de ella.",
+"start": 63.05,
+"end": 68.55
+},
+{
+"type": "dialogue",
+"text": "El que la toque, muere.",
+"start": 68.85,
+"end": 70.48,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡La ley del Consejo está por encima incluso del Rey!",
+"start": 70.7,
+"end": 74.02,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío le coge la cara a Alba entre las manos.",
+"start": 74.24,
+"end": 77.48
+},
+{
+"type": "dialogue",
+"text": "No busques el dolor. Busca lo que eres. Tu madre está en ti.",
+"start": 77.78,
+"end": 83.58,
+"speaker": "DARÍO",
+"paren": "en voz baja"
+},
+{
+"type": "action",
+"text": "Alba cierra los ojos. Escucha, muy lejos, una nana que su madre le cantaba de bebé. Una voz de mujer: \"Despierta, mi luna.\"",
+"start": 83.8,
+"end": 89.3
+},
+{
+"type": "action",
+"text": "Sus ojos se abren: plata pura.",
+"start": 89.6,
+"end": 92.17
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. ARENA — CONTINUO",
+"start": 92.72,
+"end": 93.82
+},
+{
+"type": "action",
+"text": "Un viento helado barre la arena. Las antorchas se apagan. El cuerpo de Alba se arquea, brilla, cambia.",
+"start": 93.82,
+"end": 99.32
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 99.87,
+"end": 100.97
+},
+{
+"type": "action",
+"text": "Donde estaba Alba, ahora hay una loba blanca gigantesca, más grande que cualquier Alfa, con un aura plateada y ojos que brillan como la luna.",
+"start": 100.97,
+"end": 106.47
+},
+{
+"type": "action",
+"text": "Un silencio absoluto. Uno a uno, todos los lobos de las gradas bajan la cabeza y se arrodillan, sin poder evitarlo. Leo. Vanesa. Hasta Rodrigo, temblando.",
+"start": 106.77,
+"end": 112.27
+},
+{
+"type": "action",
+"text": "Todos... menos Darío, que cae de rodillas con un grito de dolor, agarrándose el pecho, como si algo dentro de él se estuviera rompiendo.",
+"start": 112.57,
+"end": 118.07
+}
+]
+}

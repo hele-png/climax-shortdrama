@@ -1,0 +1,187 @@
+{
+"slug": "esposa-del-mar",
+"ep": 2,
+"duration": 120.61,
+"audio": "media/esposa-del-mar/ep02.m4a",
+"cliff": 105.67,
+"cues": [
+{
+"type": "action",
+"text": "Una lápida: \"LUCÍA FERRER. 1998-2023. Esposa amada.\" Una mano con uñas rojas la acaricia. \"Amada. Qué gracia.\"",
+"start": 0.35,
+"end": 8.83
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. ÁTICO DE MATEO RÍOS, MADRID — NOCHE",
+"start": 9.38,
+"end": 10.48
+},
+{
+"type": "action",
+"text": "Ventanales sobre la ciudad. Una mujer de espaldas, melena negra y traje blanco: LUCÍA, irreconocible. En la tele, un informativo.",
+"start": 10.48,
+"end": 15.98
+},
+{
+"type": "screen",
+"text": "Álvaro Saavedra anuncia su boda con Carla Ferrer, hermana de su difunta esposa.",
+"start": 16.28,
+"end": 21.2
+},
+{
+"type": "action",
+"text": "En la tele, Carla sonríe a cámara y se toca el cuello: lleva el collar de esmeralda.",
+"start": 21.5,
+"end": 26.68
+},
+{
+"type": "dialogue",
+"text": "El collar de mi madre. Lo lleva puesto en la tele.",
+"start": 26.98,
+"end": 30.79,
+"speaker": "LUCÍA",
+"paren": "aprieta la copa hasta que se raja"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — FLASHBACK — INT. HOSPITAL DE CÁDIZ — DÍA",
+"start": 31.26,
+"end": 32.36
+},
+{
+"type": "action",
+"text": "Lucía, demacrada, despierta conectada a máquinas. Un MÉDICO evita mirarla.",
+"start": 32.36,
+"end": 36.93
+},
+{
+"type": "dialogue",
+"text": "Estuvo cuatro meses en coma, señora. Lo siento. El bebé no sobrevivió.",
+"start": 37.23,
+"end": 43.38,
+"speaker": "MÉDICO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Lucía grita sin voz. Fundido a blanco.",
+"start": 43.6,
+"end": 46.52
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. ÁTICO DE MATEO — PRESENTE",
+"start": 47.07,
+"end": 48.17
+},
+{
+"type": "action",
+"text": "MATEO RÍOS entra. Abrigo gris, cicatriz en la ceja. Deja sobre la mesa un pasaporte.",
+"start": 48.17,
+"end": 53.19
+},
+{
+"type": "dialogue",
+"text": "Valeria Montes. Treinta y un años. Directora de inversiones de Ríos Capital. Tu nueva vida.",
+"start": 53.49,
+"end": 62.21,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Por qué me ayudas? Llevas un año haciéndolo y nunca me lo has dicho.",
+"start": 62.43,
+"end": 67.14,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque los Saavedra me deben algo. Y tú eres la única que puede cobrarlo.",
+"start": 67.36,
+"end": 72.46,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "La naviera está en quiebra.",
+"start": 72.68,
+"end": 74.4,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Y mañana necesitan 200 millones. Los vas a llevar tú. Entrarás por la puerta grande de la casa de tu asesino.",
+"start": 74.62,
+"end": 83.19,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Lucía coge el pasaporte. Se mira en el cristal: pelo negro, labios rojos, mirada de hielo.",
+"start": 83.41,
+"end": 88.7
+},
+{
+"type": "dialogue",
+"text": "Lucía Ferrer se ahogó. (Pausa.) Valeria Montes viene a quemarlo todo.",
+"start": 89.0,
+"end": 93.72,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. ÁTICO — MOMENTOS DESPUÉS",
+"start": 94.19,
+"end": 95.29
+},
+{
+"type": "action",
+"text": "Mateo se gira para irse. Se detiene.",
+"start": 95.29,
+"end": 98.13
+},
+{
+"type": "dialogue",
+"text": "Una cosa más. Cuando te saqué del agua... no estabas sola en esa playa.",
+"start": 98.43,
+"end": 103.78,
+"speaker": "MATEO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Qué quieres decir?",
+"start": 104.0,
+"end": 105.2,
+"speaker": "LUCÍA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 105.67,
+"end": 106.77
+},
+{
+"type": "action",
+"text": "Mateo le tiende una foto antigua de vigilancia: Elvira Saavedra, la suegra, saliendo de noche del hospital de Cádiz... con una manta de bebé en brazos.",
+"start": 106.77,
+"end": 112.27
+},
+{
+"type": "dialogue",
+"text": "Esta foto es de la semana en que te dijeron que tu hijo había muerto.",
+"start": 112.57,
+"end": 116.19,
+"speaker": "MATEO",
+"paren": ""
+}
+]
+}

@@ -1,0 +1,209 @@
+{
+"slug": "repartidor-heredero",
+"ep": 4,
+"duration": 121.81,
+"audio": "media/repartidor-heredero/ep04.m4a",
+"cliff": 98.74,
+"cues": [
+{
+"type": "action",
+"text": "Las pantallas de toda la oficina se ponen en rojo: \"SISTEMA BLOQUEADO\". Un millón de euros por minuto.",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. PLANTA 12 — CONTINUO DEL EP. 3",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Marina se acerca a Daniel con una sonrisa venenosa.",
+"start": 7.5,
+"end": 11.02
+},
+{
+"type": "dialogue",
+"text": "¿Me estás siguiendo? Qué triste, Daniel.",
+"start": 11.32,
+"end": 14.62,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Trabajo aquí.",
+"start": 14.84,
+"end": 15.73,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Haciendo fotocopias? Te pega. (A Bruno.) Cariño, ¿puedes despedirle? Me da mal rollo.",
+"start": 15.95,
+"end": 23.2,
+"speaker": "MARINA",
+"paren": "riéndose"
+},
+{
+"type": "dialogue",
+"text": "Mañana mismo. Hoy que sufra un poco.",
+"start": 23.42,
+"end": 26.85,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. PLANTA 12 — DÍA SIGUIENTE",
+"start": 27.32,
+"end": 28.42
+},
+{
+"type": "action",
+"text": "Pánico. Todos los ordenadores bloqueados. Una alarma. Un TÉCNICO, desesperado.",
+"start": 28.42,
+"end": 33.16
+},
+{
+"type": "dialogue",
+"text": "¡Es la subasta del puerto! Si no enviamos la oferta en diez minutos, la perdemos. ¡Trescientos millones!",
+"start": 33.46,
+"end": 40.92,
+"speaker": "TÉCNICO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Arreglad esto o estáis todos despedidos!",
+"start": 41.14,
+"end": 43.42,
+"speaker": "BRUNO",
+"paren": "gritando"
+},
+{
+"type": "action",
+"text": "Daniel se acerca a un ordenador olvidado en el archivo del sótano, que no está conectado a la red. Teclea con rapidez.",
+"start": 43.64,
+"end": 49.14
+},
+{
+"type": "dialogue",
+"text": "¿Qué haces?",
+"start": 49.44,
+"end": 50.36,
+"speaker": "IRENE",
+"paren": "llegando a su lado"
+},
+{
+"type": "dialogue",
+"text": "El sistema está caído, pero la oferta se puede enviar en papel firmado ante notario por fax. Nadie usa fax desde 2005. Este edificio aún tiene uno.",
+"start": 50.58,
+"end": 61.27,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Daniel redacta, imprime, Irene firma con el sello de dirección. Fax. Pitido de confirmación. Treinta segundos antes del plazo.",
+"start": 61.49,
+"end": 66.99
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. PLANTA 12 — MINUTOS DESPUÉS",
+"start": 67.54,
+"end": 68.64
+},
+{
+"type": "action",
+"text": "Llamada del puerto: oferta recibida. Bruno se lleva el mérito.",
+"start": 68.64,
+"end": 72.66
+},
+{
+"type": "dialogue",
+"text": "¡Lo he resuelto yo! ¡Aplausos!",
+"start": 72.96,
+"end": 76.07,
+"speaker": "BRUNO",
+"paren": "a todos"
+},
+{
+"type": "action",
+"text": "Marina le besa. Daniel, al fondo, sonríe. Irene se acerca.",
+"start": 76.29,
+"end": 80.13
+},
+{
+"type": "dialogue",
+"text": "Acabas de salvar trescientos millones y él se lleva los aplausos. ¿No te molesta?",
+"start": 80.43,
+"end": 86.03,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Las personas como él siempre cobran antes. Pero pagan con intereses.",
+"start": 86.25,
+"end": 91.12,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. SÓTANO — NOCHE",
+"start": 91.59,
+"end": 92.69
+},
+{
+"type": "action",
+"text": "Irene se queda sola recogiendo. Ve en el suelo una cartera vieja: la de Daniel. Se cae al abrirla. Una tarjeta negra rueda por el suelo.",
+"start": 92.69,
+"end": 98.19
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 98.74,
+"end": 99.84
+},
+{
+"type": "action",
+"text": "Irene la recoge. Tarjeta de titanio negro: \"ALTAMIRA INFINITE — Titular: D. ALTAMIRA\".",
+"start": 99.84,
+"end": 104.95
+},
+{
+"type": "action",
+"text": "Irene se queda sin aliento.",
+"start": 105.25,
+"end": 107.68
+},
+{
+"type": "dialogue",
+"text": "Solo existen dos tarjetas como esta. Una era de Don Ernesto...",
+"start": 107.98,
+"end": 112.94,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Detrás de ella, la voz de Daniel:",
+"start": 113.16,
+"end": 115.86
+},
+{
+"type": "dialogue",
+"text": "Y la otra es mía.",
+"start": 116.16,
+"end": 117.39,
+"speaker": "DANIEL",
+"paren": ""
+}
+]
+}

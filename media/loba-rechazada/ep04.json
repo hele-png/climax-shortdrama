@@ -1,0 +1,205 @@
+{
+"slug": "loba-rechazada",
+"ep": 4,
+"duration": 128.88,
+"audio": "media/loba-rechazada/ep04.m4a",
+"cliff": 104.48,
+"cues": [
+{
+"type": "action",
+"text": "Alba intenta transformarse. Grita. Se arquea. Nada. \"¡No tengo loba! ¿Cuántas veces tengo que decirlo?\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — EXT. PATIO DE ENTRENAMIENTO DEL CASTILLO — AMANECER",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Nieve fina. Darío, en camisa negra, la observa con los brazos cruzados.",
+"start": 7.5,
+"end": 11.93
+},
+{
+"type": "dialogue",
+"text": "Tienes loba. Está dormida. La han tenido sedada toda tu vida.",
+"start": 12.23,
+"end": 17.72,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Sedada?",
+"start": 17.94,
+"end": 18.75,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Acónito. En pequeñas dosis, en la comida. Durante años. ¿Quién te cocinaba en Sierra Negra?",
+"start": 18.97,
+"end": 26.97,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Comía las sobras de la casa del Alfa.",
+"start": 27.19,
+"end": 29.57,
+"speaker": "ALBA",
+"paren": "en un susurro"
+},
+{
+"type": "action",
+"text": "Silencio. Darío aprieta la mandíbula.",
+"start": 29.79,
+"end": 32.67
+},
+{
+"type": "dialogue",
+"text": "Otra vez. Busca el dolor del rechazo. Es lo único que la ha despertado.",
+"start": 32.97,
+"end": 38.9,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Alba cierra los ojos. Recuerda a Leo gritando \"Te rechazo\". Sus ojos se encienden en plata. El suelo tiembla. Pero vuelve a caer de rodillas.",
+"start": 39.12,
+"end": 44.62
+},
+{
+"type": "dialogue",
+"text": "No puedo...",
+"start": 44.92,
+"end": 45.85,
+"speaker": "ALBA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Puedes. Solo que aún no te crees que merezcas poder.",
+"start": 46.07,
+"end": 49.98,
+"speaker": "DARÍO",
+"paren": "le tiende la mano, más suave"
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. PASILLO DEL CASTILLO — DÍA",
+"start": 50.45,
+"end": 51.55
+},
+{
+"type": "action",
+"text": "Alba, con un vestido de seda blanca, se cruza con criadas que le hacen reverencias. Una se acerca.",
+"start": 51.55,
+"end": 57.05
+},
+{
+"type": "dialogue",
+"text": "Señora, ha llegado la delegación de Sierra Negra. Vienen a jurar lealtad al Rey por la luna roja. El Alfa Rodrigo, su hijo y la futura Luna.",
+"start": 57.35,
+"end": 66.43,
+"speaker": "CRIADA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Alba se queda helada.",
+"start": 66.65,
+"end": 68.8
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. SALÓN DEL TRONO — DÍA",
+"start": 69.35,
+"end": 70.45
+},
+{
+"type": "action",
+"text": "Rodrigo, Leo y Vanesa entran y se arrodillan ante Darío. Vanesa, con un corsé rojo, sonríe con descaro.",
+"start": 70.45,
+"end": 75.95
+},
+{
+"type": "dialogue",
+"text": "Majestad, venimos a explicar lo de la luna roja. Fue culpa de una omega desterrada. Una bruja. Ya nos hemos librado de ella.",
+"start": 76.25,
+"end": 87.88,
+"speaker": "RODRIGO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Ah, sí? ¿Y cómo se llamaba esa bruja?",
+"start": 88.1,
+"end": 91.64,
+"speaker": "DARÍO",
+"paren": "aburrido"
+},
+{
+"type": "dialogue",
+"text": "Alba Rivas, majestad. Una huérfana sin loba. Seguramente los renegados ya se la habrán comido.",
+"start": 91.86,
+"end": 99.06,
+"speaker": "VANESA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Interesante.",
+"start": 99.28,
+"end": 100.24,
+"speaker": "DARÍO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Darío levanta la mano. Se abre una puerta lateral.",
+"start": 100.46,
+"end": 103.93
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 104.48,
+"end": 105.58
+},
+{
+"type": "action",
+"text": "Alba entra en el salón. Vestido de seda blanca, la melena plateada suelta, la cabeza alta. Camina hasta el trono y se coloca a la derecha de Darío. El lugar de la reina.",
+"start": 105.58,
+"end": 111.08
+},
+{
+"type": "action",
+"text": "Leo levanta la vista. Se queda sin respiración. Vanesa se pone blanca.",
+"start": 111.38,
+"end": 115.76
+},
+{
+"type": "dialogue",
+"text": "Alba, querida. Tus antiguos vecinos dicen que te han comido los lobos.",
+"start": 116.06,
+"end": 121.11,
+"speaker": "DARÍO",
+"paren": "sonriendo por primera vez"
+},
+{
+"type": "dialogue",
+"text": "Casi. Pero llegó uno más grande.",
+"start": 121.33,
+"end": 124.46,
+"speaker": "ALBA",
+"paren": "mirando a Leo"
+}
+]
+}

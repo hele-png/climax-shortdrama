@@ -1,0 +1,207 @@
+{
+"slug": "cien-dias",
+"ep": 7,
+"duration": 115.68,
+"audio": "media/cien-dias/ep07.m4a",
+"cliff": 91.59,
+"cues": [
+{
+"type": "action",
+"text": "Elena, en el despacho de Adrián a oscuras, fuerza un cajón con una horquilla.",
+"start": 0.35,
+"end": 5.11
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. MANSIÓN — DÍA",
+"start": 5.66,
+"end": 6.76
+},
+{
+"type": "action",
+"text": "Adrián llega con flores para Pablo. Elena lo mira como a un extraño.",
+"start": 6.76,
+"end": 11.05
+},
+{
+"type": "dialogue",
+"text": "¿Pasa algo?",
+"start": 11.35,
+"end": 12.24,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Conducías alguna vez por la carretera de La Coruña, Adrián?",
+"start": 12.46,
+"end": 15.79,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Él se queda quieto. Una fracción de segundo. Suficiente.",
+"start": 16.01,
+"end": 19.75
+},
+{
+"type": "dialogue",
+"text": "¿Quién te ha hablado de eso?",
+"start": 20.05,
+"end": 21.39,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Nadie. (Coge las flores.) Pablo las va a adorar.",
+"start": 21.61,
+"end": 24.64,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Se va. Adrián aprieta el puño. La cicatriz de su mano se tensa.",
+"start": 24.86,
+"end": 28.92
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. DESPACHO DE ADRIÁN — NOCHE",
+"start": 29.47,
+"end": 30.57
+},
+{
+"type": "action",
+"text": "Elena, a oscuras, abre el cajón con una horquilla. Carpetas: contratos, acciones. Y una con una etiqueta escrita a mano: \"E.R.\"",
+"start": 30.57,
+"end": 36.07
+},
+{
+"type": "action",
+"text": "La abre. Dentro, fotos suyas. Ella en la cafetería, ella saliendo del hospital, ella con Pablo en el parque. Meses atrás. Y debajo, un contrato.",
+"start": 36.37,
+"end": 41.87
+},
+{
+"type": "screen",
+"text": "CONTRATO DE MATRIMONIO — Adrián Montenegro / Elena Robles. Fecha: 12 de marzo de 2025.",
+"start": 42.17,
+"end": 50.49
+},
+{
+"type": "dialogue",
+"text": "Hace un año. Lo escribió hace un año.",
+"start": 50.79,
+"end": 54.54,
+"speaker": "ELENA",
+"paren": "en un susurro"
+},
+{
+"type": "action",
+"text": "Sigue leyendo. Una nota manuscrita grapada: \"Pagos anónimos al Hospital Infantil: 2017-2025. Total: 340.000 €.\"",
+"start": 54.76,
+"end": 60.26
+},
+{
+"type": "dialogue",
+"text": "Los tratamientos de Pablo... \"la fundación anónima\"... ¿eras tú?",
+"start": 60.56,
+"end": 65.1,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. DESPACHO — CONTINUO",
+"start": 65.57,
+"end": 66.67
+},
+{
+"type": "action",
+"text": "La luz se enciende. Adrián, en la puerta.",
+"start": 66.67,
+"end": 69.74
+},
+{
+"type": "dialogue",
+"text": "Deja eso.",
+"start": 70.04,
+"end": 70.99,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Llevas años vigilándome! ¡Pagando a mi hermano! ¿Por qué?",
+"start": 71.21,
+"end": 76.41,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque sí.",
+"start": 76.63,
+"end": 77.38,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¡Eso no es una respuesta! ¿Tuviste algo que ver con la muerte de mi padre?",
+"start": 77.6,
+"end": 82.5,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Silencio. Adrián se acerca. Le quita la carpeta con suavidad.",
+"start": 82.72,
+"end": 86.7
+},
+{
+"type": "dialogue",
+"text": "Me pediste que no te mintiera. Así que no te voy a contestar.",
+"start": 87.0,
+"end": 91.12,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 91.59,
+"end": 92.69
+},
+{
+"type": "action",
+"text": "Él sale. Elena se queda sola. En el suelo, una foto se ha caído de la carpeta. La recoge.",
+"start": 92.69,
+"end": 97.94
+},
+{
+"type": "action",
+"text": "Es una foto de su padre, joven, sonriendo... abrazado a la mujer del retrato del tercer piso.",
+"start": 98.24,
+"end": 103.67
+},
+{
+"type": "action",
+"text": "Detrás, escrito a mano: \"Javier y Clara. La Coruña, 2001.\"",
+"start": 103.97,
+"end": 107.8
+},
+{
+"type": "dialogue",
+"text": "¿Clara? Mi madre se llamaba Lucía.",
+"start": 108.1,
+"end": 111.26,
+"speaker": "ELENA",
+"paren": ""
+}
+]
+}

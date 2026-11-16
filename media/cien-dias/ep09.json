@@ -1,0 +1,205 @@
+{
+"slug": "cien-dias",
+"ep": 9,
+"duration": 131.32,
+"audio": "media/cien-dias/ep09.m4a",
+"cliff": 113.87,
+"cues": [
+{
+"type": "action",
+"text": "Iker proyecta el contrato en la pared del comedor: \"Mi hermano no se ha casado. Ha comprado una esposa.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. COMEDOR DE LA MANSIÓN — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Toda la familia Montenegro, el NOTARIO, Bianca. En la pantalla, las cláusulas del contrato. Murmullos de escándalo.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "\"Cien días a cambio de ochenta mil euros.\" Un matrimonio falso para engañar al testamento de papá. Notario, esto lo anula todo, ¿no?",
+"start": 13.3,
+"end": 23.41,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Si se demuestra que el matrimonio es fraudulento... la presidencia pasaría a usted, señor Iker.",
+"start": 23.63,
+"end": 28.6,
+"speaker": "NOTARIO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián no dice nada. Elena se pone de pie.",
+"start": 28.82,
+"end": 31.93
+},
+{
+"type": "dialogue",
+"text": "Es verdad. Firmé un contrato. Por mi hermano. (Mira a Adrián.) Pero hay algo que ese papel no dice.",
+"start": 32.23,
+"end": 39.71,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Bianca pone el vídeo del beso en el móvil y lo gira hacia todos.",
+"start": 39.93,
+"end": 44.04
+},
+{
+"type": "dialogue",
+"text": "¿Esto?",
+"start": 44.34,
+"end": 44.98,
+"speaker": "BIANCA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Eso. Que me he enamorado de él. Así que este matrimonio ya no es falso, Iker. Es lo único verdadero de esta casa.",
+"start": 45.2,
+"end": 54.93,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Silencio. Adrián la mira, desarmado. El notario carraspea.",
+"start": 55.15,
+"end": 58.98
+},
+{
+"type": "dialogue",
+"text": "Si hay sentimiento real... el matrimonio es válido.",
+"start": 59.28,
+"end": 62.15,
+"speaker": "NOTARIO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Iker aprieta la copa hasta romperla.",
+"start": 62.37,
+"end": 65.21
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. TERRAZA — MOMENTOS DESPUÉS",
+"start": 65.76,
+"end": 66.86
+},
+{
+"type": "action",
+"text": "Elena sale tras Adrián, que se ha ido sin una palabra.",
+"start": 66.86,
+"end": 70.52
+},
+{
+"type": "dialogue",
+"text": "¡Te acabo de salvar la empresa! ¿Y te vas?",
+"start": 70.82,
+"end": 74.31,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No deberías haberlo dicho.",
+"start": 74.53,
+"end": 76.21,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Por qué? ¿Porque es la cláusula siete? ¡Me da igual el dinero!",
+"start": 76.43,
+"end": 81.85,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque no puedes quererme. No después de lo que voy a decirte.",
+"start": 82.07,
+"end": 86.29,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Adrián se gira. Tiene los ojos llenos de lágrimas.",
+"start": 86.51,
+"end": 89.98
+},
+{
+"type": "dialogue",
+"text": "La foto que te enseñó Iker es real. La noche del 14 de octubre de 2016, en la carretera de La Coruña, un coche negro chocó contra el de tu padre y se dio a la fuga.",
+"start": 90.28,
+"end": 100.9,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. TERRAZA — CONTINUO",
+"start": 101.37,
+"end": 102.47
+},
+{
+"type": "dialogue",
+"text": "No...",
+"start": 102.47,
+"end": 103.19,
+"speaker": "ELENA",
+"paren": "sin voz"
+},
+{
+"type": "dialogue",
+"text": "Te elegí porque te debía una vida. Pagué lo de Pablo porque le debía un padre. Escribí ese contrato porque era la única forma de cuidarte sin que me odiaras.",
+"start": 103.41,
+"end": 113.4,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 113.87,
+"end": 114.97
+},
+{
+"type": "dialogue",
+"text": "Yo conducía el coche que mató a tu padre, Elena.",
+"start": 114.97,
+"end": 117.9,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Elena da un paso atrás. Otro. Se quita el anillo de esmeralda y lo deja caer al suelo.",
+"start": 118.12,
+"end": 123.23
+},
+{
+"type": "action",
+"text": "Detrás de una cortina, Iker escucha. Y sonríe.",
+"start": 123.53,
+"end": 126.82
+}
+]
+}

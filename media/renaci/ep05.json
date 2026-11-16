@@ -1,0 +1,249 @@
+{
+"slug": "renaci",
+"ep": 5,
+"duration": 128.74,
+"audio": "media/renaci/ep05.m4a",
+"cliff": 104.69,
+"cues": [
+{
+"type": "action",
+"text": "Martina, en el parque de bomberos, delante de todo el turno: \"Gabriel Ferrán, cásate conmigo.\"",
+"start": 0.35,
+"end": 5.82
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. PASILLO DEL HOSPITAL — CONTINUO DEL EP. 4",
+"start": 6.37,
+"end": 7.47
+},
+{
+"type": "action",
+"text": "Martina no puede responder. Gabriel, incómodo, se pone de pie.",
+"start": 7.47,
+"end": 11.49
+},
+{
+"type": "dialogue",
+"text": "Perdona. No sé por qué he dicho eso.",
+"start": 11.79,
+"end": 14.88,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque es verdad.",
+"start": 15.1,
+"end": 16.29,
+"speaker": "MARTINA",
+"paren": "en voz baja"
+},
+{
+"type": "action",
+"text": "Gabriel la mira, desconcertado. Le suena la emisora. Se va corriendo.",
+"start": 16.51,
+"end": 20.84
+},
+{
+"type": "scene",
+"text": "ESC. 2 — EXT. PARQUE DE BOMBEROS — DÍA SIGUIENTE",
+"start": 21.39,
+"end": 22.49
+},
+{
+"type": "action",
+"text": "Bomberos lavando el camión. Martina aparece, en vestido burdeos, decidida. Gabriel la ve y deja caer la manguera.",
+"start": 22.49,
+"end": 27.99
+},
+{
+"type": "dialogue",
+"text": "Ferrán, la heredera de los Olmedo pregunta por ti. ¿Qué has hecho?",
+"start": 28.29,
+"end": 32.47,
+"speaker": "COMPAÑERO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Gabriel, necesito hablar contigo.",
+"start": 32.69,
+"end": 35.04,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Aquí estoy.",
+"start": 35.26,
+"end": 36.19,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Necesito que te cases conmigo.",
+"start": 36.41,
+"end": 38.41,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Los bomberos se quedan petrificados. Uno silba.",
+"start": 38.63,
+"end": 41.97
+},
+{
+"type": "dialogue",
+"text": "¿Perdona?",
+"start": 42.27,
+"end": 42.95,
+"speaker": "GABRIEL",
+"paren": "rojo"
+},
+{
+"type": "dialogue",
+"text": "Mi padre va a firmar un nuevo testamento. Si estoy casada, la bodega es mía y nadie puede tocarla. Hugo quiere la bodega. Y yo... (le tiembla la voz) yo quiero a alguien en quien pueda confiar.",
+"start": 43.17,
+"end": 55.81,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "No me conoces, Martina.",
+"start": 56.03,
+"end": 57.83,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Te conozco mejor que nadie.",
+"start": 58.05,
+"end": 59.76,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — EXT. PARQUE DE BOMBEROS — CONTINUO",
+"start": 60.23,
+"end": 61.33
+},
+{
+"type": "action",
+"text": "Gabriel la lleva aparte. Se acerca mucho.",
+"start": 61.33,
+"end": 64.39
+},
+{
+"type": "dialogue",
+"text": "¿Es por Hugo? ¿Te ha hecho algo?",
+"start": 64.69,
+"end": 67.38,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Todavía no. Pero lo hará.",
+"start": 67.6,
+"end": 70.3,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Vale.",
+"start": 70.52,
+"end": 71.11,
+"speaker": "GABRIEL",
+"paren": "la mira largo rato"
+},
+{
+"type": "dialogue",
+"text": "¿Vale?",
+"start": 71.33,
+"end": 72.02,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Vale. Me caso contigo.",
+"start": 72.24,
+"end": 74.84,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Ella se lanza a abrazarle. Él, rígido, la abraza con cuidado, como si fuera de cristal.",
+"start": 75.06,
+"end": 80.22
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. PLAZA DEL PUEBLO — TARDE",
+"start": 80.77,
+"end": 81.87
+},
+{
+"type": "action",
+"text": "Fiesta del patrón. Todo el pueblo. Hugo sube al escenario con un micrófono, con Noelia del brazo.",
+"start": 81.87,
+"end": 87.37
+},
+{
+"type": "dialogue",
+"text": "¡Vecinos! Tengo dos noticias. La primera: Noelia y yo nos casamos.",
+"start": 87.67,
+"end": 94.31,
+"speaker": "HUGO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Aplausos. Martina, entre la gente, no se sorprende.",
+"start": 94.53,
+"end": 98.05
+},
+{
+"type": "dialogue",
+"text": "Y la segunda... (se pone a llorar) ...es muy difícil de decir. Pero tengo que hacerlo. Por Ramón.",
+"start": 98.35,
+"end": 104.22,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 104.69,
+"end": 105.79
+},
+{
+"type": "action",
+"text": "Noelia levanta un frasco de pastillas.",
+"start": 105.79,
+"end": 108.72
+},
+{
+"type": "dialogue",
+"text": "Encontré esto en el bolso de Martina. Son las pastillas falsas que casi matan a su padre. (Llorando, mirándola.) ¿Por qué lo hiciste, Marti? ¿Por la herencia?",
+"start": 109.02,
+"end": 118.73,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Todo el pueblo se gira hacia Martina. A lo lejos, se oyen las sirenas de la Guardia Civil.",
+"start": 118.95,
+"end": 124.24
+}
+]
+}

@@ -1,0 +1,181 @@
+{
+"slug": "cien-dias",
+"ep": 4,
+"duration": 99.89,
+"audio": "media/cien-dias/ep04.m4a",
+"cliff": 83.43,
+"cues": [
+{
+"type": "action",
+"text": "3:00 de la madrugada. Un piano suena en una casa donde nadie toca el piano.",
+"start": 0.35,
+"end": 4.96
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. DORMITORIO DE ELENA — NOCHE",
+"start": 5.51,
+"end": 6.61
+},
+{
+"type": "action",
+"text": "Elena despierta. Una melodía triste baja por las escaleras. Se pone una bata y sale descalza.",
+"start": 6.61,
+"end": 12.04
+},
+{
+"type": "dialogue",
+"text": "Cláusula cinco. No entres. No entres, Elena.",
+"start": 12.34,
+"end": 17.79,
+"speaker": "ELENA",
+"paren": "en susurros"
+},
+{
+"type": "action",
+"text": "Entra.",
+"start": 18.01,
+"end": 19.49
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. ESCALERA PRINCIPAL — NOCHE",
+"start": 20.04,
+"end": 21.14
+},
+{
+"type": "action",
+"text": "Sube al tercer piso con la linterna del móvil. Pasillo largo, retratos de la familia Montenegro. La música viene de una puerta al fondo. Está entreabierta. La música se detiene de golpe.",
+"start": 21.14,
+"end": 26.64
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. HABITACIÓN DEL TERCER PISO — CONTINUO",
+"start": 27.19,
+"end": 28.29
+},
+{
+"type": "action",
+"text": "Polvo. Un piano de cola cubierto con una sábana, a medio destapar. Nadie. Sobre el piano, una vela recién apagada todavía echa humo.",
+"start": 28.29,
+"end": 33.79
+},
+{
+"type": "dialogue",
+"text": "¿Hola?",
+"start": 34.09,
+"end": 34.73,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Ilumina las paredes. Dibujos infantiles. Una cuna antigua. Y en el centro, tapado con una tela negra, un cuadro enorme. Elena tira de la tela.",
+"start": 34.95,
+"end": 40.45
+},
+{
+"type": "action",
+"text": "Un retrato al óleo de una mujer pelirroja, ojos gris azulado, pecas... y al cuello, un colgante con forma de luna.",
+"start": 40.75,
+"end": 46.25
+},
+{
+"type": "action",
+"text": "Elena se lleva la mano a su propio colgante. Es idéntico.",
+"start": 46.55,
+"end": 50.34
+},
+{
+"type": "dialogue",
+"text": "Esa... soy yo.",
+"start": 50.64,
+"end": 52.13,
+"speaker": "ELENA",
+"paren": "temblando"
+},
+{
+"type": "action",
+"text": "Se acerca. En la esquina del cuadro, una fecha: \"1999\". Ella nació en 2002.",
+"start": 52.35,
+"end": 56.96
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. HABITACIÓN DEL TERCER PISO — CONTINUO",
+"start": 57.51,
+"end": 58.61
+},
+{
+"type": "action",
+"text": "Una mano le agarra la muñeca por detrás. Elena grita. Adrián. Furioso. En camiseta, con los ojos rojos de no dormir.",
+"start": 58.61,
+"end": 64.11
+},
+{
+"type": "dialogue",
+"text": "¿Qué parte de la cláusula cinco no has entendido?",
+"start": 64.41,
+"end": 66.93,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Quién es esa mujer? ¡Lleva mi colgante! ¡Tiene mi cara!",
+"start": 67.15,
+"end": 72.2,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Fuera de aquí.",
+"start": 72.42,
+"end": 73.34,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Era tu piano? ¿Tocabas tú?",
+"start": 73.56,
+"end": 76.27,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Yo no toco el piano desde que tenía doce años.",
+"start": 76.49,
+"end": 79.1,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Los dos se miran. Si no ha sido él... ¿quién tocaba?",
+"start": 79.32,
+"end": 82.88
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 83.43,
+"end": 84.53
+},
+{
+"type": "action",
+"text": "Elena baja la vista. En el polvo del suelo hay huellas de pies descalzos. Pequeñas. De mujer. Que no son las suyas.",
+"start": 84.53,
+"end": 90.03
+},
+{
+"type": "action",
+"text": "Y se dirigen hacia el armario empotrado... cuya puerta se está cerrando muy despacio.",
+"start": 90.33,
+"end": 95.39
+}
+]
+}

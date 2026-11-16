@@ -1,0 +1,241 @@
+{
+"slug": "renaci",
+"ep": 4,
+"duration": 121.33,
+"audio": "media/renaci/ep04.m4a",
+"cliff": 107.45,
+"cues": [
+{
+"type": "action",
+"text": "Sirena de ambulancia. Martina, sobre la camilla de su padre: \"Lo he cambiado todo... y ha venido antes.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. URGENCIAS, HOSPITAL DE LOGROÑO — NOCHE",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Médicos llevándose a Ramón. Martina, temblando, se queda en el pasillo.",
+"start": 7.5,
+"end": 11.93
+},
+{
+"type": "dialogue",
+"text": "Arritmia grave. Ha tenido suerte de que estuviéramos cerca. Lo estabilizamos, pero las próximas 24 horas son críticas.",
+"start": 12.23,
+"end": 21.09,
+"speaker": "MÉDICO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Qué la ha provocado?",
+"start": 21.31,
+"end": 22.58,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Un exceso de digoxina en sangre. Como si llevara semanas tomando el doble de dosis.",
+"start": 22.8,
+"end": 28.36,
+"speaker": "MÉDICO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina cierra los ojos. Semanas. Noelia lleva semanas haciéndolo.",
+"start": 28.58,
+"end": 32.78
+},
+{
+"type": "dialogue",
+"text": "Evité el domingo. Y el futuro vino por la puerta de atrás.",
+"start": 33.08,
+"end": 37.43,
+"speaker": "MARTINA",
+"paren": "V.O."
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. PASILLO DEL HOSPITAL — MÁS TARDE",
+"start": 37.9,
+"end": 39.0
+},
+{
+"type": "action",
+"text": "Llega el resultado del laboratorio al móvil de Martina.",
+"start": 39.0,
+"end": 42.7
+},
+{
+"type": "screen",
+"text": "Muestra: comprimidos etiquetados como 'Bisoprolol'. Contenido real: digoxina 0,5 mg.",
+"start": 43.0,
+"end": 51.21
+},
+{
+"type": "dialogue",
+"text": "Lo tengo. Lo tengo, Noelia.",
+"start": 51.51,
+"end": 54.57,
+"speaker": "MARTINA",
+"paren": "para sí"
+},
+{
+"type": "action",
+"text": "Noelia y Hugo aparecen por el pasillo, con cara de preocupación.",
+"start": 54.79,
+"end": 58.9
+},
+{
+"type": "dialogue",
+"text": "¡Marti! ¿Cómo está? ¡Hemos venido corriendo!",
+"start": 59.2,
+"end": 63.63,
+"speaker": "NOELIA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Está vivo. (Mirándola fijamente.) A pesar de todo.",
+"start": 63.85,
+"end": 66.72,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Noelia le coge las manos. Martina se las suelta.",
+"start": 66.94,
+"end": 70.32
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. MÁQUINA DE CAFÉ — NOCHE",
+"start": 70.87,
+"end": 71.97
+},
+{
+"type": "action",
+"text": "Martina, sola, sin fuerzas. Alguien deja un café a su lado.",
+"start": 71.97,
+"end": 75.86
+},
+{
+"type": "dialogue",
+"text": "Solo, sin azúcar. Como siempre.",
+"start": 76.16,
+"end": 79.58,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina se gira. Gabriel, con la chaqueta de bombero todavía puesta, el pelo rapado, los ojos azules. Las quemaduras en el dorso de su mano derecha.",
+"start": 79.8,
+"end": 85.3
+},
+{
+"type": "action",
+"text": "Martina se queda paralizada. Lo último que vio en su vida fueron esos ojos.",
+"start": 85.6,
+"end": 90.21
+},
+{
+"type": "dialogue",
+"text": "¿Cómo sabes cómo tomo el café?",
+"start": 90.51,
+"end": 92.3,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Vivimos en el mismo pueblo veinte años, Martina.",
+"start": 92.52,
+"end": 95.52,
+"speaker": "GABRIEL",
+"paren": "dudando"
+},
+{
+"type": "dialogue",
+"text": "Nunca hemos tomado un café juntos.",
+"start": 95.74,
+"end": 98.08,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Ya.",
+"start": 98.3,
+"end": 98.83,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Martina le coge la mano quemada sin pensar. Le acaricia la cicatriz. Los ojos se le llenan de lágrimas.",
+"start": 99.05,
+"end": 104.55
+},
+{
+"type": "dialogue",
+"text": "¿Te duele?",
+"start": 104.85,
+"end": 105.62,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Hace años que no.",
+"start": 105.84,
+"end": 106.98,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 107.45,
+"end": 108.55
+},
+{
+"type": "action",
+"text": "Gabriel la mira, muy serio. Le aparta la mano despacio.",
+"start": 108.55,
+"end": 112.25
+},
+{
+"type": "dialogue",
+"text": "¿Por qué me miras así?",
+"start": 112.55,
+"end": 113.78,
+"speaker": "GABRIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Así cómo?",
+"start": 114.0,
+"end": 114.91,
+"speaker": "MARTINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Como si me hubieras visto morir.",
+"start": 115.13,
+"end": 116.91,
+"speaker": "GABRIEL",
+"paren": ""
+}
+]
+}

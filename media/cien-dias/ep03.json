@@ -1,0 +1,205 @@
+{
+"slug": "cien-dias",
+"ep": 3,
+"duration": 124.33,
+"audio": "media/cien-dias/ep03.m4a",
+"cliff": 99.23,
+"cues": [
+{
+"type": "action",
+"text": "Un juez: \"Puede besar a la novia.\" Adrián le da un beso en la frente. Elena, entre dientes: \"Qué romántico.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. REGISTRO CIVIL — MAÑANA",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Boda exprés. Elena, con un vestido sencillo color crema. Adrián le pone un anillo con una esmeralda enorme.",
+"start": 7.5,
+"end": 13.0
+},
+{
+"type": "dialogue",
+"text": "¿Esto es de verdad?",
+"start": 13.3,
+"end": 14.56,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Era de mi madre. Devuélvelo el día cien.",
+"start": 14.78,
+"end": 18.16,
+"speaker": "ADRIÁN",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. COMEDOR DE LA MANSIÓN MONTENEGRO — NOCHE",
+"start": 18.63,
+"end": 19.73
+},
+{
+"type": "action",
+"text": "Lámparas de araña. Elena, con un vestido de seda verde esmeralda que le ha dejado Adrián. Entra del brazo de él. Al fondo de la mesa, IKER, americana de terciopelo burdeos, se levanta sonriendo.",
+"start": 19.73,
+"end": 25.23
+},
+{
+"type": "dialogue",
+"text": "¡Mi hermano casado! ¿Dónde la has encontrado, Adrián? ¿En una app?",
+"start": 25.53,
+"end": 31.66,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "En una cafetería. Le tiré un café encima. Fue amor a primera quemadura.",
+"start": 31.88,
+"end": 38.09,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Iker se ríe de verdad. Le besa la mano a Elena más tiempo del necesario.",
+"start": 38.31,
+"end": 42.79
+},
+{
+"type": "dialogue",
+"text": "Me caes bien, cuñada. Es una pena.",
+"start": 43.09,
+"end": 46.72,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Una pena por qué?",
+"start": 46.94,
+"end": 48.2,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque las mujeres de mi hermano nunca duran.",
+"start": 48.42,
+"end": 50.93,
+"speaker": "IKER",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. COMEDOR — CONTINUO",
+"start": 51.4,
+"end": 52.5
+},
+{
+"type": "action",
+"text": "Las puertas se abren. Una mujer alta con vestido blanco y pelo negro hasta la cintura entra como si fuera la dueña. BIANCA DUARTE.",
+"start": 52.5,
+"end": 58.0
+},
+{
+"type": "dialogue",
+"text": "Perdón por llegar tarde. Me he enterado por la prensa de que te casabas, Adrián. Qué detalle no invitarme.",
+"start": 58.3,
+"end": 65.55,
+"speaker": "BIANCA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Bianca. No eres bienvenida.",
+"start": 65.77,
+"end": 68.53,
+"speaker": "ADRIÁN",
+"paren": "tenso"
+},
+{
+"type": "dialogue",
+"text": "Siempre he sido bienvenida en esta casa. Tu padre me quería como a una hija. (Mira a Elena de arriba abajo.) ¿Y esta es la sustituta?",
+"start": 68.75,
+"end": 75.98,
+"speaker": "BIANCA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Bianca coge una copa de vino tinto. Se acerca a Elena.",
+"start": 76.2,
+"end": 79.86
+},
+{
+"type": "dialogue",
+"text": "Bonito vestido. ¿Te lo ha prestado él? Era mío.",
+"start": 80.16,
+"end": 84.68,
+"speaker": "BIANCA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 4 — EXT. TERRAZA DE LA MANSIÓN — MÁS TARDE",
+"start": 85.15,
+"end": 86.25
+},
+{
+"type": "action",
+"text": "Elena sale a respirar. Bianca la sigue.",
+"start": 86.25,
+"end": 89.23
+},
+{
+"type": "dialogue",
+"text": "Mira, no sé qué tuviste con él, pero...",
+"start": 89.53,
+"end": 91.92,
+"speaker": "ELENA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Has firmado su contrato, verdad? El de las diez cláusulas. (Sonríe al ver su cara.) ¿Creías que eras la primera?",
+"start": 92.14,
+"end": 98.76,
+"speaker": "BIANCA",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 99.23,
+"end": 100.33
+},
+{
+"type": "action",
+"text": "Bianca se acerca a su oído.",
+"start": 100.33,
+"end": 102.75
+},
+{
+"type": "dialogue",
+"text": "La última chica que firmó ese contrato se llamaba Sara. Vivió en esta casa cuarenta días. Y una noche... desapareció. Nadie ha vuelto a saber de ella.",
+"start": 103.05,
+"end": 114.11,
+"speaker": "BIANCA",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Bianca se aleja. Elena levanta la vista hacia la mansión: en la ventana del tercer piso, una luz se apaga.",
+"start": 114.33,
+"end": 119.83
+}
+]
+}

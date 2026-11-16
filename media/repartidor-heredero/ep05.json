@@ -1,0 +1,203 @@
+{
+"slug": "repartidor-heredero",
+"ep": 5,
+"duration": 127.75,
+"audio": "media/repartidor-heredero/ep05.m4a",
+"cliff": 110.72,
+"cues": [
+{
+"type": "action",
+"text": "Irene, apuntándole con la tarjeta como si fuera un arma: \"O me cuentas quién eres o llamo a seguridad.\"",
+"start": 0.35,
+"end": 5.85
+},
+{
+"type": "scene",
+"text": "ESC. 1 — INT. SÓTANO — CONTINUO",
+"start": 6.4,
+"end": 7.5
+},
+{
+"type": "action",
+"text": "Daniel recupera la tarjeta con calma.",
+"start": 7.5,
+"end": 10.38
+},
+{
+"type": "dialogue",
+"text": "Estabas en la clínica, Irene. Ya sabes quién soy.",
+"start": 10.68,
+"end": 14.84,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Sé que eres su nieto. No sabía que iba en serio lo de hacerte fotocopiar. (Pausa.) ¿Por qué aguantas que Bruno te humille?",
+"start": 15.06,
+"end": 22.93,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Porque mi abuelo quería saber quién soy cuando nadie me respeta. Y yo quiero saber quién es cada uno en esta empresa cuando creen que nadie importante les mira.",
+"start": 23.15,
+"end": 31.97,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "¿Y yo? ¿Qué has descubierto de mí?",
+"start": 32.19,
+"end": 35.04,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Que eres la única que me ha preguntado si estaba bien.",
+"start": 35.26,
+"end": 38.01,
+"speaker": "DANIEL",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Silencio cómplice. Irene sonríe por primera vez.",
+"start": 38.23,
+"end": 41.61
+},
+{
+"type": "dialogue",
+"text": "Tu secreto está a salvo. Pero si te vas a quedar, necesitas otra chaqueta. La naranja me quema los ojos.",
+"start": 41.91,
+"end": 49.95,
+"speaker": "IRENE",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 2 — INT. DESPACHO DE BRUNO — NOCHE",
+"start": 50.42,
+"end": 51.52
+},
+{
+"type": "action",
+"text": "Bruno y Marina miran por el cristal a Daniel y a Irene riendo juntos.",
+"start": 51.52,
+"end": 55.86
+},
+{
+"type": "dialogue",
+"text": "Ese muerto de hambre ya está ligando con la secretaria del viejo. Quiero que desaparezca.",
+"start": 56.16,
+"end": 61.61,
+"speaker": "MARINA",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Si Irene le coge cariño, le contará cosas. Y ella sabe demasiado de mis cuentas.",
+"start": 61.83,
+"end": 68.13,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Bruno se quita el Rolex de oro. Lo mira.",
+"start": 68.35,
+"end": 71.37
+},
+{
+"type": "dialogue",
+"text": "Treinta mil euros. Suficiente para meter a alguien en la cárcel.",
+"start": 71.67,
+"end": 76.38,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "scene",
+"text": "ESC. 3 — INT. VESTUARIOS DE EMPLEADOS — NOCHE",
+"start": 76.85,
+"end": 77.95
+},
+{
+"type": "action",
+"text": "Bruno, a oscuras, fuerza la taquilla con el nombre \"D. CRUZ\". Mete el reloj dentro de la mochila de reparto. Cierra.",
+"start": 77.95,
+"end": 83.45
+},
+{
+"type": "scene",
+"text": "ESC. 4 — INT. PLANTA 12 — MAÑANA",
+"start": 84.0,
+"end": 85.1
+},
+{
+"type": "action",
+"text": "Todos trabajan. Bruno sale de su despacho gritando.",
+"start": 85.1,
+"end": 88.62
+},
+{
+"type": "dialogue",
+"text": "¡Me han robado el Rolex! ¡Nadie sale de esta planta!",
+"start": 88.92,
+"end": 92.97,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "action",
+"text": "Seguridad bloquea las puertas. Bruno se pasea entre las mesas hasta pararse ante Daniel.",
+"start": 93.19,
+"end": 98.39
+},
+{
+"type": "dialogue",
+"text": "Curioso. Ayer, cuando lo dejé en la mesa, solo había una persona por aquí. Una persona que necesita mucho dinero.",
+"start": 98.69,
+"end": 107.72,
+"speaker": "BRUNO",
+"paren": ""
+},
+{
+"type": "dialogue",
+"text": "Daniel... ¿de verdad has caído tan bajo?",
+"start": 107.94,
+"end": 110.25,
+"speaker": "MARINA",
+"paren": "fingiendo pena"
+},
+{
+"type": "scene",
+"text": "CLIFFHANGER",
+"start": 110.72,
+"end": 111.82
+},
+{
+"type": "action",
+"text": "El jefe de seguridad abre la taquilla de Daniel. Saca la mochila naranja. La vuelca sobre la mesa.",
+"start": 111.82,
+"end": 117.32
+},
+{
+"type": "action",
+"text": "El Rolex de oro cae, brillando, delante de toda la oficina.",
+"start": 117.62,
+"end": 121.66
+},
+{
+"type": "dialogue",
+"text": "Llamad a la policía.",
+"start": 121.96,
+"end": 123.33,
+"speaker": "BRUNO",
+"paren": "sonriendo"
+}
+]
+}
